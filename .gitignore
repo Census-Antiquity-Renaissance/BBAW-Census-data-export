@@ -1,0 +1,4 @@
+.idea/
+venv/
+config/env.py
+config/__pychache__
