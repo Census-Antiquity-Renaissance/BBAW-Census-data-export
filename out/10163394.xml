@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<documents>
+  <document>
+    <census-id>10180042</census-id>
+    <name>fol. 182 r</name>
+    <monuments>
+      <monument>
+        <census-id>10026231</census-id>
+        <label>Copper Coin of Cnossus (Head of Nero / Heads of Nero and Octavia, RPC I 1005) (owner: Achillino)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10180046</census-id>
+    <name>fol. 183 r</name>
+    <monuments>
+      <monument>
+        <census-id>10026231</census-id>
+        <label>Copper Coin of Cnossus (Head of Nero / Heads of Nero and Octavia, RPC I 1005) (owner: Achillino)</label>
+      </monument>
+    </monuments>
+  </document>
+</documents>
