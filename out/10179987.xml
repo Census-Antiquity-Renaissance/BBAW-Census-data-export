@@ -9,6 +9,7 @@
         <label>Sestertius of Claudius (Drusus Maior / Claudius, RIC 93) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10179990</census-id>
@@ -19,6 +20,7 @@
         <label>Sestertius of Claudius (Drusus Maior / Claudius, RIC 93) (owner: G. Romano)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10180001</census-id>
@@ -29,6 +31,7 @@
         <label>As of Tiberius (Drusus Minor / SC, RIC 45) (owner: J. Strada)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10180020</census-id>
@@ -39,6 +42,7 @@
         <label>As of Tiberius (Drusus Minor / SC, RIC 45) (owner: J. Strada)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10180010</census-id>
@@ -49,6 +53,7 @@
         <label>As of Tiberius (Drusus Minor / SC, RIC 45) (owner: J. Strada)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10181265</census-id>
@@ -59,6 +64,7 @@
         <label>Denarius of Claudius (Drusus / Equestrian Statue on Triumphal Arch, RIC 72) (owner: J. Strada)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10180037</census-id>
@@ -69,6 +75,7 @@
         <label>Copper Coin of Cnossus (Head of Nero / Heads of Nero and Octavia, RPC I 1005) (owner: Achillino)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10180061</census-id>
@@ -79,6 +86,7 @@
         <label>Sestertius of Claudius (Nero / Legend on Shield and Spear, RIC 108) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10180083</census-id>
@@ -89,6 +97,7 @@
         <label>Denarius of Claudius (Bust of Nero / Shield with Legend and Spear, RIC 79) (owner: H. Agninus)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10180133</census-id>
@@ -99,6 +108,7 @@
         <label>Denarius of Claudius (Drusus / Equestrian Statue on Triumphal Arch, RIC 72) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10180158</census-id>
@@ -109,6 +119,7 @@
         <label>Dupondius of Claudius (Antonia Augusta / Claudius, RIC 92) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10180147</census-id>
@@ -119,6 +130,7 @@
         <label>Dupondius of Claudius (Antonia Augusta / Claudius, RIC 92) (owner: J. Strada)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10180169</census-id>
@@ -129,6 +141,7 @@
         <label>Sestertius of Augustus (Tiberius / Altar, RIC 240) (owner: A. Conteschi)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10182131</census-id>
@@ -139,6 +152,7 @@
         <label>Bronze Coin of Carthage (Head of Tiberius / Livia, RPC I 754) (owner: J. Matal)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10180283</census-id>
@@ -149,6 +163,7 @@
         <label>Provincial Bronze Coin of Tiberius / Altar (RPC I 5451) (owner: F. Veniero)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10182152</census-id>
@@ -159,6 +174,15 @@
         <label>Bronze Coin of Macedonia (Head of Tiberius / Priests ploughing RPC I 1657 (owner: F. Veniero)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>In una parte.&#13;
+Tiberius habetur laeuo obtutu, apertis col-&#13;
+lo, et capite, cum adscriptione addita&#13;
+ad occyput. T. AVG</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10180256</census-id>
@@ -169,6 +193,7 @@
         <label>Bronze coin of Caesaraugusta (Tiberius / Bull, RPC I 367) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10182486</census-id>
@@ -179,6 +204,7 @@
         <label>Bronze Coin of Corinth (Melikertes and Dolphin/ Pegasus, RPC 1162) (owner: A. Agust&#237;n) </label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10181616</census-id>
@@ -189,6 +215,7 @@
         <label>Copper Coin of Cascantum (Tiberius / Bull, RPC I 425) (owner: A. Tavera) </label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10180294</census-id>
@@ -199,6 +226,7 @@
         <label>Copper coin of Caesaraugusta (Tiberius / Priest, RPC I 349) (owner: P. Ramez)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10182240</census-id>
@@ -209,6 +237,7 @@
         <label>Bronze Coin of Calagurris (Head of Tiberius/ Bull, RPC 448) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10182513</census-id>
@@ -219,6 +248,7 @@
         <label>Copper coin of Tarraco (Augustus / Legend in wreath, RPC I 220) (owner: Pedro Ramez)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10182554</census-id>
@@ -229,6 +259,7 @@
         <label>Bronze Coin of Philippi (Nero / Divus Iulius crowning Augustus, RPC 1655) (owner: G. Duchoul)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10180307</census-id>
@@ -239,6 +270,7 @@
         <label>Bronze coin of Caesaraugusta (Tiberius / Bull, RPC I 367) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10180323</census-id>
@@ -249,6 +281,7 @@
         <label>Quadrans of Claudius (Hand Holding Scales / Legend Around SC, RIC 89) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10181675</census-id>
@@ -259,6 +292,7 @@
         <label>Copper Coin of Utica (Tiberius / Livia, RPC I 733) (owner: A. Tavera)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10180352</census-id>
@@ -269,6 +303,7 @@
         <label>Dupondius of Tiberius / Shield with Laurel (RIC 39) (owner: S. Erizzo)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10180368</census-id>
@@ -279,6 +314,7 @@
         <label>Denarius of Tiberius / Female Figure (RIC 26) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10180390</census-id>
@@ -289,6 +325,7 @@
         <label>As of Tiberius / Seated Female Figure (RIC 34) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10180426</census-id>
@@ -299,6 +336,7 @@
         <label>Dupondius of Tiberius (Livia (?) as Justitia / SC, RIC 46) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10182331</census-id>
@@ -313,6 +351,7 @@
         <label>As of Tiberius (Tiberius / Veiled female figure, RIC 41) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10181254</census-id>
@@ -323,6 +362,7 @@
         <label>Dupondius of Tiberius / Caduceus (RIC 90) (owner: J. Strada)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10180451</census-id>
@@ -333,6 +373,7 @@
         <label>Sestertius of Tiberius / Legend Around SC (RIC Tiberius 48) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10182182</census-id>
@@ -343,6 +384,7 @@
         <label>Bronze Coin of Antioch (Head of Tiberius / Laurel Wreath, RPC 4272) (owner: G. Kandler)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10180468</census-id>
@@ -353,6 +395,7 @@
         <label>Sestertius of Tiberius (Augustus Seated / SC, RIC 49) (owner: A. Conteschi)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10180533</census-id>
@@ -363,6 +406,7 @@
         <label>Sestertius of Tiberius (Deified Augustus / Legend around SC, RIC 56) (owner: A. Conteschi)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10180652</census-id>
@@ -373,6 +417,7 @@
         <label>Sestertius of Tiberius (Quadriga / SC, RIC 60) (owner: A. Conteschi)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10180577</census-id>
@@ -383,6 +428,7 @@
         <label>As of Tiberius / Caduceus (RIC 53) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10180625</census-id>
@@ -393,6 +439,7 @@
         <label>Sestertius of Tiberius (Shield / SC, RIC 63) (owner: J. Fugger)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10182011</census-id>
@@ -403,6 +450,7 @@
         <label>Sestertius of Tiberius (Augustus in Elephant-Quadriga / SC, RIC 62) (owner: A. Conteschi) </label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10180779</census-id>
@@ -413,6 +461,7 @@
         <label>Sestertius of Tiberius (Temple / SC, RIC 61) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10180831</census-id>
@@ -427,6 +476,7 @@
         <label>As of Tiberius (Tiberius / Rudder and Globus, RIC Tib 58) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10180897</census-id>
@@ -437,6 +487,7 @@
         <label>As of Tiberius / Caduceus (RIC 59) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10181154</census-id>
@@ -447,6 +498,7 @@
         <label>Sestertius of Tiberius (Augustus in Elephant-Quadriga / SC, RIC 68) (owner: G. Grimani)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10181246</census-id>
@@ -457,6 +509,7 @@
         <label>Sestertius of Tiberius (Augustus in Elephant-Quadriga / SC, RIC 68) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10181888</census-id>
@@ -467,6 +520,7 @@
         <label>Bronze Coin of Caesaraugusta (Tiberius / Bull, RPC I 367) (owner: H. Agninus)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10181902</census-id>
@@ -477,6 +531,7 @@
         <label>Aureus of Tiberius / Female Figure Seated (RIC 25) (owner: J. J. Fugger)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10181370</census-id>
@@ -487,6 +542,7 @@
         <label>Aureus of Tiberius / Tiberius in Quadriga (RIC 3) (owner: Anonymous Venetian Collector)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10181945</census-id>
@@ -497,6 +553,7 @@
         <label>Bronze Coin of Corinth (Head of Tiberius / Altar, RPC 2470) (owner: A. Caro)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10182315</census-id>
@@ -511,6 +568,7 @@
         <label>Bronze Coin of Antioch (Head of Tiberius / Laurel Wreath, RPC 4274) (owner: P. Ramez)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10182051</census-id>
@@ -521,6 +579,7 @@
         <label>Bronze Coin of Alexandria (Head of Claudius / Bull, RPC I 5126) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10182566</census-id>
@@ -531,5 +590,6 @@
         <label>Bronze Coin of Sidon (Laureate head / Europa on Bull, RPC 4612) (owner: Achillino)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
 </documents>

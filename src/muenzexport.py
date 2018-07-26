@@ -6,6 +6,10 @@ import csv
 
 
 def read_record_list():
+    """
+    Read all records from a file
+    :return:
+    """
     filepath = Path(__file__).parent / ".." / "doc" / "Strada-Einzelbaende-IDs.csv"
     records = []
     with open(filepath, "r") as csvfile:
@@ -14,10 +18,6 @@ def read_record_list():
             records.append(entry)
 
     return records
-
-
-def fetch_documents(cursor, census_id, level = 2):
-    pass
 
 
 def prepare_docs(documents) -> dict:
@@ -37,7 +37,7 @@ def prepare_docs(documents) -> dict:
     return docs
 
 
-def doc_to_xml(doc_id, documents) -> etree.Element:
+def doc_to_xml(doc_id, documents, transcription_list) -> etree.Element:
     """
     Transform SQL document list to xml element
     :param doc_id:
@@ -55,6 +55,7 @@ def doc_to_xml(doc_id, documents) -> etree.Element:
     name = etree.Element("name")
     name.text = documents[0][1]
 
+    # Create container for monuments <monuments/>
     monuments = etree.Element("monuments")
     for doc in documents:
         # Create <monument/>
@@ -75,10 +76,29 @@ def doc_to_xml(doc_id, documents) -> etree.Element:
         # Append monument node into list of monuments node
         monuments.append(monument)
 
-    # Append document information and list of monuments to documents node
+    # Create container for transcriptions <transcriptions/>
+    transcriptions = etree.Element("transcriptions")
+    for script in transcription_list:
+        # create <transcription>
+        transcription = etree.Element("transcription")
+
+        # Create <inscription/>
+        inscription = etree.Element("inscription")
+        inscription.text = script
+
+        # Create <inscription type>
+        inscription_type = etree.Element("inscription-type")
+        inscription_type.text = "coin legend"
+
+        transcription.append(inscription)
+        transcription.append(inscription_type)
+        transcriptions.append(transcription)
+
+    # Append document information and list of monuments and transcriptions to documents node
     document.append(census_id)
     document.append(name)
     document.append(monuments)
+    document.append(transcriptions)
 
     return document
 
@@ -86,8 +106,8 @@ def doc_to_xml(doc_id, documents) -> etree.Element:
 def write_output(root, record_id):
     """
     Write output to file
-    :param root:
-    :return:
+    :param root: xml root
+    :return: None
     """
     filename = record_id + ".xml"
 
@@ -97,8 +117,14 @@ def write_output(root, record_id):
         outfile.write(etree.tostring(root, pretty_print=True).decode("utf-8"))
 
 
-def fetch_documents(cursor, record_id, level = 1):
-
+def fetch_documents(cursor, record_id, level=1):
+    """
+    Fetch all documents related to the parent document
+    :param cursor: Database Cursor
+    :param record_id: Parent Record ID
+    :param level: Nesting Level
+    :return: All records related to the record_id
+    """
     query = """
             SELECT DISTINCT  D2.id as "Dokument_CensusID", D2.name as "Dokument_Name", M.id as "Monument_CensusID", M.label_name as "Monument_Label"
             FROM census.cs_document D2, census.cs_monument M, census.cs_monument__document LinkTable
@@ -132,14 +158,50 @@ def fetch_documents(cursor, record_id, level = 1):
                 """
 
     query = query.format(record_id=record_id)
-
     cursor.execute(query)
-
     return cursor.fetchall()
 
 
-def main():
+def fetch_transcriptions(cursor, documents):
+    """
+    Fetch all transcriptions for a list of documents
+    :param cursor: Database cursor
+    :param documents: List of documents
+    :return: All transcriptions for all documents
+    """
+    # Create a base query
+    base_query = """
+            SELECT I.transcription
+            FROM census.cs_document_inscription as I, census.cs_document_inscription__attribute__doc_inscr_type as IType
+            WHERE I.lk_document_id = {document_id}
+            AND IType.lk_document_inscription_id = I.id
+            AND IType.lk_attribute_id = 10006614;
+            """
 
+    # Filter all unique document ids to query later
+    doc_ids = set([doc[0] for doc in documents])
+    transcriptions = {}
+
+    # For each unique document id
+    for doc_id in doc_ids:
+
+        # Create empty list for id
+        if doc_id not in transcriptions:
+            transcriptions[doc_id] = []
+
+        # Fetch all transcriptions for a given document id
+        query = base_query.format(document_id=doc_id)
+        cursor.execute(query)
+        results = cursor.fetchall()
+
+        # Append it the indexed cdocument list
+        if len(results) > 0:
+            transcriptions[doc_id].extend([transcription[0] for transcription in results])
+
+    return transcriptions
+
+
+def main():
     parent_records = read_record_list()
 
     # Open the database connection
@@ -151,7 +213,14 @@ def main():
         if record["census_id"] == "" or record["nesting_level"] == "":
             continue
 
+        # Get all documents and monuments
         documents = fetch_documents(cursor, int(record["census_id"]), int(record["nesting_level"]))
+
+        if len(documents) == 0:
+            continue
+
+        # Get all transcriptions for all documents
+        transcriptions = fetch_transcriptions(cursor, documents)
 
         # Create a root <documents/> element that should contain all child documents
         root = etree.Element("documents")
@@ -160,14 +229,13 @@ def main():
         docs = prepare_docs(documents)
 
         for doc_id in docs:
-            xml = doc_to_xml(doc_id, docs[doc_id])
+            xml = doc_to_xml(doc_id, docs[doc_id], transcriptions[doc_id])
             root.append(xml)
-
-
 
         write_output(root, record["census_id"])
 
     cursor.close()
     connection.close()
+
 
 main()

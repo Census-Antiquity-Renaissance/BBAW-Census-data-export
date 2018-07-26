@@ -9,6 +9,12 @@
         <label>Aureus of Augustus / Crab and Butterfly (RIC 316) (owner: G. Duchoul)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10177053</census-id>
@@ -19,6 +25,12 @@
         <label>Aureus of Augustus / Crab and Butterfly (RIC 316) (owner: G. Duchoul)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M DVRMIVS III VIR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10177288</census-id>
@@ -29,6 +41,12 @@
         <label>Denarius of Augustus / Julia, Gaius and Lucius Caesar (RIC 405) (owner: Anonymous Collector in Bern)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTVS DIVI F</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10177292</census-id>
@@ -39,6 +57,12 @@
         <label>Denarius of Augustus / Julia, Gaius and Lucius Caesar (RIC 405) (owner: Anonymous Collector in Bern)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>MARIVS TRO III VIR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175046</census-id>
@@ -53,6 +77,12 @@
         <label>Aureus of Augustus / Gaius and Lucius Caesar (RIC 206) (owner: G. Romano)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVGVSTVS DIVI F PATER PATRIAE</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175050</census-id>
@@ -67,6 +97,12 @@
         <label>Aureus of Augustus / Gaius and Lucius Caesar (RIC 206) (owner: G. Romano)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAE AVGVS F COS DES PRIN IVVE IMP X</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10177421</census-id>
@@ -81,6 +117,16 @@
         <label>Denarius of Augustus / Cippus (RIC 360) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>SPQR IMP CAE QVOD V M S EX E A P Q I S AD ADE</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>L VINICIVS L F III VIR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10177425</census-id>
@@ -91,6 +137,12 @@
         <label>Denarius of Civil Wars (Head of Augustus / Cupid on Dolphin, RIC 107)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR DIVI F</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10176419</census-id>
@@ -101,6 +153,12 @@
         <label>Quinarius of Augustus / Cista Mystica (RIC 276) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>ASIA RECEPTA</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10174767</census-id>
@@ -111,6 +169,12 @@
         <label>Denarius of Augustus (Sol / Quadriga, RIC 303) (owner: J. Strada)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10174609</census-id>
@@ -121,6 +185,12 @@
         <label>As of Augustus (Octavian and Agrippa / Crocodile, RIC 159; Bronze Coin of Nemausus RPC I 525) (owner: J. Strada)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP P P DIVI F</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10177428</census-id>
@@ -131,6 +201,12 @@
         <label>Denarius of Augustus / Flying Victory (RIC 94)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTVS DIVI F</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175399</census-id>
@@ -141,6 +217,12 @@
         <label>Denarius of Augustus / Winged Siren (RIC 296) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>P PETRON TVRPILIANVS III VIR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10174339</census-id>
@@ -155,6 +237,12 @@
         <label>Aureus of Augustus / Soldiers (RIC 164) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTVS DIVI F</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10174343</census-id>
@@ -165,6 +253,12 @@
         <label>Denarius of Octavian / Inscription (RRC 534.3) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTVS DIVI F</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10176550</census-id>
@@ -175,6 +269,12 @@
         <label>Denarius of Octavian / Inscription (RRC 534.3) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M AGRIPPA COS DESIG</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10177439</census-id>
@@ -185,6 +285,12 @@
         <label>Bronze Coin of Achaea (Head of Augustus / Man with Two Oxen, RPC I 1253)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>COL A A PATRENS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10177445</census-id>
@@ -195,6 +301,12 @@
         <label>Denarius of Civil Wars (Augustus / Bull, RIC 100)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTVS DIVI F</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178106</census-id>
@@ -205,6 +317,12 @@
         <label>Denarius of Augustus / City Walls (RIC 9a)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAE AVG</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10173939</census-id>
@@ -215,6 +333,12 @@
         <label>Denarius of Augustus / Horseman (RIC 199) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>DIVI F</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10173985</census-id>
@@ -225,6 +349,12 @@
         <label>Denarius of Augustus / Horseman (RIC 199) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>C CAES AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178111</census-id>
@@ -235,6 +365,12 @@
         <label>Bronze Coin of Ilerda (Augustus / Wolf, RPC I 260)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>DIVI F AVGVST</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178115</census-id>
@@ -245,6 +381,12 @@
         <label>Bronze Coin of Ilerda (Augustus / Wolf, RPC I 260)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>LLERDA</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10176962</census-id>
@@ -255,6 +397,12 @@
         <label>Denarius of Augustus (Open Palm / Victory on Globe, RIC 534) (owner: G. Duchoul)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>DIVI F AVGVST P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10176966</census-id>
@@ -265,6 +413,12 @@
         <label>Denarius of Augustus (Open Palm / Victory on Globe, RIC 534) (owner: G. Duchoul)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAESARI CARPVS IMP</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10174997</census-id>
@@ -279,6 +433,12 @@
         <label>Aureus of Augustus / Soldiers (RIC 164) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTVS DIVI F</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175001</census-id>
@@ -289,6 +449,12 @@
         <label>Denarius of Augustus / Capricorn Holding Globe (RIC 174) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>I M P X</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175537</census-id>
@@ -299,6 +465,12 @@
         <label>Denarius of Augustus / Augustus Receiving Child from Babarian (RIC 201) (owner: G. Duchoul)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTVS DIVI F</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175541</census-id>
@@ -309,6 +481,12 @@
         <label>Denarius of Augustus / Augustus Receiving Child from Babarian (RIC 201) (owner: G. Duchoul)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP XIIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178086</census-id>
@@ -319,6 +497,12 @@
         <label>Bronze Coin of Uncertain Province (Victory Crowning Augustus / Macellus and Julia, RPC I 5415) (owner: E. Vico)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M ACILLIVS C MARIO PRO COS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10174335</census-id>
@@ -341,6 +525,12 @@
         <label>Aureus of Augustus / Soldiers (RIC 164) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTVS DIVI F</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175789</census-id>
@@ -359,6 +549,12 @@
         <label>Aureus of Augustus / Soldiers (RIC 164) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP X</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10174779</census-id>
@@ -369,6 +565,12 @@
         <label>Denarius of Augustus / Bust of Diana (RIC 403) (owner: J. Strada)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>C MARIVS PRO III VIR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178119</census-id>
@@ -379,6 +581,12 @@
         <label>As of Augustus / SC (RIC 471)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAESAR DIVI F AVGVSTVS P M TR P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178128</census-id>
@@ -389,6 +597,16 @@
         <label>As of Augustus / SC (RIC 471)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>PONTIF MA IMP TRIBVN POT XXXIIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>SC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178134</census-id>
@@ -399,6 +617,12 @@
         <label>Aureus of Augustus / Gaius and Lucius Caesar (RIC 206)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVGVSTVS DIVI F PATER PATRIAE</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10176407</census-id>
@@ -409,6 +633,12 @@
         <label>Denarius of Augustus / Crocodile (RIC 545) (owner: G. Duchoul)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR DIVI F COS VI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175450</census-id>
@@ -423,6 +653,12 @@
         <label>Denarius of Augustus / Crocodile (RIC 545) (owner: G. Duchoul)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AEGYPTO CAPTA</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178141</census-id>
@@ -433,6 +669,12 @@
         <label>Denarius of Augustus (Toga Picta and Tunica Palmata, Aquila and Wreath / Quadriga, RIC 98)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTVS DIVI F</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178145</census-id>
@@ -443,6 +685,12 @@
         <label>Denarius of Augustus (Toga Picta and Tunica Palmata, Aquila and Wreath / Quadriga, RIC 98)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP XI ACT</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175411</census-id>
@@ -453,6 +701,12 @@
         <label>Denarius of Augustus / Bull (RIC 187) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTVS DIVI F</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175415</census-id>
@@ -463,6 +717,12 @@
         <label>Denarius of Augustus / Bull (RIC 187) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP XII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178154</census-id>
@@ -473,6 +733,7 @@
         <label>Denarius of Augustus / Corona Rostrata (RIC 473)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10174298</census-id>
@@ -483,6 +744,12 @@
         <label>Quinarius of Augustus / Victory on Globe (RIC 185) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTVS DIVI F</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10174302</census-id>
@@ -493,6 +760,12 @@
         <label>Quinarius of Augustus / Victory on Globe (RIC 185) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>TR POT XVII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10177178</census-id>
@@ -503,6 +776,12 @@
         <label>Denarius of Augustus / Augustus and Agrippa (RIC 400) (owner: G. Romano)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>DIVI F AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10177182</census-id>
@@ -513,6 +792,12 @@
         <label>Denarius of Augustus / Augustus and Agrippa (RIC 400) (owner: G. Romano)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>C MANLIVS C F PRO IIIVIR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178157</census-id>
@@ -523,6 +808,12 @@
         <label>Denarius of Augustus /  Religious Instruments (RIC 410)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178161</census-id>
@@ -533,6 +824,12 @@
         <label>Denarius of Augustus /  Religious Instruments (RIC 410)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CANTISTIVS REGINVS III VIR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10176698</census-id>
@@ -543,6 +840,12 @@
         <label>Denarius of Augustus (Victory / Octavian in Quadriga, RIC 264) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAESAR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178165</census-id>
@@ -553,6 +856,16 @@
         <label>Sestertius of Augustus (Corona Civica / SC, RIC 341)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M SANQVNIVS S Q F III VIR A A A F F</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>SC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175520</census-id>
@@ -563,6 +876,12 @@
         <label>Denarius of Augustus / Mars with Vexillium and Parazonium (RIC 146) (owner: A: Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>SPQR CAES AVGVSTO</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175524</census-id>
@@ -573,6 +892,12 @@
         <label>Denarius of Augustus / Mars with Vexillium and Parazonium (RIC 146) (owner: A: Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>IO M SACR VOT P SVSC PRO SAL ET RED</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175100</census-id>
@@ -583,6 +908,12 @@
         <label>Denarius of Augustus / Arch (RIC 144) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>SPQR CAESARI AVGVSTO</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10173942</census-id>
@@ -593,6 +924,12 @@
         <label>Aureus of Augustus / Quadriga and Triumphal Arch (RIC 131) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CIVIB ET SIGN AP ARTH REST</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178170</census-id>
@@ -603,6 +940,12 @@
         <label>Denarius of Augustus / Mars (RIC 82)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178175</census-id>
@@ -613,6 +956,12 @@
         <label>Denarius of Augustus / Mars (RIC 82)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>SIGNIS RECEPTIS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171008</census-id>
@@ -623,6 +972,7 @@
         <label>Denarius of Augustus / Triumphal Arch (RIC 359) (owner: J. Strada)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10170903</census-id>
@@ -633,6 +983,16 @@
         <label>Denarius of Augustus / Triumphal Arch (RIC 359) (owner: J. Strada)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>L VINICIVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>SPQR IMP CAE AVG</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10174621</census-id>
@@ -647,6 +1007,12 @@
         <label>Aureus of Augustus / Temple (RIC 104) (owner: G. Romano)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESARI AVGVSTO</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10174625</census-id>
@@ -661,6 +1027,12 @@
         <label>Aureus of Augustus / Temple (RIC 104) (owner: G. Romano)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>MAR VVL</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175712</census-id>
@@ -675,6 +1047,7 @@
         <label>Denarius of Augustus / Altar with Inscription (RIC 56) (owner: J. Strada)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10175717</census-id>
@@ -689,6 +1062,12 @@
         <label>Denarius of Augustus / Altar with Inscription (RIC 56) (owner: J. Strada)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>FORT RED CAES AVG SPQR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178179</census-id>
@@ -699,6 +1078,12 @@
         <label>Aureus of Augustus / Flower (RIC 308)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178183</census-id>
@@ -709,6 +1094,7 @@
         <label>Aureus of Augustus / Flower (RIC 308)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10175625</census-id>
@@ -719,6 +1105,12 @@
         <label>Denarius of Augustus / Bull (RIC 475) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175629</census-id>
@@ -729,6 +1121,12 @@
         <label>Denarius of Augustus / Bull (RIC 475) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10177304</census-id>
@@ -739,6 +1137,7 @@
         <label>Aureus of Augustus / Capricorn (RIC 125) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10177308</census-id>
@@ -749,6 +1148,12 @@
         <label>Aureus of Augustus / Capricorn (RIC 125) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175505</census-id>
@@ -759,6 +1164,12 @@
         <label>Denarius of Augustus / Triumphal Arch with Quadriga on Viaduct (RIC 145) (owner: F. Veniero)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>SPQR CAESARI AVGVSTO</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175509</census-id>
@@ -769,6 +1180,12 @@
         <label>Denarius of Augustus / Triumphal Arch with Quadriga on Viaduct (RIC 145) (owner: F. Veniero)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>QVOD VIAE MVN SVNT</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175907</census-id>
@@ -779,6 +1196,7 @@
         <label>Aureus of Augustus / Laurel Branches (RIC 50) (owner: J. Strada)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10175910</census-id>
@@ -789,6 +1207,12 @@
         <label>Aureus of Augustus / Laurel Branches (RIC 50) (owner: J. Strada)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178186</census-id>
@@ -799,6 +1223,12 @@
         <label>As of Augustus / Wreath (RIC 486)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178190</census-id>
@@ -809,6 +1239,12 @@
         <label>As of Augustus / Wreath (RIC 486)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175853</census-id>
@@ -819,6 +1255,12 @@
         <label>Denarius of Augustus / Jupiter Temple (RIC 64) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175857</census-id>
@@ -829,6 +1271,12 @@
         <label>Denarius of Augustus / Jupiter Temple (RIC 64) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>IOV I TO</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10177157</census-id>
@@ -839,6 +1287,12 @@
         <label>Denarius of Augustus / Agrippa (RIC 414) (owner: A. Conteschi)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTVS COS XI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10177161</census-id>
@@ -849,6 +1303,12 @@
         <label>Denarius of Augustus / Agrippa (RIC 414) (owner: A. Conteschi)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M AGRIPPA COS TERT COSSVS LENTVLVS </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175771</census-id>
@@ -859,6 +1319,12 @@
         <label>Denarius of Augustus / Apex between Ancilia (RIC 343) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>TR POT AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175775</census-id>
@@ -869,6 +1335,12 @@
         <label>Denarius of Augustus / Apex between Ancilia (RIC 343) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>P STOLO III VIR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10173642</census-id>
@@ -883,6 +1355,12 @@
         <label>Cistophorus of Augustus / Temple (RIC 507) (owner: G. Grimani)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP IX TR POT</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10180974</census-id>
@@ -893,6 +1371,12 @@
         <label>Denarius of Augustus / Candelabrum (RIC 540)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178194</census-id>
@@ -903,6 +1387,12 @@
         <label>Denarius of Augustus / Candelabrum (RIC 540)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVST</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10174211</census-id>
@@ -917,6 +1407,12 @@
         <label>Denarius of Augustus (Toga Picta / Quadriga, RIC 97) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESARI AVGVSTO</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10174354</census-id>
@@ -931,6 +1427,12 @@
         <label>Denarius of Augustus (Toga Picta / Quadriga, RIC 97) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>SPQR PARENS CONS SVO</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10173825</census-id>
@@ -941,6 +1443,12 @@
         <label>Denarius of Augustus (Sol / Kneeling Parthian, RIC 304) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>L AQVILLIVS FLORVS IIIVIR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178198</census-id>
@@ -951,6 +1459,12 @@
         <label>Denarius of Augustus (Feronia / Parthian, RIC 288)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>TVRPILIANVS FF</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10173828</census-id>
@@ -961,6 +1475,12 @@
         <label>Denarius of Augustus (Sol / Kneeling Parthian, RIC 304) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVGVSTVS SPQR SIGNIS RECEP</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10173645</census-id>
@@ -975,6 +1495,12 @@
         <label>Cistophorus of Augustus / Grain Stalks (RIC 481) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAESAR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10173731</census-id>
@@ -985,6 +1511,12 @@
         <label>Cistophorus of Augustus / Capricorn (RIC 493) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178202</census-id>
@@ -995,6 +1527,12 @@
         <label>Aureus of Civil Wars (Divus Augustus / Pax, RIC 114)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTI DIVI F</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10174129</census-id>
@@ -1009,6 +1547,12 @@
         <label>Denarius of Augustus / Victory (RIC 45) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10174132</census-id>
@@ -1023,6 +1567,16 @@
         <label>Denarius of Augustus / Victory (RIC 45) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>SPQR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>C L V</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175736</census-id>
@@ -1037,6 +1591,7 @@
         <label>Denarius of Augustus / Capricorn (RIC 542) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10175732</census-id>
@@ -1051,6 +1606,12 @@
         <label>Denarius of Augustus / Capricorn (RIC 542) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175442</census-id>
@@ -1061,6 +1622,12 @@
         <label>Denarius of Augustus / Crocodile (RIC 545) (owner: A. Caro)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CASAR IMP COS VI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175446</census-id>
@@ -1071,6 +1638,12 @@
         <label>Denarius of Augustus / Crocodile (RIC 545) (owner: A. Caro)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AEGYPTO CAPTA</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10177116</census-id>
@@ -1081,6 +1654,7 @@
         <label>Aureus of Octavian / Victory (RIC 268) (owner: W. Imhoff)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10177119</census-id>
@@ -1091,6 +1665,12 @@
         <label>Aureus of Octavian / Victory (RIC 268) (owner: W. Imhoff)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAESAR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175604</census-id>
@@ -1101,6 +1681,12 @@
         <label>Denarius of Augustus / Bust of Diana (RIC 403) (owner: G. Calestano)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175608</census-id>
@@ -1111,6 +1697,12 @@
         <label>Denarius of Augustus / Bust of Diana (RIC 403) (owner: G. Calestano)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>C MARIVSTRO IIIVIR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178206</census-id>
@@ -1121,6 +1713,12 @@
         <label>Denarius of Augustus / Bull (RIC 475)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178210</census-id>
@@ -1131,6 +1729,12 @@
         <label>Denarius of Augustus / Bull (RIC 475)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175465</census-id>
@@ -1141,6 +1745,12 @@
         <label>Denarius of Augustus / Augustus and Agrippa (RIC 407) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175469</census-id>
@@ -1151,6 +1761,12 @@
         <label>Denarius of Augustus / Augustus and Agrippa (RIC 407) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>C SVLPITIVS PLATORIN</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175092</census-id>
@@ -1161,6 +1777,12 @@
         <label>Denarius of Augustus (Feronia / Augustus in Elephant-Biga, RIC 280) (owner.: S. del Bufalo)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>TVPILIANVS III VIR F ERO</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175096</census-id>
@@ -1171,6 +1793,12 @@
         <label>Denarius of Augustus (Feronia / Augustus in Elephant-Biga, RIC 280) (owner.: S. del Bufalo)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTVS CAESAR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178303</census-id>
@@ -1181,6 +1809,12 @@
         <label>Dupondius of Augustus / Wreath (RIC 502)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178307</census-id>
@@ -1191,6 +1825,12 @@
         <label>Dupondius of Augustus / Wreath (RIC 502)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CA</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10174162</census-id>
@@ -1201,6 +1841,12 @@
         <label>Cistophorus of Augustus / Corn-Ears (RIC 478) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAESAR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10174166</census-id>
@@ -1211,6 +1857,12 @@
         <label>Copper coin of Lepida-Celsa (Augustus / Bull, RPC I 270)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTVS C V I CELSA</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178314</census-id>
@@ -1221,6 +1873,12 @@
         <label>Copper coin of Lepida-Celsa (Augustus / Bull, RPC I 270)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>L CORTERR II VIR MIVNHISP</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10176904</census-id>
@@ -1231,6 +1889,12 @@
         <label>Denarius of Augustus (Equestrian Statue / Cippus, RIC 362) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>SPQR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10176909</census-id>
@@ -1241,6 +1905,16 @@
         <label>Denarius of Augustus (Equestrian Statue / Cippus, RIC 362) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>SPQR IMP CAE QVORO MSEX EMPQIS ADADE</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>L VICINIVS C F III VIR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10176349</census-id>
@@ -1251,6 +1925,12 @@
         <label>Denarius of Augustus / Victory (RIC 45) (owner: G. Duchoul)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10176353</census-id>
@@ -1261,6 +1941,16 @@
         <label>Denarius of Augustus / Victory (RIC 45) (owner: G. Duchoul)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>SPQR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>CLV</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10177704</census-id>
@@ -1271,6 +1961,7 @@
         <label>Bronze Coin of Thrace (Caligula / Victory with Eagle, RPC I 1726) (owner: G. Duchoul)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10178326</census-id>
@@ -1281,6 +1972,12 @@
         <label>Denarius of Augustus / Boar (RIC 317)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178330</census-id>
@@ -1291,6 +1988,12 @@
         <label>Denarius of Augustus / Boar (RIC 317)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M DVRMIVS III VIR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10177216</census-id>
@@ -1301,6 +2004,12 @@
         <label>Denarius of Augustus / Temple (RIC 39a) (owner: F. Laurencin)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10177220</census-id>
@@ -1311,6 +2020,12 @@
         <label>Denarius of Augustus / Temple (RIC 39a) (owner: F. Laurencin)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>MARTI VLTORIS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10177255</census-id>
@@ -1325,6 +2040,7 @@
         <label>Denarius of Augustus / Temple (RIC 266) (owner: J. Fugger)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10177258</census-id>
@@ -1339,6 +2055,7 @@
         <label>Denarius of Augustus / Temple (RIC 266) (owner: J. Fugger)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10178345</census-id>
@@ -1349,6 +2066,7 @@
         <label>Quinarius of Augustus / Victoria on Prora (RIC 474)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10174374</census-id>
@@ -1363,6 +2081,12 @@
         <label>Denarius of Liber / Augustus (RIC 283) (owner: J. Strada)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>P PETRON TVRPILIAN III VIR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10176979</census-id>
@@ -1373,6 +2097,12 @@
         <label>Denarius of Liber / Augustus (RIC 283) (owner: G. Duchoul)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTVS CAESAR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175933</census-id>
@@ -1387,6 +2117,12 @@
         <label>Denarius of Augustus / Armenia Capta (RIC 516) (owner: G. Duchoul)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10174319</census-id>
@@ -1401,6 +2137,12 @@
         <label>Denarius of Augustus / Armenia Capta (RIC 516) (owner: G. Duchoul)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>ARMENIA CAPTA</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10173850</census-id>
@@ -1411,6 +2153,12 @@
         <label>Denarius of Augustus (Sol / Quadriga, RIC 303) (owner: G. Duchoul)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>L AQVILIVS FLORVS IIIVIR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10173856</census-id>
@@ -1421,6 +2169,12 @@
         <label>Denarius of Augustus (Sol / Quadriga, RIC 303) (owner: G. Duchoul)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTVS SC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178350</census-id>
@@ -1431,6 +2185,7 @@
         <label>Aureus of Augustus / Capricorn (RIC 125)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10178355</census-id>
@@ -1441,6 +2196,7 @@
         <label>Aureus of Augustus / Capricorn (RIC 125)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10175616</census-id>
@@ -1455,6 +2211,12 @@
         <label>Denarius of Augustus /  Religious Instruments (RIC 410) (owner: G. Duchoul)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10174244</census-id>
@@ -1469,6 +2231,12 @@
         <label>Denarius of Augustus /  Religious Instruments (RIC 410) (owner: G. Duchoul)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CANISIVS REGINVS IIIVIR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178365</census-id>
@@ -1479,6 +2247,12 @@
         <label>Denarius of Augustus / Head with Comet (RIC 338)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M SANQVIL</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175427</census-id>
@@ -1493,6 +2267,12 @@
         <label>Denarius of Augustus / Triumphal Arch with Quadriga on Viaduct (RIC 145) (owner: F. Veniero)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVGVSTO SPQR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175431</census-id>
@@ -1503,6 +2283,12 @@
         <label>Denarius of Augustus / Equestrian Monument on Viaduct (RIC 142) (owner: F. Veniero)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>QVOD VIAE MVN SVNT</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10177795</census-id>
@@ -1513,6 +2299,12 @@
         <label>Aureus of Augustus / Victoria and Bull (RIC 514) (owner: J. Grolier)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10177799</census-id>
@@ -1523,6 +2315,12 @@
         <label>Aureus of Augustus / Victoria and Bull (RIC 514) (owner: J. Grolier)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>ARMENIA CAPTA</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10180977</census-id>
@@ -1533,6 +2331,12 @@
         <label>Sestertius of Augustus (Oak-Wreath / SC, RIC 377)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTO OB CIVIS SERVATOS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178376</census-id>
@@ -1543,6 +2347,16 @@
         <label>Sestertius of Augustus (Oak-Wreath / SC, RIC 377)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>G GALLIVS C F LVPERCVS III VIR AAA FF</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>SC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10174940</census-id>
@@ -1557,6 +2371,12 @@
         <label>Denarius of Augustus (Feronia / Augustus in Elephant-Biga, RIC 280) (owner.: F. De Medici)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M DVRMIVS III VIR HONORI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10174944</census-id>
@@ -1567,6 +2387,12 @@
         <label>Denarius of Augustus (Feronia / Augustus in Elephant-Biga, RIC 280) (owner.: F. De Medici)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTVS CAESAR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10173962</census-id>
@@ -1577,6 +2403,12 @@
         <label>Denarius of Augustus / Apollo (RIC 171a)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178452</census-id>
@@ -1587,6 +2419,12 @@
         <label>Aureus of Pergamon (Augustus / Seated Sphinx, RIC 511)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP X</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175005</census-id>
@@ -1601,6 +2439,12 @@
         <label>Aureus of Augustus / Legend in Oak-Wreath (RIC 76a) (owner: G. R&#246;mer)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175009</census-id>
@@ -1615,6 +2459,12 @@
         <label>Aureus of Augustus / Legend in Oak-Wreath (RIC 76a) (owner: G. R&#246;mer)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>OB CIVIS SERVATOS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178456</census-id>
@@ -1625,6 +2475,12 @@
         <label>Denarius of Augustus / Temple (RIC 39a)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10174640</census-id>
@@ -1635,6 +2491,12 @@
         <label>Denarius of Augustus / Equestrian Statue (RIC 412) (owner: J. Strada)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>COSSVS CNE LENTVLVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10174114</census-id>
@@ -1645,6 +2507,12 @@
         <label>Denarius of Augustus / Quadriga (RIC 399) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>C MARIVS S C F PRO III VIR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10174822</census-id>
@@ -1655,6 +2523,12 @@
         <label>Denarius of Augustus / Flower (RIC 309) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>C MARIVS S C F PRO III VIR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10174826</census-id>
@@ -1665,6 +2539,12 @@
         <label>Denarius of Augustus / Flower (RIC 309) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>L AQVILLIVS FLORVS III VIR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178460</census-id>
@@ -1675,6 +2555,12 @@
         <label>Dupondius of Augustus / Wreath (RIC 502)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175060</census-id>
@@ -1685,6 +2571,12 @@
         <label>Denarius of Augustus / Military Signs (RIC 86) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175064</census-id>
@@ -1695,6 +2587,12 @@
         <label>Denarius of Augustus / Military Signs (RIC 86) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>SIGNIS RECEPTIS SPQR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178470</census-id>
@@ -1705,6 +2603,12 @@
         <label>Denarius of Augustus / Legend and Oak-Wreath (RIC 75b)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178474</census-id>
@@ -1715,6 +2619,12 @@
         <label>Denarius of Augustus / Legend and Oak-Wreath (RIC 75b)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>OB CIVIS SERVATOS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178482</census-id>
@@ -1725,6 +2635,20 @@
         <label>Denarius of Augustus (Two Busts / Altar, RIC 322)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESARI AVGVSTO EX SC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>FORNE</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>225</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178495</census-id>
@@ -1735,6 +2659,16 @@
         <label>Dupondius of Augustus / Wreath (RIC 502)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>226</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178499</census-id>
@@ -1749,6 +2683,16 @@
         <label>As of Augustus / SC (RIC 376)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVGVST TRIBVNIC POTEST</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>234</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178503</census-id>
@@ -1763,6 +2707,16 @@
         <label>As of Augustus / SC (RIC 376)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>C CASSIVS CELER III VIR AAA FF</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>SC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178508</census-id>
@@ -1773,6 +2727,12 @@
         <label>Denarius of Augustus / Bull (RIC 475)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178524</census-id>
@@ -1783,6 +2743,7 @@
         <label>Denarius of Augustus / Clipus Votivus (RIC 36a)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10178527</census-id>
@@ -1793,6 +2754,16 @@
         <label>Denarius of Augustus / Clipus Votivus (RIC 36a)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>SPQR AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>CL C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178532</census-id>
@@ -1803,6 +2774,12 @@
         <label>Denarius of Augustus (Feronia / Parthian, RIC 288)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>TVRPILIANVS III VIR NO</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178536</census-id>
@@ -1813,6 +2790,12 @@
         <label>Denarius of Augustus (Feronia / Parthian, RIC 288)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>TVRPILIANVS III VIR NO</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178541</census-id>
@@ -1823,6 +2806,12 @@
         <label>Sestertius of Augustus / Corona Navalis (RIC 496)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CA</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10173843</census-id>
@@ -1833,6 +2822,12 @@
         <label>As of Augustus / CA (RIC 495) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10173846</census-id>
@@ -1843,6 +2838,12 @@
         <label>As of Augustus / CA (RIC 495) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CA</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178545</census-id>
@@ -1853,6 +2854,12 @@
         <label>As of Augustus / SC (RIC 437)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAESAR AVGVST PONT MAX TRIBVN POTEST</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178552</census-id>
@@ -1863,6 +2870,16 @@
         <label>As of Augustus / SC (RIC 437)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>A LICI NERVA SILAN III VIR AAA FF</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>SC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178559</census-id>
@@ -1873,6 +2890,12 @@
         <label>Dupondius of Augustus / Legend (RIC 430)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVG PONT MAX TRIBVNIC POT</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10178564</census-id>
@@ -1883,6 +2906,16 @@
         <label>Dupondius of Augustus / Legend (RIC 430)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M SALVIVS OTHO III VIR AAA FF</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>SC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10175892</census-id>
@@ -1893,6 +2926,12 @@
         <label>Denarius of Augustus / Augustus Receiving Child from Babarian (RIC 201) (owner: G. Duchoul)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP XIIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10174282</census-id>
@@ -1907,6 +2946,12 @@
         <label>Denarius of Augustus / Kneeling Barbarian (RIC 416) (owner: W. Imhoff)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10174285</census-id>
@@ -1921,6 +2966,12 @@
         <label>Denarius of Augustus / Kneeling Barbarian (RIC 416) (owner: W. Imhoff)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>C CANINIVS GALLIVS III VIR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10176367</census-id>
@@ -1931,6 +2982,12 @@
         <label>Aureus of Augustus / Sphinx (RIC 512) (owner: G. Duchoul)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10176371</census-id>
@@ -1941,5 +2998,11 @@
         <label>Aureus of Augustus / Sphinx (RIC 512) (owner: G. Duchoul)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAPTA</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
 </documents>

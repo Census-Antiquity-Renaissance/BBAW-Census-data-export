@@ -9,6 +9,12 @@
         <label>Denarius of M. Antonius / Victory Holding Wreath (RRC 545.2) (owner: R. Odoni)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M ANTONIVS AVG IMP III IIIVIR R P C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170848</census-id>
@@ -19,6 +25,7 @@
         <label>Denarius of M. Antonius / Victory Holding Wreath (RRC 545.2) (owner: R. Odoni)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10170671</census-id>
@@ -29,6 +36,12 @@
         <label>Denarius of M. Antonius / Fortuna (RRC 516.2) (owner: F. Veniero)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>AVG IMP III VIR R P C AT</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170674</census-id>
@@ -39,6 +52,12 @@
         <label>Denarius of M. Antonius / Fortuna (RRC 516.2) (owner: F. Veniero)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>PIETAS COS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170725</census-id>
@@ -53,6 +72,12 @@
         <label>Denarius of M. Antonius / Head of L. Antonius (RRC 517.3) (owner: A. Conteschi)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M ANT IMP AVG IIIVIR RPC M BARBAT Q F</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170932</census-id>
@@ -63,6 +88,12 @@
         <label>Denarius of M. Antonius / Nude Male Figure With Sceptre (RRC 531.1b) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M ANT IMP IIIVIR RPC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170572</census-id>
@@ -73,6 +104,12 @@
         <label>Denarius of M. Antonius / Cleopatra (RRC 543.1) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>ANTONI ARMENIA DEVICTA</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170575</census-id>
@@ -83,6 +120,12 @@
         <label>Denarius of M. Antonius / Cleopatra (RRC 543.1) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CLEOPATRA REGINA REGVM FILIONVM REGVM </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170537</census-id>
@@ -93,6 +136,12 @@
         <label>Denarius of M. Antonius / Trophy (RRC 536.1) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M ANT AVGVR III VIR R R P C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170540</census-id>
@@ -103,6 +152,12 @@
         <label>Denarius of M. Antonius / Trophy (RRC 536.1) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TER</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170757</census-id>
@@ -113,6 +168,12 @@
         <label>Denarius of M. Antonius / Legend (RRC 542.2) (owner: A. Maffei) </label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>ANTON AVG IMP III COS DES III V RPC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170760</census-id>
@@ -123,6 +184,12 @@
         <label>Denarius of M. Antonius / Legend (RRC 542.2) (owner: A. Maffei) </label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>ANTONIVS AVG IMP III</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170620</census-id>
@@ -133,6 +200,12 @@
         <label>Denarius of M. Antonius / Armenian Tiara (RRC 539.1) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M ANTONIVS AVGVR COS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170623</census-id>
@@ -143,6 +216,12 @@
         <label>Denarius of M. Antonius / Armenian Tiara (RRC 539.1) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TERTIO III VIR RPC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170687</census-id>
@@ -153,6 +232,7 @@
         <label>Quinarius of M. Antonius (Augural Instruments / Pontifical Instruments, RRC 489.3) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10170684</census-id>
@@ -163,6 +243,12 @@
         <label>Quinarius of M. Antonius (Augural Instruments / Pontifical Instruments, RRC 489.3) (owner: A. Maffei)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>MAT IMP</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170972</census-id>
@@ -173,6 +259,12 @@
         <label>Denarius of M. Antonius / Pietas (RRC 516.5)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M ANTONIVS IMP III VIR RPC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170975</census-id>
@@ -183,6 +275,12 @@
         <label>Denarius of M. Antonius / Pietas (RRC 516.5)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>META CO</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170795</census-id>
@@ -193,6 +291,7 @@
         <label>Denarius of M. Antonius / Head of L. Antonius (RRC 517.3) (owner: A. Conteschi)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10170712</census-id>
@@ -207,6 +306,7 @@
         <label>Denarius of M. Antonius  / Radiate Head of Sol (RRC 496.2) (owner: G. Duchoul)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10170713</census-id>
@@ -221,6 +321,12 @@
         <label>Denarius of M. Antonius  / Radiate Head of Sol (RRC 496.2) (owner: G. Duchoul)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M ANTONIVS IIIVIR RPC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170979</census-id>
@@ -231,6 +337,12 @@
         <label>Quinarius of M. Antonius (Head of Concordia / Clasped Hands around Caduceus, RRC 529.4b)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>RVST III VIR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170983</census-id>
@@ -241,6 +353,12 @@
         <label>Quinarius of M. Antonius (Head of Concordia / Clasped Hands around Caduceus, RRC 529.4b)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M ANTON C CAESAR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170988</census-id>
@@ -251,6 +369,12 @@
         <label>Denarius of M. Antonius / Octavian (RRC 528.2a)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M ANTONIVS IMP III VIR RPC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170991</census-id>
@@ -261,6 +385,12 @@
         <label>Denarius of M. Antonius / Octavian (RRC 528.2a)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR IMP III VIR RPC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170994</census-id>
@@ -271,6 +401,12 @@
         <label>Quinarius of M. Antonius (Bust of Victory / Lion, RRC 489.6)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>III VIR RPC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170997</census-id>
@@ -281,6 +417,12 @@
         <label>Quinarius of M. Antonius (Bust of Victory / Lion, RRC 489.6)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>ANTONI A XII IMP</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171000</census-id>
@@ -291,6 +433,12 @@
         <label>Denarius of M. Antonius / Sol (RRC 533.2)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>ERET T R III VIR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171003</census-id>
@@ -301,6 +449,12 @@
         <label>Denarius of M. Antonius / Sol (RRC 533.2)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M ANTONIVS M F TR IV VIR IMP TER </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170874</census-id>
@@ -311,6 +465,12 @@
         <label>Denarius of M. Antonius  / Distyle Temple (RRC 496.1) (owner: J. Strada)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M ANTONIVS IMP</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170877</census-id>
@@ -321,6 +481,12 @@
         <label>Denarius of M. Antonius  / Distyle Temple (RRC 496.1) (owner: J. Strada)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>IIIVIR R P C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170658</census-id>
@@ -331,6 +497,7 @@
         <label>Denarius of M. Antonius / Caduceus, Cornucopiae and Globe (RRC 520.1) (owner:  G. Duchoul)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10170660</census-id>
@@ -341,6 +508,13 @@
         <label>Denarius of M. Antonius / Caduceus, Cornucopiae and Globe (RRC 520.1) (owner:  G. Duchoul)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M ANT IMP&#13;
+III VIR R P C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170780</census-id>
@@ -351,6 +525,12 @@
         <label>Denarius of M. Antonius / Inscription (RRC 542.1) (owner: G. Duchoul)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>ANTON AVG IMP IIIVIR R P C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170785</census-id>
@@ -361,6 +541,12 @@
         <label>Denarius of M. Antonius / Inscription (RRC 542.1) (owner: G. Duchoul)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>ANTON AVG IMP IIIVIR R P C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171006</census-id>
@@ -371,6 +557,12 @@
         <label>Denarius of L. Gellius and M. Antonius / Caesar (RRC 517.8)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M ANT IMP AVG III VIR RPC L GELL Q F</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171011</census-id>
@@ -381,6 +573,12 @@
         <label>Denarius of M. Antonius / Prow (RRC 521.2)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M ANTON IMPER III</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171014</census-id>
@@ -391,6 +589,12 @@
         <label>Denarius of M. Antonius / Prow (RRC 521.2)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CN DOMIT AENOBARBVS IMP</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171073</census-id>
@@ -401,6 +605,12 @@
         <label>Quinarius of M. Antonius (Head of Concordia / Clasped Hands around Caduceus, RRC 529.4b)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>III VIR R P C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171077</census-id>
@@ -411,6 +621,12 @@
         <label>Denarius of M. Antonius / Pietas (RRC 516.5)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>ANTONIVS IMP III VIR RPC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171082</census-id>
@@ -421,6 +637,12 @@
         <label>Denarius of M. Antonius / Pietas (RRC 516.5)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>PIETAS COS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171087</census-id>
@@ -431,6 +653,12 @@
         <label>Denarius of  Octavian / Equestrian Statue (RRC 490.1)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>C CAESAR IMP</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170862</census-id>
@@ -441,6 +669,7 @@
         <label>Quinarius of M. Antonius (Bust of Victory / Lion, RRC 489.6) (owner: J. Strada)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10170864</census-id>
@@ -451,6 +680,13 @@
         <label>Quinarius of M. Antonius (Bust of Victory / Lion, RRC 489.6) (owner: J. Strada)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>ANTONI  A IMP&#13;
+A XLI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171104</census-id>
@@ -461,6 +697,12 @@
         <label>Aureus of L. Mussidius Longus (M. Antonius / Cornucopia, RRC 494.14)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>L MVSSIDIVS LONGVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171107</census-id>
@@ -471,6 +713,12 @@
         <label>Aureus of L. Mussidius Longus (M. Antonius / Cornucopia, RRC 494.14)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M ANTONIVS III VIR RPC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10173180</census-id>
@@ -481,6 +729,12 @@
         <label>Aureus of L. Mussidius Longus (M. Antonius / Cornucopia, RRC 494.14)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>L MVSSIDIVS LONGVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171110</census-id>
@@ -491,6 +745,12 @@
         <label>Denarius of M. Antonius / Pietas (RRC 516.5)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>ANTONIVS IMP III VIR RPC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171113</census-id>
@@ -501,6 +761,12 @@
         <label>Denarius of M. Antonius / Pietas (RRC 516.5)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>ANTONIVS IMP III VIR RPC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171116</census-id>
@@ -511,6 +777,12 @@
         <label>Denarius of M. Antonius  / Tropaeum (RRC 536.2)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP ANT AVGVR III VIR RPC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171119</census-id>
@@ -521,6 +793,12 @@
         <label>Denarius of M. Antonius  / Tropaeum (RRC 536.2)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TER</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171128</census-id>
@@ -531,6 +809,12 @@
         <label>Quinarius of M. Antonius (Head of Concordia / Clasped Hands around Caduceus, RRC 529.4b)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>L MVSSIDIVS LONGVS CONCORDIA</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171131</census-id>
@@ -541,6 +825,12 @@
         <label>Quinarius of M. Antonius (Head of Concordia / Clasped Hands around Caduceus, RRC 529.4b)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M ANTON C CAESAR </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171134</census-id>
@@ -551,6 +841,12 @@
         <label>Denarius of M. Antonius / Octavian (RRC 528.2a)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M ANTONIVS IMP III VIR RPC </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171137</census-id>
@@ -561,6 +857,12 @@
         <label>Denarius of M. Antonius / Octavian (RRC 528.2a)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR IMP PONT III VIR RPC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170744</census-id>
@@ -571,6 +873,12 @@
         <label>Denarius of M. Antonius  and Lituus / Laureate Caesar and Sitella (RRC 488.2) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M ANTON IMP RPC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170741</census-id>
@@ -581,6 +889,12 @@
         <label>Denarius of M. Antonius  and Lituus / Laureate Caesar and Sitella (RRC 488.2) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR DICT</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171143</census-id>
@@ -591,6 +905,12 @@
         <label>Denarius of M. Antonius and M. Lepidus (Religious Instruments Raven / Religious Instruments, RRC 489.2)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>ANTON IMP AVGVR </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171146</census-id>
@@ -601,6 +921,12 @@
         <label>Denarius of M. Antonius and M. Lepidus (Religious Instruments Raven / Religious Instruments, RRC 489.2)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>LEPIDVS IMP PM  CAESAR IMP PONT</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171149</census-id>
@@ -611,6 +937,7 @@
         <label>Cistophorus of Gortyn (Cysta Mystica / Zeus with Serpents, RPC I 926)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10171151</census-id>
@@ -621,6 +948,12 @@
         <label>Cistophorus of Gortyn (Cysta Mystica / Zeus with Serpents, RPC I 926)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>KY&#916;A&#931; KPH&#931;T&#923;I &#937;N KPHTAPA&#931; </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170697</census-id>
@@ -631,6 +964,12 @@
         <label>Denarius of  M. Antonius / Pietas (RRC 516.5) (owner: A. Conteschi)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M ANTON IMP IIIVIR RPC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170700</census-id>
@@ -641,6 +980,12 @@
         <label>Denarius of  M. Antonius / Pietas (RRC 516.5) (owner: A. Conteschi)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>PIETAS COS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170642</census-id>
@@ -651,6 +996,12 @@
         <label>Denarius of M. Antonius (Jupiter Ammon / Victory, RRC 546.2c) (owner: R. Odoni)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>MANTO COS III IMP IIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170645</census-id>
@@ -661,6 +1012,13 @@
         <label>Denarius of M. Antonius (Jupiter Ammon / Victory, RRC 546.2c) (owner: R. Odoni)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>SCARPVS IMP&#13;
+ANTONIO AVG</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10174103</census-id>
@@ -671,6 +1029,12 @@
         <label>Denarius of P. Clodius (Head of M. Antonius / Mars, RRC 494.17)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M ANTONI III VIR R P C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10174107</census-id>
@@ -681,6 +1045,12 @@
         <label>Denarius of P. Clodius (Head of M. Antonius / Mars, RRC 494.17)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>P CLODIV M F</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171158</census-id>
@@ -691,6 +1061,12 @@
         <label>Denarius of M. Antonius and Lituus / Laureate Caesar and Sitella (RRC 488.2)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M ANT IMP RPC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171225</census-id>
@@ -701,6 +1077,12 @@
         <label>Denarius of M. Antonius and Lituus / Laureate Caesar and Sitella (RRC 488.2)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR DIC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10173172</census-id>
@@ -711,6 +1093,12 @@
         <label>Denarius of M. Lepidus (Alexandria / Togate Figures, RRC 419.2)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>Alexandria</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171161</census-id>
@@ -721,6 +1109,12 @@
         <label>Denarius of M. Lepidus (Alexandria / Togate Figures, RRC 419.2)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>TVTOR REG M LEPIDVS PONT MAX EX S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171164</census-id>
@@ -731,6 +1125,12 @@
         <label>Quinarius of M. Antonius (Head of Concordia / Clasped Hands around Caduceus, RRC 529.4b)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>III VIR RPC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171167</census-id>
@@ -741,6 +1141,12 @@
         <label>Quinarius of M. Antonius (Head of Concordia / Clasped Hands around Caduceus, RRC 529.4b)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>ANTONIVS IMP</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171170</census-id>
@@ -751,6 +1157,12 @@
         <label>Denarius of M. Antonius (Religious instruments / Religious Instruments and Thunderbold, RRC 522.4)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>L PLANCVS IMP ITER</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171175</census-id>
@@ -761,6 +1173,12 @@
         <label>Denarius of M. Antonius (Religious instruments / Religious Instruments and Thunderbold, RRC 522.4)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M ANTON III VIR RPC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170557</census-id>
@@ -771,6 +1189,12 @@
         <label>Cistophorus of Marc Antony, Ephesus (Head of M. Antonius / Bust of Octavia RPC I 2201) (owner:  G. Duchoul)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M ANTONIVS COS DESIG ITER ET TERT</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170560</census-id>
@@ -781,6 +1205,12 @@
         <label>Cistophorus of Marc Antony, Ephesus (Head of M. Antonius / Bust of Octavia RPC I 2201) (owner:  G. Duchoul)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>IIIVIR R P C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171181</census-id>
@@ -791,6 +1221,12 @@
         <label>Denarius of M. Antonius  / Tropaeum (RRC 536.2)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TER</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171184</census-id>
@@ -801,6 +1237,12 @@
         <label>Denarius of L. Mussidius (Head of Concordia / Temple of Venus Cloacina, RRC 494.42a)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>L MVSSIDIVS T F LOGVS III VIR APF</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170906</census-id>
@@ -811,6 +1253,12 @@
         <label>Aureus of M. Lepidus and P. Clodius (Lepidus / Fortuna, RRC 494.4) (owner: J. Fugger)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M LEPIDVS IIIVIR RPC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171188</census-id>
@@ -821,6 +1269,12 @@
         <label>Cistophorus of M. Antonius and Octavia / Dionysus (RPC 2202)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M ANTONIVS IMP COS DESIG ITER ET TERT</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170587</census-id>
@@ -831,6 +1285,12 @@
         <label>Cistophorus of Marc Antony, Ephesus (Head of M. Antonius / Bust of Octavia RPC I 2201) (owner: G. Grimani)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M ANTONIVS COS DESIG ITER ET TERT</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170590</census-id>
@@ -841,6 +1301,12 @@
         <label>Cistophorus of Marc Antony, Ephesus (Head of M. Antonius / Bust of Octavia RPC I 2201) (owner: G. Grimani)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>IIIVIR R P C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170728</census-id>
@@ -851,6 +1317,12 @@
         <label>Aureus of M. Antonius / Octavianus (RRC 517.1a) (owner: J. Strada)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR IMP PONT IIIVIR RPC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171193</census-id>
@@ -861,6 +1333,7 @@
         <label>Denarius of M. Antonius / Sol (RRC 533.2)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10171196</census-id>
@@ -871,6 +1344,12 @@
         <label>Denarius of M. Antonius / Sol (RRC 533.2)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M ANTONIVS M F TRIVMVIR IMP TER</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171203</census-id>
@@ -881,6 +1360,7 @@
         <label>Denarius of L. Mussidius Longus (Radiate Bust of Sol / Shrine of Venus Cloacina, RRC 494.43a)</label>
       </monument>
     </monuments>
+    <transcriptions/>
   </document>
   <document>
     <census-id>10171199</census-id>
@@ -891,6 +1371,12 @@
         <label>Denarius of L. Mussidius Longus (Radiate Bust of Sol / Shrine of Venus Cloacina, RRC 494.43a)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>L MVSSIDIVS LONGVS </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171210</census-id>
@@ -901,6 +1387,12 @@
         <label>Cistophorus of M. Antonius and Octavia / Dionysus (RPC 2202)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M ANTONIVS IMP COS DESIG ITER ET TERT</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170603</census-id>
@@ -911,6 +1403,12 @@
         <label>Cistophorus of M. Antonius and Octavia / Dionysus (RPC I 2202) (owner: W. Imhoff)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M ANTONIVS IMP COS DESIG ITER ET TERT</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170605</census-id>
@@ -921,6 +1419,12 @@
         <label>Cistophorus of M. Antonius and Octavia / Dionysus (RPC I 2202) (owner: W. Imhoff)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>IIIVIR R P C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10170526</census-id>
@@ -931,6 +1435,12 @@
         <label>Cistophorus of M. Antonius and Octavia / Dionysus (RPC 2202) (owner: G. Romano)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M ANTONIVS IMP COS DES ITER ET TERT</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171213</census-id>
@@ -941,6 +1451,12 @@
         <label>Provincial Silver Coin (Head of Cleopatra / Head of M. Antonius, RPC I 4094)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>BA&#931;I&#923;I&#931;&#931;A K&#923;EO&#928;ATPA O&#931;&#931;AN&#931;O THPA</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10171217</census-id>
@@ -951,6 +1467,12 @@
         <label>Provincial Silver Coin (Head of Cleopatra / Head of M. Antonius, RPC I 4094)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>M ANT&#969;NIO&#931; AYTOKPAT&#969;P OI&#969;NI&#931; TH&#931; TPI&#969;NAN &#916;P&#969;N</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10173709</census-id>
@@ -961,6 +1483,12 @@
         <label>Bronze Dichalque of Tripolis (Dioscuri / Prow with Nike, RPC I 4515)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>TRI&#928;O&#916;IT&#937;N KOINONIA</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10173712</census-id>
@@ -971,5 +1499,11 @@
         <label>Bronze Dichalque of Tripolis (Dioscuri / Prow with Nike, RPC I 4515)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>TRI&#928;O&#916;IT&#937;N KOINON &#928;POTH&#931;</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
 </documents>

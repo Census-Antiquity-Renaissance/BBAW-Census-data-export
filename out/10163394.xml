@@ -9,6 +9,12 @@
         <label>Copper Coin of Cnossus (Head of Nero / Heads of Nero and Octavia, RPC I 1005) (owner: Achillino)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>NERO CLAVD</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
   <document>
     <census-id>10180046</census-id>
@@ -19,5 +25,11 @@
         <label>Copper Coin of Cnossus (Head of Nero / Heads of Nero and Octavia, RPC I 1005) (owner: Achillino)</label>
       </monument>
     </monuments>
+    <transcriptions>
+      <transcription>
+        <inscription>TI NERO CLAVD CAES AVGT IMP OCTAVIA</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
   </document>
 </documents>
