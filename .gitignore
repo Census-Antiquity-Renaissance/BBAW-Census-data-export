@@ -2,3 +2,4 @@
 venv/
 config/env.py
 config/__pychache__
+doc/*xlsx

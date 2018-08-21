@@ -3,34 +3,34 @@
   <document>
     <census-id>10172091</census-id>
     <name>fol. 005 r</name>
-    <monuments>
-      <monument>
-        <census-id>10171094</census-id>
-        <label>Denarius of  Octavian / Equestrian Statue (RRC 490.1)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>CAESAR IMP</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
-  </document>
-  <document>
-    <census-id>10172094</census-id>
-    <name>fol. 006 r</name>
     <monuments>
       <monument>
         <census-id>10171094</census-id>
         <label>Denarius of  Octavian / Equestrian Statue (RRC 490.1)</label>
       </monument>
     </monuments>
+  </document>
+  <document>
+    <census-id>10172094</census-id>
+    <name>fol. 006 r</name>
     <transcriptions>
       <transcription>
         <inscription>SC</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10171094</census-id>
+        <label>Denarius of  Octavian / Equestrian Statue (RRC 490.1)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10172747</census-id>
@@ -41,39 +41,38 @@
         <label>Denarius of L. Flaminius Chilo (Head of Caesar / Goddess, RRC 485.1)</label>
       </monument>
     </monuments>
-    <transcriptions/>
   </document>
   <document>
     <census-id>10172098</census-id>
     <name>fol. 010 r</name>
-    <monuments>
-      <monument>
-        <census-id>10064000</census-id>
-        <label>Denarius of L. Flaminius Chilo (Head of Caesar / Goddess, RRC 485.1)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>L. FLAMINIVS IIIVIR</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10064000</census-id>
+        <label>Denarius of L. Flaminius Chilo (Head of Caesar / Goddess, RRC 485.1)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10172101</census-id>
     <name>fol. 012 r</name>
-    <monuments>
-      <monument>
-        <census-id>10059321</census-id>
-        <label>Denarius of Octavian / Crocodile (RIC 275a)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>AEGYPTO CAPTA</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10059321</census-id>
+        <label>Denarius of Octavian / Crocodile (RIC 275a)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10172104</census-id>
@@ -84,55 +83,54 @@
         <label>Denarius Q. C. Metellus Pius (Head of Pietas / Jug and Lituus, RRC 374.2)</label>
       </monument>
     </monuments>
-    <transcriptions/>
   </document>
   <document>
     <census-id>10172106</census-id>
     <name>fol. 022 r</name>
-    <monuments>
-      <monument>
-        <census-id>10064731</census-id>
-        <label>Denarius Q. C. Metellus Pius (Head of Pietas / Jug and Lituus, RRC 374.2)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>IMPER</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10064731</census-id>
+        <label>Denarius Q. C. Metellus Pius (Head of Pietas / Jug and Lituus, RRC 374.2)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10172109</census-id>
     <name>fol. 025 r</name>
-    <monuments>
-      <monument>
-        <census-id>10056230</census-id>
-        <label>Denarius of M. Mettius (Caesar / Venus, RRC 480.3)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>CAESAR</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10056230</census-id>
+        <label>Denarius of M. Mettius (Caesar / Venus, RRC 480.3)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10172112</census-id>
     <name>fol. 026 r</name>
-    <monuments>
-      <monument>
-        <census-id>10172114</census-id>
-        <label>Denarius of T. Sempronius Gracchus (Caesar /  Vexillum, Aquila, Plough and Decempeda, RRC 525.3)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>TI SEMPRONIVS GACCVS Q. DES</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10172114</census-id>
+        <label>Denarius of T. Sempronius Gracchus (Caesar /  Vexillum, Aquila, Plough and Decempeda, RRC 525.3)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10169383</census-id>
@@ -143,11 +141,16 @@
         <label>Denarius of Caesar (Female Head / Gallic Trophy, RRC 452.2) (owner: W. Imhoff)</label>
       </monument>
     </monuments>
-    <transcriptions/>
   </document>
   <document>
     <census-id>10169294</census-id>
     <name>fol. 032 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
     <monuments>
       <monument>
         <census-id>10169284</census-id>
@@ -158,12 +161,6 @@
         <label>Denarius of Caesar (Female Head / Gallic Trophy, RRC 452.2) (owner: W. Imhoff)</label>
       </monument>
     </monuments>
-    <transcriptions>
-      <transcription>
-        <inscription>CAESAR</inscription>
-        <inscription-type>coin legend</inscription-type>
-      </transcription>
-    </transcriptions>
   </document>
   <document>
     <census-id>10168281</census-id>
@@ -174,23 +171,22 @@
         <label>Denarius of Caesar (Venus / Aeneas and Anchises, RRC 458.1) (owner: J. Strada)</label>
       </monument>
     </monuments>
-    <transcriptions/>
   </document>
   <document>
     <census-id>10168282</census-id>
     <name>fol. 036 r</name>
-    <monuments>
-      <monument>
-        <census-id>10168315</census-id>
-        <label>Denarius of Caesar (Venus / Aeneas and Anchises, RRC 458.1) (owner: J. Strada)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>CAESAR</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10168315</census-id>
+        <label>Denarius of Caesar (Venus / Aeneas and Anchises, RRC 458.1) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10172117</census-id>
@@ -201,81 +197,74 @@
         <label>Denarius of L. Livineius (Head of Caesar / Bull, RRC 494.24)</label>
       </monument>
     </monuments>
-    <transcriptions/>
   </document>
   <document>
     <census-id>10172119</census-id>
     <name>fol. 040 r</name>
-    <monuments>
-      <monument>
-        <census-id>10059058</census-id>
-        <label>Denarius of L. Livineius (Head of Caesar / Bull, RRC 494.24)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>P LIVINEIVS REGVLVS</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10059058</census-id>
+        <label>Denarius of L. Livineius (Head of Caesar / Bull, RRC 494.24)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10172122</census-id>
     <name>fol. 041 r</name>
-    <monuments>
-      <monument>
-        <census-id>10062857</census-id>
-        <label>Denarius of T. Sempronius Graccus (Head of Caesar / Vexillum, Aquila, Plough and Decempeda, RRC 525.4a)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>SC</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10062857</census-id>
+        <label>Denarius of T. Sempronius Graccus (Head of Caesar / Vexillum, Aquila, Plough and Decempeda, RRC 525.4a)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10172126</census-id>
     <name>fol. 048 r</name>
-    <monuments>
-      <monument>
-        <census-id>10018790</census-id>
-        <label>Denarius of C. Cossutius Maridianus (Head of Caesar /  C. Cossutius Maridianus, RRC 480.19)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>C COSSVTIVS MARIDIANVS AAA FF</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10018790</census-id>
+        <label>Denarius of C. Cossutius Maridianus (Head of Caesar /  C. Cossutius Maridianus, RRC 480.19)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10169699</census-id>
     <name>fol. 049 r</name>
-    <monuments>
-      <monument>
-        <census-id>10169691</census-id>
-        <label>Bronze coin of Caesar (Laureate Caesar / Bellerophon on Pegasus, RPC 1116) (owner: G. Calestano)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>LAV R</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
-  </document>
-  <document>
-    <census-id>10169702</census-id>
-    <name>fol. 050 r</name>
     <monuments>
       <monument>
         <census-id>10169691</census-id>
         <label>Bronze coin of Caesar (Laureate Caesar / Bellerophon on Pegasus, RPC 1116) (owner: G. Calestano)</label>
       </monument>
     </monuments>
+  </document>
+  <document>
+    <census-id>10169702</census-id>
+    <name>fol. 050 r</name>
     <transcriptions>
       <transcription>
         <inscription>RTO AEGIPTOS&#13;
@@ -283,6 +272,12 @@ IVLIO IIV</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10169691</census-id>
+        <label>Bronze coin of Caesar (Laureate Caesar / Bellerophon on Pegasus, RPC 1116) (owner: G. Calestano)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10169236</census-id>
@@ -293,47 +288,32 @@ IVLIO IIV</inscription>
         <label>Denarius of Caesar /  Vexillum, Aquila, Plough and Decempeda (RRC 525.3) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
-    <transcriptions/>
   </document>
   <document>
     <census-id>10169237</census-id>
     <name>fol. 058 r</name>
-    <monuments>
-      <monument>
-        <census-id>10169226</census-id>
-        <label>Denarius of Caesar /  Vexillum, Aquila, Plough and Decempeda (RRC 525.3) (owner: A. Agust&#237;n)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>TI. SEMPRONIVS GRACCVS Q. DESIG. S C</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10169226</census-id>
+        <label>Denarius of Caesar /  Vexillum, Aquila, Plough and Decempeda (RRC 525.3) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10169108</census-id>
     <name>fol. 061 r</name>
-    <monuments>
-      <monument>
-        <census-id>10168958</census-id>
-        <label>Denarius of M. Mettius (Caesar / Venus (RRC 480.17) (owner A. Maffei)</label>
-      </monument>
-      <monument>
-        <census-id>10169105</census-id>
-        <label>Denarius of M. Mettius (Caesar / Venus, RRC 480.17) (owner: A. Agust&#237;n)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>CAESAR IMPER</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
-  </document>
-  <document>
-    <census-id>10169110</census-id>
-    <name>fol. 062 r</name>
     <monuments>
       <monument>
         <census-id>10168958</census-id>
@@ -344,28 +324,42 @@ IVLIO IIV</inscription>
         <label>Denarius of M. Mettius (Caesar / Venus, RRC 480.17) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+  </document>
+  <document>
+    <census-id>10169110</census-id>
+    <name>fol. 062 r</name>
     <transcriptions>
       <transcription>
         <inscription>A. M. METTIVS</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10168958</census-id>
+        <label>Denarius of M. Mettius (Caesar / Venus (RRC 480.17) (owner A. Maffei)</label>
+      </monument>
+      <monument>
+        <census-id>10169105</census-id>
+        <label>Denarius of M. Mettius (Caesar / Venus, RRC 480.17) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10169246</census-id>
     <name>fol. 063 r</name>
-    <monuments>
-      <monument>
-        <census-id>10169239</census-id>
-        <label>Denarius of Caesar (Elephant / Pontifical Emblems, RRC 443.1) (owner: J. Strada)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>CAESAR.</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10169239</census-id>
+        <label>Denarius of Caesar (Elephant / Pontifical Emblems, RRC 443.1) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10169248</census-id>
@@ -376,27 +370,32 @@ IVLIO IIV</inscription>
         <label>Denarius of Caesar (Elephant / Pontifical Emblems, RRC 443.1) (owner: J. Strada)</label>
       </monument>
     </monuments>
-    <transcriptions/>
   </document>
   <document>
     <census-id>10168867</census-id>
     <name>fol. 072 r</name>
-    <monuments>
-      <monument>
-        <census-id>10168872</census-id>
-        <label> Bronze Coin of Cnossus (Head of Augustus / Labyrinth, RPC I 977) (owner: R. Odoni) </label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>PETRONIVS</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10168872</census-id>
+        <label> Bronze Coin of Cnossus (Head of Augustus / Labyrinth, RPC I 977) (owner: R. Odoni) </label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10169220</census-id>
     <name>fol. 075 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
     <monuments>
       <monument>
         <census-id>10062857</census-id>
@@ -407,38 +406,26 @@ IVLIO IIV</inscription>
         <label>Denarius of Caesar / Vexillum, Aquila, Plough and Decempeda (RRC 525.4a) (owner: G. Delfini)</label>
       </monument>
     </monuments>
-    <transcriptions>
-      <transcription>
-        <inscription>S C</inscription>
-        <inscription-type>coin legend</inscription-type>
-      </transcription>
-    </transcriptions>
   </document>
   <document>
     <census-id>10168084</census-id>
     <name>fol. 083 r</name>
-    <monuments>
-      <monument>
-        <census-id>10168247</census-id>
-        <label>Denarius of Caesar / C. Cossutius Maridianus (RRC 480.19) (owner: A. Agust&#237;n)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>CAESAR PARENS PATRIAE</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
-  </document>
-  <document>
-    <census-id>10168086</census-id>
-    <name>fol. 084 r</name>
     <monuments>
       <monument>
         <census-id>10168247</census-id>
         <label>Denarius of Caesar / C. Cossutius Maridianus (RRC 480.19) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
+  </document>
+  <document>
+    <census-id>10168086</census-id>
+    <name>fol. 084 r</name>
     <transcriptions>
       <transcription>
         <inscription>C . COSSVTIVS&#13;
@@ -447,6 +434,12 @@ A A A FF</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10168247</census-id>
+        <label>Denarius of Caesar / C. Cossutius Maridianus (RRC 480.19) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10172142</census-id>
@@ -457,55 +450,54 @@ A A A FF</inscription>
         <label>Denarius of C. I. Caesar (Head of Venus / Trophy, RRC 468.1)</label>
       </monument>
     </monuments>
-    <transcriptions/>
   </document>
   <document>
     <census-id>10172144</census-id>
     <name>fol. 086 r</name>
-    <monuments>
-      <monument>
-        <census-id>10059316</census-id>
-        <label>Denarius of C. I. Caesar (Head of Venus / Trophy, RRC 468.1)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>CAESAR</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10059316</census-id>
+        <label>Denarius of C. I. Caesar (Head of Venus / Trophy, RRC 468.1)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10172147</census-id>
     <name>fol. 087 r</name>
-    <monuments>
-      <monument>
-        <census-id>10059261</census-id>
-        <label>Aureus of C. I. Caesar and A. Hirtius (Head of Vesta / Religious Instruments, RRC 466.1)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>C CAESAR COS TER</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
-  </document>
-  <document>
-    <census-id>10172150</census-id>
-    <name>fol. 088 r</name>
     <monuments>
       <monument>
         <census-id>10059261</census-id>
         <label>Aureus of C. I. Caesar and A. Hirtius (Head of Vesta / Religious Instruments, RRC 466.1)</label>
       </monument>
     </monuments>
+  </document>
+  <document>
+    <census-id>10172150</census-id>
+    <name>fol. 088 r</name>
     <transcriptions>
       <transcription>
         <inscription>ANTIVSTIS PR</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10059261</census-id>
+        <label>Aureus of C. I. Caesar and A. Hirtius (Head of Vesta / Religious Instruments, RRC 466.1)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10168278</census-id>
@@ -520,11 +512,16 @@ A A A FF</inscription>
         <label>Denarius of Julius Caesar / Cornucopia, Globe, Rudder, Caduceus and Apex (RRC 494.39b) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
-    <transcriptions/>
   </document>
   <document>
     <census-id>10168279</census-id>
     <name>fol. 092 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>L. MVSSIDIVS LONGVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
     <monuments>
       <monument>
         <census-id>10168300</census-id>
@@ -535,92 +532,86 @@ A A A FF</inscription>
         <label>Denarius of Julius Caesar / Cornucopia, Globe, Rudder, Caduceus and Apex (RRC 494.39b) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
-    <transcriptions>
-      <transcription>
-        <inscription>L. MVSSIDIVS LONGVS</inscription>
-        <inscription-type>coin legend</inscription-type>
-      </transcription>
-    </transcriptions>
   </document>
   <document>
     <census-id>10169272</census-id>
     <name>fol. 093 r</name>
-    <monuments>
-      <monument>
-        <census-id>10168247</census-id>
-        <label>Denarius of Caesar / C. Cossutius Maridianus (RRC 480.19) (owner: A. Agust&#237;n)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>CAESAR PARENS PATRIAE</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10168247</census-id>
+        <label>Denarius of Caesar / C. Cossutius Maridianus (RRC 480.19) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10169276</census-id>
     <name>fol. 094 r</name>
-    <monuments>
-      <monument>
-        <census-id>10174045</census-id>
-        <label>Denarius of M. Antonius / Octavian (RRC 517.2) (owner: A. Agust&#237;n)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>C. COSSVTIVS MARIDIANVS AAA FF</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10174045</census-id>
+        <label>Denarius of M. Antonius / Octavian (RRC 517.2) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10172153</census-id>
     <name>fol. 095 r</name>
-    <monuments>
-      <monument>
-        <census-id>10056230</census-id>
-        <label>Denarius of M. Mettius (Caesar / Venus, RRC 480.3)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>CAESAR IMP</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10056230</census-id>
+        <label>Denarius of M. Mettius (Caesar / Venus, RRC 480.3)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10172160</census-id>
     <name>fol. 099 r</name>
-    <monuments>
-      <monument>
-        <census-id>10057260</census-id>
-        <label>Denarius of M. Antonius / Caesar (RRC 488.1)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>CAESAR</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
-  </document>
-  <document>
-    <census-id>10172163</census-id>
-    <name>fol. 100 r</name>
     <monuments>
       <monument>
         <census-id>10057260</census-id>
         <label>Denarius of M. Antonius / Caesar (RRC 488.1)</label>
       </monument>
     </monuments>
+  </document>
+  <document>
+    <census-id>10172163</census-id>
+    <name>fol. 100 r</name>
     <transcriptions>
       <transcription>
         <inscription>M ANTON IMP</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10057260</census-id>
+        <label>Denarius of M. Antonius / Caesar (RRC 488.1)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10169476</census-id>
@@ -631,39 +622,38 @@ A A A FF</inscription>
         <label>Denarius of Caesar / Goddess (RRC 485.1) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
-    <transcriptions/>
   </document>
   <document>
     <census-id>10169478</census-id>
     <name>fol. 102 r</name>
-    <monuments>
-      <monument>
-        <census-id>10169410</census-id>
-        <label>Denarius of Caesar / Goddess (RRC 485.1) (owner: A. Agust&#237;n)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>L. FLAMINIVS IIIIVIR</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10169410</census-id>
+        <label>Denarius of Caesar / Goddess (RRC 485.1) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10169468</census-id>
     <name>fol. 104 r</name>
-    <monuments>
-      <monument>
-        <census-id>10169456</census-id>
-        <label>Denarius of  Caesar / Calf (RRC 526.2) (owner: A. Maffei)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>Q. VOCONIVS VITVLVS</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10169456</census-id>
+        <label>Denarius of  Caesar / Calf (RRC 526.2) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10172750</census-id>
@@ -674,39 +664,38 @@ A A A FF</inscription>
         <label>Denarius of  Caesar / Calf (RRC 526.2) (owner: A. Maffei)</label>
       </monument>
     </monuments>
-    <transcriptions/>
   </document>
   <document>
     <census-id>10172166</census-id>
     <name>fol. 106 r</name>
-    <monuments>
-      <monument>
-        <census-id>10059321</census-id>
-        <label>Denarius of Octavian / Crocodile (RIC 275a)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>AEGYPTO CAPTA</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10059321</census-id>
+        <label>Denarius of Octavian / Crocodile (RIC 275a)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10172200</census-id>
     <name>fol. 110 r</name>
-    <monuments>
-      <monument>
-        <census-id>10057260</census-id>
-        <label>Denarius of M. Antonius / Caesar (RRC 488.1)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>M ANTON IMP</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10057260</census-id>
+        <label>Denarius of M. Antonius / Caesar (RRC 488.1)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10169260</census-id>
@@ -717,23 +706,22 @@ A A A FF</inscription>
         <label>Denarius of Caesar / Bull (RRC 494.24) (owner: J. Fugger)</label>
       </monument>
     </monuments>
-    <transcriptions/>
   </document>
   <document>
     <census-id>10169262</census-id>
     <name>fol. 114 r</name>
-    <monuments>
-      <monument>
-        <census-id>10169249</census-id>
-        <label>Denarius of Caesar / Bull (RRC 494.24) (owner: J. Fugger)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>L. LIVINEIVS REGVLVS</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10169249</census-id>
+        <label>Denarius of Caesar / Bull (RRC 494.24) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10172203</census-id>
@@ -744,23 +732,22 @@ A A A FF</inscription>
         <label>Quinarius of C. Iulius Caesar (Head of Vesta / Trophy, RRC 452.3)</label>
       </monument>
     </monuments>
-    <transcriptions/>
   </document>
   <document>
     <census-id>10172205</census-id>
     <name>fol. 116 r</name>
-    <monuments>
-      <monument>
-        <census-id>10059334</census-id>
-        <label>Quinarius of C. Iulius Caesar (Head of Vesta / Trophy, RRC 452.3)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>CAESAR</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10059334</census-id>
+        <label>Quinarius of C. Iulius Caesar (Head of Vesta / Trophy, RRC 452.3)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10169178</census-id>
@@ -771,255 +758,240 @@ A A A FF</inscription>
         <label>Aureus of Q. Voconius Vitulus (Octavian / Calf, RRC 526.3) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
-    <transcriptions/>
   </document>
   <document>
     <census-id>10172208</census-id>
     <name>fol. 118 r</name>
-    <monuments>
-      <monument>
-        <census-id>10060146</census-id>
-        <label>Denarius of L. Mussidius Longus (Gaius iulius Caesar / Cornucopia, Globe, Rudder, Caduceus and Apex, RRC 494.39a)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>L MVSSIDIVS LONGVS</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
-  </document>
-  <document>
-    <census-id>10172211</census-id>
-    <name>fol. 123 r</name>
-    <monuments>
-      <monument>
-        <census-id>10057103</census-id>
-        <label>Denarius of A. Allienus (Head of Venus / Trinacrus, RRC 457.1)</label>
-      </monument>
-    </monuments>
-    <transcriptions>
-      <transcription>
-        <inscription>IMP COS ITER CAESAR</inscription>
-        <inscription-type>coin legend</inscription-type>
-      </transcription>
-    </transcriptions>
-  </document>
-  <document>
-    <census-id>10172214</census-id>
-    <name>fol. 124 r</name>
-    <monuments>
-      <monument>
-        <census-id>10057103</census-id>
-        <label>Denarius of A. Allienus (Head of Venus / Trinacrus, RRC 457.1)</label>
-      </monument>
-    </monuments>
-    <transcriptions>
-      <transcription>
-        <inscription>A ALLIENVS PRO COS</inscription>
-        <inscription-type>coin legend</inscription-type>
-      </transcription>
-    </transcriptions>
-  </document>
-  <document>
-    <census-id>10172217</census-id>
-    <name>fol. 127 r</name>
-    <monuments>
-      <monument>
-        <census-id>10057260</census-id>
-        <label>Denarius of M. Antonius / Caesar (RRC 488.1)</label>
-      </monument>
-    </monuments>
-    <transcriptions>
-      <transcription>
-        <inscription>CAESAR DIC CC</inscription>
-        <inscription-type>coin legend</inscription-type>
-      </transcription>
-    </transcriptions>
-  </document>
-  <document>
-    <census-id>10172227</census-id>
-    <name>fol. 129 r</name>
-    <monuments>
-      <monument>
-        <census-id>10057260</census-id>
-        <label>Denarius of M. Antonius / Caesar (RRC 488.1)</label>
-      </monument>
-    </monuments>
-    <transcriptions>
-      <transcription>
-        <inscription>CAESAR DIC</inscription>
-        <inscription-type>coin legend</inscription-type>
-      </transcription>
-    </transcriptions>
-  </document>
-  <document>
-    <census-id>10172230</census-id>
-    <name>fol. 130 r</name>
-    <monuments>
-      <monument>
-        <census-id>10057260</census-id>
-        <label>Denarius of M. Antonius / Caesar (RRC 488.1)</label>
-      </monument>
-    </monuments>
-    <transcriptions>
-      <transcription>
-        <inscription>M ANTON IMPER III</inscription>
-        <inscription-type>coin legend</inscription-type>
-      </transcription>
-    </transcriptions>
-  </document>
-  <document>
-    <census-id>10172233</census-id>
-    <name>fol. 132 r</name>
-    <monuments>
-      <monument>
-        <census-id>10057260</census-id>
-        <label>Denarius of M. Antonius / Caesar (RRC 488.1)</label>
-      </monument>
-    </monuments>
-    <transcriptions>
-      <transcription>
-        <inscription>M ANTON IMP</inscription>
-        <inscription-type>coin legend</inscription-type>
-      </transcription>
-    </transcriptions>
-  </document>
-  <document>
-    <census-id>10172236</census-id>
-    <name>fol. 133 r</name>
-    <monuments>
-      <monument>
-        <census-id>10057260</census-id>
-        <label>Denarius of M. Antonius / Caesar (RRC 488.1)</label>
-      </monument>
-    </monuments>
-    <transcriptions>
-      <transcription>
-        <inscription>CAESAR DIC</inscription>
-        <inscription-type>coin legend</inscription-type>
-      </transcription>
-    </transcriptions>
-  </document>
-  <document>
-    <census-id>10172239</census-id>
-    <name>fol. 134 r</name>
-    <monuments>
-      <monument>
-        <census-id>10171227</census-id>
-        <label>Denarius of M. Antonius and Lituus / Laureate Caesar and Sitella (RRC 488.2)</label>
-      </monument>
-    </monuments>
-    <transcriptions>
-      <transcription>
-        <inscription>M ANTO IMP RPC</inscription>
-        <inscription-type>coin legend</inscription-type>
-      </transcription>
-    </transcriptions>
-  </document>
-  <document>
-    <census-id>10172242</census-id>
-    <name>fol. 138 r</name>
     <monuments>
       <monument>
         <census-id>10060146</census-id>
         <label>Denarius of L. Mussidius Longus (Gaius iulius Caesar / Cornucopia, Globe, Rudder, Caduceus and Apex, RRC 494.39a)</label>
       </monument>
     </monuments>
+  </document>
+  <document>
+    <census-id>10172211</census-id>
+    <name>fol. 123 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP COS ITER CAESAR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10057103</census-id>
+        <label>Denarius of A. Allienus (Head of Venus / Trinacrus, RRC 457.1)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10172214</census-id>
+    <name>fol. 124 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>A ALLIENVS PRO COS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10057103</census-id>
+        <label>Denarius of A. Allienus (Head of Venus / Trinacrus, RRC 457.1)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10172217</census-id>
+    <name>fol. 127 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR DIC CC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10057260</census-id>
+        <label>Denarius of M. Antonius / Caesar (RRC 488.1)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10172227</census-id>
+    <name>fol. 129 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR DIC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10057260</census-id>
+        <label>Denarius of M. Antonius / Caesar (RRC 488.1)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10172230</census-id>
+    <name>fol. 130 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>M ANTON IMPER III</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10057260</census-id>
+        <label>Denarius of M. Antonius / Caesar (RRC 488.1)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10172233</census-id>
+    <name>fol. 132 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>M ANTON IMP</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10057260</census-id>
+        <label>Denarius of M. Antonius / Caesar (RRC 488.1)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10172236</census-id>
+    <name>fol. 133 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR DIC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10057260</census-id>
+        <label>Denarius of M. Antonius / Caesar (RRC 488.1)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10172239</census-id>
+    <name>fol. 134 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>M ANTO IMP RPC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10171227</census-id>
+        <label>Denarius of M. Antonius and Lituus / Laureate Caesar and Sitella (RRC 488.2)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10172242</census-id>
+    <name>fol. 138 r</name>
     <transcriptions>
       <transcription>
         <inscription>L. MVSSIDIVS LONGVS</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10060146</census-id>
+        <label>Denarius of L. Mussidius Longus (Gaius iulius Caesar / Cornucopia, Globe, Rudder, Caduceus and Apex, RRC 494.39a)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10172245</census-id>
     <name>fol. 141 r</name>
-    <monuments>
-      <monument>
-        <census-id>10176982</census-id>
-        <label>Denarius of C. Iulius Caesar (Ceres / Ritual Instruments, RRC 467.1a) (owner: J. Fugger)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>DICT ITER COS TERT</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10176982</census-id>
+        <label>Denarius of C. Iulius Caesar (Ceres / Ritual Instruments, RRC 467.1a) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10172248</census-id>
     <name>fol. 142 r</name>
-    <monuments>
-      <monument>
-        <census-id>10176982</census-id>
-        <label>Denarius of C. Iulius Caesar (Ceres / Ritual Instruments, RRC 467.1a) (owner: J. Fugger)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>AVGVR D PONT MAX</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
-  </document>
-  <document>
-    <census-id>10172251</census-id>
-    <name>fol. 145 r</name>
     <monuments>
       <monument>
         <census-id>10176982</census-id>
         <label>Denarius of C. Iulius Caesar (Ceres / Ritual Instruments, RRC 467.1a) (owner: J. Fugger)</label>
       </monument>
     </monuments>
+  </document>
+  <document>
+    <census-id>10172251</census-id>
+    <name>fol. 145 r</name>
     <transcriptions>
       <transcription>
         <inscription>DICT ITER COS TERT</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
-  </document>
-  <document>
-    <census-id>10172254</census-id>
-    <name>fol. 146 r</name>
     <monuments>
       <monument>
         <census-id>10176982</census-id>
         <label>Denarius of C. Iulius Caesar (Ceres / Ritual Instruments, RRC 467.1a) (owner: J. Fugger)</label>
       </monument>
     </monuments>
+  </document>
+  <document>
+    <census-id>10172254</census-id>
+    <name>fol. 146 r</name>
     <transcriptions>
       <transcription>
         <inscription>AVGVR D PONT MAX</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10176982</census-id>
+        <label>Denarius of C. Iulius Caesar (Ceres / Ritual Instruments, RRC 467.1a) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10172257</census-id>
     <name>fol. 148 r</name>
-    <monuments>
-      <monument>
-        <census-id>10065160</census-id>
-        <label>Denarius of P. Sepullius Macer (Head of Caesar / Venus, RRC 480.9)</label>
-      </monument>
-      <monument>
-        <census-id>10174042</census-id>
-        <label>Denarius of P. Sepullius Macer (Head of Caesar / Venus, RRC 480.9) (owner: A. Conteschi)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>P SEPVLLIVS MACER</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
-  </document>
-  <document>
-    <census-id>10172752</census-id>
-    <name>fol. 149 r</name>
     <monuments>
       <monument>
         <census-id>10065160</census-id>
@@ -1030,22 +1002,30 @@ A A A FF</inscription>
         <label>Denarius of P. Sepullius Macer (Head of Caesar / Venus, RRC 480.9) (owner: A. Conteschi)</label>
       </monument>
     </monuments>
+  </document>
+  <document>
+    <census-id>10172752</census-id>
+    <name>fol. 149 r</name>
     <transcriptions>
       <transcription>
         <inscription>CAESAR DICT TERT</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10065160</census-id>
+        <label>Denarius of P. Sepullius Macer (Head of Caesar / Venus, RRC 480.9)</label>
+      </monument>
+      <monument>
+        <census-id>10174042</census-id>
+        <label>Denarius of P. Sepullius Macer (Head of Caesar / Venus, RRC 480.9) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10169208</census-id>
     <name>fol. 150 r</name>
-    <monuments>
-      <monument>
-        <census-id>10169206</census-id>
-        <label>Aureus of Q. Voconius Vitulus (Octavian / Calf, RRC 526.3) (owner: A. Agust&#237;n)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>Q. VOCONIVS&#13;
@@ -1054,234 +1034,246 @@ S C</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10169206</census-id>
+        <label>Aureus of Q. Voconius Vitulus (Octavian / Calf, RRC 526.3) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10172265</census-id>
     <name>fol. 151 r</name>
-    <monuments>
-      <monument>
-        <census-id>10172262</census-id>
-        <label>Quinarius Aureus of Caesar and L. Munatius Plancus (Bust of Victory / Jug, RRC 475.2)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>C CAES DICTER</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
-  </document>
-  <document>
-    <census-id>10172268</census-id>
-    <name>fol. 152 r</name>
     <monuments>
       <monument>
         <census-id>10172262</census-id>
         <label>Quinarius Aureus of Caesar and L. Munatius Plancus (Bust of Victory / Jug, RRC 475.2)</label>
       </monument>
     </monuments>
+  </document>
+  <document>
+    <census-id>10172268</census-id>
+    <name>fol. 152 r</name>
     <transcriptions>
       <transcription>
         <inscription>L PLANC PR VRB</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10172262</census-id>
+        <label>Quinarius Aureus of Caesar and L. Munatius Plancus (Bust of Victory / Jug, RRC 475.2)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10168897</census-id>
     <name>fol. 153 r</name>
-    <monuments>
-      <monument>
-        <census-id>10168907</census-id>
-        <label>Dupondius of Caesar (Victory / Minerva, RRC 476.1a) (owner: J. Strada)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>CAESAR DIC. TER.</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
-  </document>
-  <document>
-    <census-id>10168899</census-id>
-    <name>fol. 154 r</name>
     <monuments>
       <monument>
         <census-id>10168907</census-id>
         <label>Dupondius of Caesar (Victory / Minerva, RRC 476.1a) (owner: J. Strada)</label>
       </monument>
     </monuments>
+  </document>
+  <document>
+    <census-id>10168899</census-id>
+    <name>fol. 154 r</name>
     <transcriptions>
       <transcription>
         <inscription>C. CLOVI. PRAEF.</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10168907</census-id>
+        <label>Dupondius of Caesar (Victory / Minerva, RRC 476.1a) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10172271</census-id>
     <name>fol. 160 r</name>
-    <monuments>
-      <monument>
-        <census-id>10172274</census-id>
-        <label>Denarius of P. Sepullius Macer (Caesar / Venus, RRC 480.11)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>P SEPVLLIVS</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10172274</census-id>
+        <label>Denarius of P. Sepullius Macer (Caesar / Venus, RRC 480.11)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10172278</census-id>
     <name>fol. 162 r</name>
-    <monuments>
-      <monument>
-        <census-id>10060146</census-id>
-        <label>Denarius of L. Mussidius Longus (Gaius iulius Caesar / Cornucopia, Globe, Rudder, Caduceus and Apex, RRC 494.39a)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>L MVSSIDIVS LONGVS</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10060146</census-id>
+        <label>Denarius of L. Mussidius Longus (Gaius iulius Caesar / Cornucopia, Globe, Rudder, Caduceus and Apex, RRC 494.39a)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10168929</census-id>
     <name>fol. 163 r</name>
-    <monuments>
-      <monument>
-        <census-id>10168919</census-id>
-        <label>Dupondius of Caesar (Victory /  Minerva with Gorgoneion, RRC 476.1b) (owner: J. Strada)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>CAESAR DIC. TER.</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
-  </document>
-  <document>
-    <census-id>10168931</census-id>
-    <name>fol. 164 r</name>
     <monuments>
       <monument>
         <census-id>10168919</census-id>
         <label>Dupondius of Caesar (Victory /  Minerva with Gorgoneion, RRC 476.1b) (owner: J. Strada)</label>
       </monument>
     </monuments>
+  </document>
+  <document>
+    <census-id>10168931</census-id>
+    <name>fol. 164 r</name>
     <transcriptions>
       <transcription>
         <inscription>C. CLOVI PRAEF.</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10168919</census-id>
+        <label>Dupondius of Caesar (Victory /  Minerva with Gorgoneion, RRC 476.1b) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10172281</census-id>
     <name>fol. 165 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR DICT QVART</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
     <monuments>
       <monument>
         <census-id>10061841</census-id>
         <label>Denarius of M. Mettius (Head of Caesar / Juno Sospita, RRC 480.2a)</label>
       </monument>
     </monuments>
-    <transcriptions>
-      <transcription>
-        <inscription>CAESAR DICT QVART</inscription>
-        <inscription-type>coin legend</inscription-type>
-      </transcription>
-    </transcriptions>
   </document>
   <document>
     <census-id>10168952</census-id>
     <name>fol. 171 r</name>
-    <monuments>
-      <monument>
-        <census-id>10168939</census-id>
-        <label>Denarius of M. Mettius (Caesar / Juno Sospita, RRC 480.2a) (owner: G. Duchoul)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>CAESAR DICT QVART</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
-  </document>
-  <document>
-    <census-id>10168954</census-id>
-    <name>fol. 172 r</name>
     <monuments>
       <monument>
         <census-id>10168939</census-id>
         <label>Denarius of M. Mettius (Caesar / Juno Sospita, RRC 480.2a) (owner: G. Duchoul)</label>
       </monument>
     </monuments>
+  </document>
+  <document>
+    <census-id>10168954</census-id>
+    <name>fol. 172 r</name>
     <transcriptions>
       <transcription>
         <inscription>M METELLVS</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10168939</census-id>
+        <label>Denarius of M. Mettius (Caesar / Juno Sospita, RRC 480.2a) (owner: G. Duchoul)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10172284</census-id>
     <name>fol. 175 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR DICT PERPETVO</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
     <monuments>
       <monument>
         <census-id>10169398</census-id>
         <label>Denarius of L. Aemilius Buca (Caesar / Globe, Fasces, Caduceus, Clasped Hands and Axe, RRC 480.6)</label>
       </monument>
     </monuments>
-    <transcriptions>
-      <transcription>
-        <inscription>CAESAR DICT PERPETVO</inscription>
-        <inscription-type>coin legend</inscription-type>
-      </transcription>
-    </transcriptions>
   </document>
   <document>
     <census-id>10169385</census-id>
     <name>fol. 181 r</name>
-    <monuments>
-      <monument>
-        <census-id>10025405</census-id>
-        <label>Denarius of L. Aemilius Buca (Head of Caesar / Globe, Fasces, Caduceus, Clasped Hands and Axe, RRC 480.6) (owner: J. Fugger)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>CAESAR DICT PERPETVO</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
-  </document>
-  <document>
-    <census-id>10169387</census-id>
-    <name>fol. 182 r</name>
     <monuments>
       <monument>
         <census-id>10025405</census-id>
         <label>Denarius of L. Aemilius Buca (Head of Caesar / Globe, Fasces, Caduceus, Clasped Hands and Axe, RRC 480.6) (owner: J. Fugger)</label>
       </monument>
     </monuments>
+  </document>
+  <document>
+    <census-id>10169387</census-id>
+    <name>fol. 182 r</name>
     <transcriptions>
       <transcription>
         <inscription>L. BVCA</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10025405</census-id>
+        <label>Denarius of L. Aemilius Buca (Head of Caesar / Globe, Fasces, Caduceus, Clasped Hands and Axe, RRC 480.6) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10168251</census-id>
     <name>fol. 195 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR DICT PERPETVO</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
     <monuments>
       <monument>
         <census-id>10168273</census-id>
@@ -1292,16 +1284,16 @@ S C</inscription>
         <label>Denarius of L. Aemilius Buca (Caesar / Venus, RRC 480.7b) (owner: A. Conteschi)</label>
       </monument>
     </monuments>
-    <transcriptions>
-      <transcription>
-        <inscription>CAESAR DICT PERPETVO</inscription>
-        <inscription-type>coin legend</inscription-type>
-      </transcription>
-    </transcriptions>
   </document>
   <document>
     <census-id>10168253</census-id>
     <name>fol. 196 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>P. SEPVLLIVS MACER </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
     <monuments>
       <monument>
         <census-id>10168273</census-id>
@@ -1316,156 +1308,150 @@ S C</inscription>
         <label>Denarius of P. Sepullius Macer (Head of Caesar / Venus, RRC 480.9) (owner: A. Conteschi)</label>
       </monument>
     </monuments>
-    <transcriptions>
-      <transcription>
-        <inscription>P. SEPVLLIVS MACER </inscription>
-        <inscription-type>coin legend</inscription-type>
-      </transcription>
-    </transcriptions>
   </document>
   <document>
     <census-id>10172287</census-id>
     <name>fol. 202 r</name>
-    <monuments>
-      <monument>
-        <census-id>10055662</census-id>
-        <label>Denarius of L. Aemilius Buca (Caesar / Venus, RRC 480.4)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>L AEMILIVS BVCA</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10055662</census-id>
+        <label>Denarius of L. Aemilius Buca (Caesar / Venus, RRC 480.4)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10169180</census-id>
     <name>fol. 207 r</name>
-    <monuments>
-      <monument>
-        <census-id>10169187</census-id>
-        <label>Denarius of L. Aemilius Buca (Caesar / Venus, RRC 480.7b) (owner: A. Conteschi)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>CAESAR DICT. PERPETVO</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
-  </document>
-  <document>
-    <census-id>10169196</census-id>
-    <name>fol. 208 r</name>
     <monuments>
       <monument>
         <census-id>10169187</census-id>
         <label>Denarius of L. Aemilius Buca (Caesar / Venus, RRC 480.7b) (owner: A. Conteschi)</label>
       </monument>
     </monuments>
+  </document>
+  <document>
+    <census-id>10169196</census-id>
+    <name>fol. 208 r</name>
     <transcriptions>
       <transcription>
         <inscription>L. BVCA</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10169187</census-id>
+        <label>Denarius of L. Aemilius Buca (Caesar / Venus, RRC 480.7b) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10172375</census-id>
     <name>fol. 219 r</name>
-    <monuments>
-      <monument>
-        <census-id>10172385</census-id>
-        <label>Aureus of Trajan (Head of Divus Julius / Winged Nemesis With Snake, RIC II 815)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>DIVVS IVLIVS</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
-  </document>
-  <document>
-    <census-id>10172378</census-id>
-    <name>fol. 220 r</name>
     <monuments>
       <monument>
         <census-id>10172385</census-id>
         <label>Aureus of Trajan (Head of Divus Julius / Winged Nemesis With Snake, RIC II 815)</label>
       </monument>
     </monuments>
+  </document>
+  <document>
+    <census-id>10172378</census-id>
+    <name>fol. 220 r</name>
     <transcriptions>
       <transcription>
         <inscription>IMP CAESAR TRAIAN AVG GERDAC PP REST</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10172385</census-id>
+        <label>Aureus of Trajan (Head of Divus Julius / Winged Nemesis With Snake, RIC II 815)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10168901</census-id>
     <name>fol. 222 r</name>
-    <monuments>
-      <monument>
-        <census-id>10168911</census-id>
-        <label>Bronze Coin of Ilerda (Augustus / Wolf, RPC I 260) (owner: A. Amerigi)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>ILERDA</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10168911</census-id>
+        <label>Bronze Coin of Ilerda (Augustus / Wolf, RPC I 260) (owner: A. Amerigi)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10172388</census-id>
     <name>fol. 225 r</name>
-    <monuments>
-      <monument>
-        <census-id>10060144</census-id>
-        <label>Denarius of M. Agrippa / Heads of Caesar and Octavian (RRC 534.2)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>DIVI F DIVOS IVLIVS</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10060144</census-id>
+        <label>Denarius of M. Agrippa / Heads of Caesar and Octavian (RRC 534.2)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10172392</census-id>
     <name>fol. 230 r</name>
-    <monuments>
-      <monument>
-        <census-id>10036075</census-id>
-        <label>Denarius of Augustus / Crocodile (RIC 545)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>AEGYPTO CAPTA</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10036075</census-id>
+        <label>Denarius of Augustus / Crocodile (RIC 545)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10172397</census-id>
     <name>fol. 231 r</name>
-    <monuments>
-      <monument>
-        <census-id>10173717</census-id>
-        <label>Dupondius of Gaul (Caesar and Octavian / Prow with Dolphin, RPC I 514)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>CAESAR DIVI F DIVI IVLI IMP</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10173717</census-id>
+        <label>Dupondius of Gaul (Caesar and Octavian / Prow with Dolphin, RPC I 514)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10172400</census-id>
@@ -1476,7 +1462,6 @@ S C</inscription>
         <label>Dupondius of Gaul (Caesar and Octavian / Prow with Dolphin, RPC I 514)</label>
       </monument>
     </monuments>
-    <transcriptions/>
   </document>
   <document>
     <census-id>10172403</census-id>
@@ -1487,55 +1472,54 @@ S C</inscription>
         <label>Denarius of Augustus / Comet (RIC 37a)</label>
       </monument>
     </monuments>
-    <transcriptions/>
   </document>
   <document>
     <census-id>10172405</census-id>
     <name>fol. 239 r</name>
-    <monuments>
-      <monument>
-        <census-id>10060144</census-id>
-        <label>Denarius of M. Agrippa / Heads of Caesar and Octavian (RRC 534.2)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>DIVI F DIVOS IVLIVS</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
-  </document>
-  <document>
-    <census-id>10172408</census-id>
-    <name>fol. 240 r</name>
     <monuments>
       <monument>
         <census-id>10060144</census-id>
         <label>Denarius of M. Agrippa / Heads of Caesar and Octavian (RRC 534.2)</label>
       </monument>
     </monuments>
+  </document>
+  <document>
+    <census-id>10172408</census-id>
+    <name>fol. 240 r</name>
     <transcriptions>
       <transcription>
         <inscription>M AGRIPPA COS DESIG</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10060144</census-id>
+        <label>Denarius of M. Agrippa / Heads of Caesar and Octavian (RRC 534.2)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10169103</census-id>
     <name>fol. 248 r</name>
-    <monuments>
-      <monument>
-        <census-id>10169092</census-id>
-        <label>Denarius of  P. Sepullius Macer (Caesar / Venus, RRC 480.9) (owner: J. Strada)</label>
-      </monument>
-    </monuments>
     <transcriptions>
       <transcription>
         <inscription>P. SEPVLLIVS MACER</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10169092</census-id>
+        <label>Denarius of  P. Sepullius Macer (Caesar / Venus, RRC 480.9) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
   </document>
   <document>
     <census-id>10172413</census-id>
@@ -1546,7 +1530,6 @@ S C</inscription>
         <label>Denarius of M. Antonius / Prow (RRC 521.2)</label>
       </monument>
     </monuments>
-    <transcriptions/>
   </document>
   <document>
     <census-id>10172416</census-id>
@@ -1557,7 +1540,6 @@ S C</inscription>
         <label>Denarius of M. Agrippa / Heads of Caesar and Octavian (RRC 534.2)</label>
       </monument>
     </monuments>
-    <transcriptions/>
   </document>
   <document>
     <census-id>10172419</census-id>
@@ -1568,7 +1550,6 @@ S C</inscription>
         <label>Denarius of M. Agrippa / Heads of Caesar and Octavian (RRC 534.2)</label>
       </monument>
     </monuments>
-    <transcriptions/>
   </document>
   <document>
     <census-id>10172422</census-id>
@@ -1579,7 +1560,6 @@ S C</inscription>
         <label>Denarius of Augustus / Comet (RIC 37a)</label>
       </monument>
     </monuments>
-    <transcriptions/>
   </document>
   <document>
     <census-id>10172426</census-id>
@@ -1590,7 +1570,6 @@ S C</inscription>
         <label>Bronze Coin of Vedius Pollio / Temple With Eagle, Chariot and Caduceus, RPC  I 2634</label>
       </monument>
     </monuments>
-    <transcriptions/>
   </document>
   <document>
     <census-id>10172428</census-id>
@@ -1601,7 +1580,6 @@ S C</inscription>
         <label>Bronze Coin of Vedius Pollio / Temple With Eagle, Chariot and Caduceus, RPC  I 2634</label>
       </monument>
     </monuments>
-    <transcriptions/>
   </document>
   <document>
     <census-id>10172430</census-id>
@@ -1612,7 +1590,6 @@ S C</inscription>
         <label>Bronze Coin of Vedius Pollio / Laureate Head of Zeus, RPC I 2635</label>
       </monument>
     </monuments>
-    <transcriptions/>
   </document>
   <document>
     <census-id>10172439</census-id>
@@ -1623,7 +1600,6 @@ S C</inscription>
         <label>Bronze Coin of Vedius Pollio / Laureate Head of Zeus, RPC I 2635</label>
       </monument>
     </monuments>
-    <transcriptions/>
   </document>
   <document>
     <census-id>10172443</census-id>
@@ -1634,7 +1610,6 @@ S C</inscription>
         <label>Bronze Coin of Vedius Pollio / Temple With Eagle, Chariot and Caduceus (RPC I 2634) (owner: G. Achillini)</label>
       </monument>
     </monuments>
-    <transcriptions/>
   </document>
   <document>
     <census-id>10172433</census-id>
@@ -1645,6 +1620,5 @@ S C</inscription>
         <label>Bronze Coin of Vedius Pollio / Temple With Eagle, Chariot and Caduceus (RPC I 2634) (owner: G. Achillini)</label>
       </monument>
     </monuments>
-    <transcriptions/>
   </document>
 </documents>

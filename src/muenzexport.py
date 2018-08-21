@@ -97,8 +97,9 @@ def doc_to_xml(doc_id, documents, transcription_list) -> etree.Element:
     # Append document information and list of monuments and transcriptions to documents node
     document.append(census_id)
     document.append(name)
+    if len(transcriptions):
+        document.append(transcriptions)
     document.append(monuments)
-    document.append(transcriptions)
 
     return document
 
