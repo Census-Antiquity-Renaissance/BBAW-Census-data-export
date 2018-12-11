@@ -582,6 +582,10 @@
         <census-id>10177560</census-id>
         <label>Denarius of Augustus / Apollo (RIC 171a) (owner: A. Maffei)</label>
       </monument>
+      <monument>
+        <census-id>10199441</census-id>
+        <label>Denarius of Augustus / Apollo (RIC 171a) (owner: A. Agust&#237;n)</label>
+      </monument>
     </monuments>
   </document>
   <document>
@@ -939,6 +943,22 @@
     </monuments>
   </document>
   <document>
+    <census-id>10203995</census-id>
+    <name>fol. 098 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>XIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10203842</census-id>
+        <label>Bronze Tessera of Augustus / XIII</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
     <census-id>10179385</census-id>
     <name>fol. 104 r</name>
     <transcriptions>
@@ -971,6 +991,32 @@
       <monument>
         <census-id>10042123</census-id>
         <label>Quadrans of Augustus (Hands Clasped and Caduceus / SC, RIC 420)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10203998</census-id>
+    <name>fol. 108 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>A P P F</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10203984</census-id>
+        <label>Bronze Tessera (Sceptre and bust / Legend on shield)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204001</census-id>
+    <name>fol. 109 r</name>
+    <monuments>
+      <monument>
+        <census-id>10203984</census-id>
+        <label>Bronze Tessera (Sceptre and bust / Legend on shield)</label>
       </monument>
     </monuments>
   </document>
@@ -2013,6 +2059,16 @@
       <monument>
         <census-id>10174397</census-id>
         <label>Denarius of Augustus / Armenia Capta (RIC 516) (owner: G. Grimani)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204003</census-id>
+    <name>fol. 209 r</name>
+    <monuments>
+      <monument>
+        <census-id>10203988</census-id>
+        <label>Bronze Tessera (Griffin / Sacrificial tripod)</label>
       </monument>
     </monuments>
   </document>

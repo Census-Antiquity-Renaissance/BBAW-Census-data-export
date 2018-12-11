@@ -61,16 +61,6 @@
     </monuments>
   </document>
   <document>
-    <census-id>10180037</census-id>
-    <name>fol. 005 r, no. 10</name>
-    <monuments>
-      <monument>
-        <census-id>10026231</census-id>
-        <label>Copper Coin of Cnossus (Head of Nero / Heads of Nero and Octavia, RPC I 1005) (owner: Achillino)</label>
-      </monument>
-    </monuments>
-  </document>
-  <document>
     <census-id>10180061</census-id>
     <name>fol. 005 v, no. 1</name>
     <monuments>
@@ -429,11 +419,11 @@ ad occyput. T. AVG</inscription>
     <monuments>
       <monument>
         <census-id>10180792</census-id>
-        <label>As of Tiberius / Rudder with Globes (RIC 64) (owner: A. Agust&#237;n)</label>
+        <label>As of Tiberius / Rudder with Globe (RIC 64) (owner: A. Agust&#237;n)</label>
       </monument>
       <monument>
         <census-id>10182587</census-id>
-        <label>As of Tiberius (Tiberius / Rudder and Globus, RIC Tib 58) (owner: A. Agust&#237;n)</label>
+        <label>As of Tiberius (Tiberius / Rudder and Globus, RIC 58) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
   </document>
@@ -537,7 +527,5393 @@ ad occyput. T. AVG</inscription>
     <monuments>
       <monument>
         <census-id>10182563</census-id>
-        <label>Bronze Coin of Sidon (Laureate head / Europa on Bull, RPC 4612) (owner: Achillino)</label>
+        <label>Bronze Coin of Sidon (Laureate Head / Europa on Bull, RPC 4612) (owner: Achillino)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183154</census-id>
+    <name>fol. 031 r, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10184762</census-id>
+        <label>Sestertius of Caligula (Head of Caligula / 3 Sisters, RIC 33) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183171</census-id>
+    <name>fol. 031 v - 032 r, no. 4</name>
+    <monuments>
+      <monument>
+        <census-id>10025292</census-id>
+        <label>Sestertius of Caligula (Head of Caligula / Adlocutio, RIC 32)</label>
+      </monument>
+      <monument>
+        <census-id>10184765</census-id>
+        <label>Sestertius of Caligula (Head of Caligula / Adlocutio, RIC 32) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183255</census-id>
+    <name>fol. 032 r - 032 v, no. 6</name>
+    <monuments>
+      <monument>
+        <census-id>10183247</census-id>
+        <label>Sestertius of Caligula (Pietas seated / Hexastyle temple, RIC 36) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10183250</census-id>
+        <label>Sestertius of Caligula (Pietas seated / Hexastyle temple, RIC 36) (owner: J. Strada)</label>
+      </monument>
+      <monument>
+        <census-id>10184773</census-id>
+        <label>Sestertius of Caligula (Pietas seated / Hexastyle temple, RIC 36)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183192</census-id>
+    <name>fol. 032 r, no. 5</name>
+    <monuments>
+      <monument>
+        <census-id>10183188</census-id>
+        <label>Dupondius of Caligula (Nero and Drusus riding / SC, RIC 34) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183309</census-id>
+    <name>fol. 032 v, no. 7</name>
+    <monuments>
+      <monument>
+        <census-id>10183305</census-id>
+        <label>Sestertius of Claudius (Claudius / Oak-wreath, RIC 96) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183211</census-id>
+    <name>fol. 033 r, no. 10</name>
+    <monuments>
+      <monument>
+        <census-id>10183207</census-id>
+        <label>Quadrans of Caligula (Pileus between SC / R CC, RIC 39) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183290</census-id>
+    <name>fol. 033 v, no. 12</name>
+    <monuments>
+      <monument>
+        <census-id>10183287</census-id>
+        <label>Copper Coin of Caesaraugusta (Caligula/ Priest ploughing, RPC 371) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10183340</census-id>
+        <label>Dupondius of Caligula (Nero and Drusus Caesar Riding/ S C, RIC 42) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183230</census-id>
+    <name>fol. 034 r - 034 v, no. 15</name>
+    <monuments>
+      <monument>
+        <census-id>10043089</census-id>
+        <label>As of Caligula (Caligula/ Vesta (RIC 38)</label>
+      </monument>
+      <monument>
+        <census-id>10183223</census-id>
+        <label>As of Caligula (Caligula/ Vesta (RIC 38) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185392</census-id>
+    <name>fol. 034 r, no. 14</name>
+    <monuments>
+      <monument>
+        <census-id>10185388</census-id>
+        <label>Dupondius of Caligula (Nero and Drusus riding / SC, RIC 34) (owner: G. Romano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183367</census-id>
+    <name>fol. 034 v, no. 16</name>
+    <monuments>
+      <monument>
+        <census-id>10183344</census-id>
+        <label>As of Caligula (Caligula/ Vesta (RIC 38) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183375</census-id>
+    <name>fol. 034 v, no. 17</name>
+    <monuments>
+      <monument>
+        <census-id>10043089</census-id>
+        <label>As of Caligula (Caligula/ Vesta (RIC 38)</label>
+      </monument>
+      <monument>
+        <census-id>10183223</census-id>
+        <label>As of Caligula (Caligula/ Vesta (RIC 38) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183348</census-id>
+    <name>fol. 035 r, no. 19</name>
+    <monuments>
+      <monument>
+        <census-id>10183344</census-id>
+        <label>As of Caligula (Caligula/ Vesta (RIC 38) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183392</census-id>
+    <name>fol. 036 v, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10183387</census-id>
+        <label>Aureus of Caligula (Caligula / Augustus within Stars, RIC 1) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183408</census-id>
+    <name>fol. 037 r</name>
+    <monuments>
+      <monument>
+        <census-id>10183404</census-id>
+        <label>Bronze Coin of Sidon, Tyre (Laureate Head/ Europa riding on Bull, RPC 4613) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183439</census-id>
+    <name>fol. 037 v, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10183434</census-id>
+        <label>Drachme of Cyrenaica/Crete (Head of Caligula/ Augustus and Stars, RPC 965) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183491</census-id>
+    <name>fol. 039 r - 039 v, no. 2</name>
+    <monuments>
+      <monument>
+        <census-id>10183480</census-id>
+        <label>Sestertius of Titus (Claudius / Spes with flower, RIC 475) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10184897</census-id>
+        <label>Sestertius of Titus (Claudius / Spes with flower, RIC 475)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183468</census-id>
+    <name>fol. 039 r, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10050173</census-id>
+        <label>Sestertius of Claudius (Claudius/ Triumphal Arch, RIC 98)</label>
+      </monument>
+      <monument>
+        <census-id>10183456</census-id>
+        <label>Sestertius of Claudius (Claudius/ Triumphal Arch, RIC 98) (owner: A. Conteschi)</label>
+      </monument>
+      <monument>
+        <census-id>10183462</census-id>
+        <label>Sestertius of Claudius (Claudius/ Triumphal Arch, RIC 98) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183523</census-id>
+    <name>fol. 039 v - 040 r, no. 4</name>
+    <monuments>
+      <monument>
+        <census-id>10183517</census-id>
+        <label>Sestertius of Claudius (Claudius / Legend in Oak Wreath, RIC 112) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183743</census-id>
+    <name>fol. 039 v, no. 3</name>
+    <monuments>
+      <monument>
+        <census-id>10183734</census-id>
+        <label>Cistophorus of Claudius (Claudius / Diana of Ephesos, RIC 119) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183630</census-id>
+    <name>fol. 040 r, no. 5</name>
+    <monuments>
+      <monument>
+        <census-id>10025028</census-id>
+        <label>Sestertius of Claudius (Claudius / Spes Augusta, RIC 99)</label>
+      </monument>
+      <monument>
+        <census-id>10183620</census-id>
+        <label>Sestertius of Claudius (Claudius / Spes Augusta, RIC 99) (owner: A. Conteschi)</label>
+      </monument>
+      <monument>
+        <census-id>10183626</census-id>
+        <label>Sestertius of Claudius (Claudius / Spes Augusta, RIC 99) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183647</census-id>
+    <name>fol. 040 v, no. 8</name>
+    <monuments>
+      <monument>
+        <census-id>10183642</census-id>
+        <label>Sestertius of Claudius (Claudius / Oak-wreath, RIC 96) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183679</census-id>
+    <name>fol. 041 r, no. 9</name>
+    <monuments>
+      <monument>
+        <census-id>10183676</census-id>
+        <label>Bronze Monument of Sidon (Claudius / Aquilae, RPC 4547) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184445</census-id>
+    <name>fol. 041 v, no. 12</name>
+    <monuments>
+      <monument>
+        <census-id>10184438</census-id>
+        <label>Denarius of Claudius (Bust of Nero / Shield with Legend and Spear, RIC 79) (owner: F. Veniero)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183832</census-id>
+    <name>fol. 042 r - 042 v, no. 16</name>
+    <monuments>
+      <monument>
+        <census-id>10044336</census-id>
+        <label>As of Claudius (Head of Claudius / Constantia (RIC 95)</label>
+      </monument>
+      <monument>
+        <census-id>10183813</census-id>
+        <label>As of Claudius (Head of Claudius / Constantia, RIC 95) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10183816</census-id>
+        <label>As of Claudius (Head of Claudius / Constantia, RIC 95) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184525</census-id>
+    <name>fol. 042 r, no. 14</name>
+    <monuments>
+      <monument>
+        <census-id>10184522</census-id>
+        <label>Copper Coin of Patras (Claudius / Aquila and Standards, RPC I 1256) (owner: P. A. Manilio)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184540</census-id>
+    <name>fol. 042 r, no. 15</name>
+    <monuments>
+      <monument>
+        <census-id>10184538</census-id>
+        <label>Copper Coin of Patras (Claudius / Aquila and Standards, RPC I 1256) (owner: S. Erizzo)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183908</census-id>
+    <name>fol. 042 v - 043 r, no. 18 </name>
+    <monuments>
+      <monument>
+        <census-id>10183626</census-id>
+        <label>Sestertius of Claudius (Claudius / Spes Augusta, RIC 99) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183879</census-id>
+    <name>fol. 042 v, no. 17</name>
+    <monuments>
+      <monument>
+        <census-id>10065073</census-id>
+        <label>Sestertius of Titus (Claudius / Spes with flower, RIC 475) (owner: J. Strada)</label>
+      </monument>
+      <monument>
+        <census-id>10184897</census-id>
+        <label>Sestertius of Titus (Claudius / Spes with flower, RIC 475)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184461</census-id>
+    <name>fol. 043 r, no.19</name>
+    <monuments>
+      <monument>
+        <census-id>10050154</census-id>
+        <label>As of Claudius (Head of Claudius / Libertas, RIC 97)</label>
+      </monument>
+      <monument>
+        <census-id>10184456</census-id>
+        <label>As of Claudius (Head of Claudius / Libertas, RIC 97) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10184458</census-id>
+        <label>As of Claudius (Head of Claudius / Libertas, RIC 97) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184570</census-id>
+    <name>fol. 043 v, no. 21</name>
+    <monuments>
+      <monument>
+        <census-id>10184565</census-id>
+        <label>Copper Coin of Patras (Claudius / Aquila and Standards, RPC I 1256) (owner: R. Odoni)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184582</census-id>
+    <name>fol. 043 v, no. 22</name>
+    <monuments>
+      <monument>
+        <census-id>10026231</census-id>
+        <label>Copper Coin of Cnossus (Head of Nero / Heads of Nero and Octavia, RPC I 1005) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185191</census-id>
+    <name>fol. 044 r, no. 23</name>
+    <monuments>
+      <monument>
+        <census-id>10185187</census-id>
+        <label>Dupondius of Claudius (Head of Claudius / Ceres Augusta, RIC 110) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184592</census-id>
+    <name>fol. 044 r, no. 24</name>
+    <monuments>
+      <monument>
+        <census-id>10184589</census-id>
+        <label>Bronze Coin of Cyprus (Head of Claudius/ &#922;&#927;&#921;&#925;O&#925; &#922;&#933;&#928;&#929;&#906;W&#925;, RPC 3929) (owner: J. Strada) </label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184616</census-id>
+    <name>fol. 044 v - 045 r, no. 27</name>
+    <monuments>
+      <monument>
+        <census-id>10184607</census-id>
+        <label>Dupondius of Claudius (Head of Claudius / Minerva, RIC 100) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184630</census-id>
+    <name>fol. 045 r, no. 29</name>
+    <monuments>
+      <monument>
+        <census-id>10184628</census-id>
+        <label>Bronze Coin of Sidon (Head of Claudius / Founder Ploughing, RPC I 4546) (owner: J. Strada) </label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184661</census-id>
+    <name>fol. 045 v, no. 31</name>
+    <monuments>
+      <monument>
+        <census-id>10184658</census-id>
+        <label>Quadrans of Claudius (Modius / SC, RIC 88) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185206</census-id>
+    <name>fol. 046 r - 046 v, no. 2</name>
+    <monuments>
+      <monument>
+        <census-id>10183813</census-id>
+        <label>As of Claudius (Head of Claudius / Constantia, RIC 95) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10185200</census-id>
+        <label>As of Claudius (Head of Claudius / Constantia, RIC 111) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184679</census-id>
+    <name>fol. 046 r, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10184675</census-id>
+        <label>Cistophorus of Claudius (Head of Claudius/ Temple) (RIC 118) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184646</census-id>
+    <name>fol. 046 v, no. 3</name>
+    <monuments>
+      <monument>
+        <census-id>10025047</census-id>
+        <label>Denarius of Claudius (Head of Claudius/ Agrippina Augusta, RIC 81) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185222</census-id>
+    <name>fol. 046 v, no. 4</name>
+    <monuments>
+      <monument>
+        <census-id>10185220</census-id>
+        <label>Silver Coin of Crete (Head of Nero / Zeus, Thunderbolt and Stars, RPC 975) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185249</census-id>
+    <name>fol. 047 r, no. 6</name>
+    <monuments>
+      <monument>
+        <census-id>10185243</census-id>
+        <label>Denarius of Claudius (Nero Claudius Drusus / Shields, RIC 74) (owner: Anonymous Venetian Collector)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184694</census-id>
+    <name>fol. 047 v, no. 8</name>
+    <monuments>
+      <monument>
+        <census-id>10184691</census-id>
+        <label>Denarius of Claudius (Head of Claudius/ Pax pointing to Snake with Caducaeus, RIC 58) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184713</census-id>
+    <name>fol. 047 v, no. 9</name>
+    <monuments>
+      <monument>
+        <census-id>10184709</census-id>
+        <label>Denarius of Claudius (Head of Claudius / Pax-Nemesis, RIC 52) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185264</census-id>
+    <name>fol. 048 r, no. 10</name>
+    <monuments>
+      <monument>
+        <census-id>10185258</census-id>
+        <label>Cistophorus of Claudius (Head of Claudius / Temple, RIC 120) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184970</census-id>
+    <name>fol. 049 r, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10184964</census-id>
+        <label>Aureus of Nero (Claudius / Quadriga of Horses, RIC 4) (owner: W. Imhoff)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185278</census-id>
+    <name>fol. 050 r - 050 v, no. 7</name>
+    <monuments>
+      <monument>
+        <census-id>10185273</census-id>
+        <label>Aureus of Claudius (Head of Claudius / Triumphal Arch, RIC 33) (owner: G. Grimani)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184986</census-id>
+    <name>fol. 050 r, no. 6</name>
+    <monuments>
+      <monument>
+        <census-id>10184982</census-id>
+        <label>Aureus of Claudius (Claudius / Agrippina, RIC 80) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185008</census-id>
+    <name>fol. 050 v, no. 8</name>
+    <monuments>
+      <monument>
+        <census-id>10185002</census-id>
+        <label>Aureus of Claudius (Head of Claudius / Claudius and Praetor Armatus, RIC 11) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185032</census-id>
+    <name>fol. 052 r, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10185025</census-id>
+        <label>Bronze Coin of Smyrna (Agrippina Minor facing Nero / Nemesis pointing at Snake with Caducaeus, RPC 2479) (owner: S. Erizzo)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185057</census-id>
+    <name>fol. 052 v, no. 3</name>
+    <monuments>
+      <monument>
+        <census-id>10185050</census-id>
+        <label>Tetradrachme of Alexandria (Claudius / Hippopotamus, RPC 5124) (owner: G. Calestano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185079</census-id>
+    <name>fol. 053 r, no. 5</name>
+    <monuments>
+      <monument>
+        <census-id>10185076</census-id>
+        <label>Bronze Coin of Cyprus (Head of Claudius / Laurel Wreath, RPC 3930) (owner: F. Veniero)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185290</census-id>
+    <name>fol. 053 r, no. 6</name>
+    <monuments>
+      <monument>
+        <census-id>10185288</census-id>
+        <label>Bronze Coin of Alexandria (Laureate Head / Nilus, RPC 5174) (owner: A. Lauredan)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185092</census-id>
+    <name>fol. 053 v, no. 7</name>
+    <monuments>
+      <monument>
+        <census-id>10030356</census-id>
+        <label>Copper Coin of Crete (Head of Claudius / Antonia Minor and Nero Drusus, RPC I 1031) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185146</census-id>
+    <name>fol. 054 v - 055 r, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10185005</census-id>
+        <label>Bronze Coin of Koinon (Head of Claudius / Messalina, RPC 1032) (owner: S. Magno) </label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185111</census-id>
+    <name>fol. 054 v, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10185105</census-id>
+        <label>Copper coin of Crete (Claudius / Messalina, RPC I 1001) (owner: S. Erizzo)</label>
+      </monument>
+      <monument>
+        <census-id>10185123</census-id>
+        <label>Copper coin of Crete (Claudius / Messalina, RPC I 1002) (owner: S. Erizzo)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185178</census-id>
+    <name>fol. 055 r - 055 v, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10185164</census-id>
+        <label>Sestertius of Claudius (Agrippina Maior / SC, RIC 102) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185304</census-id>
+    <name>fol. 056 r - 056 v, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10185299</census-id>
+        <label>Silver Coin of Byzantium (Head of Augustus / Livia, RPC 1779)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183790</census-id>
+    <name>fol. 058 r - 058 v, no. 2</name>
+    <monuments>
+      <monument>
+        <census-id>10183856</census-id>
+        <label>Sestertius of Nero / Portus Romae (RIC 179) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185443</census-id>
+    <name>fol. 058 r,  no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10185437</census-id>
+        <label>Dupondius of Nero / Macellum (RIC 184) (owner: J. Strada)</label>
+      </monument>
+      <monument>
+        <census-id>10185440</census-id>
+        <label>Dupondius of Nero / Macellum (RIC 184) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186987</census-id>
+    <name>fol. 058 v - 059 r, no. 3</name>
+    <monuments>
+      <monument>
+        <census-id>10186965</census-id>
+        <label>Sestertius of Nero / Roma (RIC 590) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10186974</census-id>
+        <label>Sestertius of Nero / Congiarium (RIC 156) (owner: A. Agost&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183800</census-id>
+    <name>fol. 059 r, no. 4</name>
+    <monuments>
+      <monument>
+        <census-id>10183859</census-id>
+        <label>Sestertius of Nero / Temple of Janus (RIC 323) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183819</census-id>
+    <name>fol. 059 v - 060 r, no. 6</name>
+    <monuments>
+      <monument>
+        <census-id>10183862</census-id>
+        <label>Sestertius of Nero / Decursio (RIC 107) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184189</census-id>
+    <name>fol. 060 r - 060 v, no. 8</name>
+    <monuments>
+      <monument>
+        <census-id>10184186</census-id>
+        <label>As of Nero / Ara Pacis (RIC 460) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10187247</census-id>
+    <name>fol. 060 r, no. 7</name>
+    <monuments>
+      <monument>
+        <census-id>10187152</census-id>
+        <label>Contorniate (Nero / Bacchus, Alf&#246;ldi 130) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184201</census-id>
+    <name>fol. 061 r, no. 11</name>
+    <monuments>
+      <monument>
+        <census-id>10184199</census-id>
+        <label>Sestertius of Nero / Adlocutio (RIC 131) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183846</census-id>
+    <name>fol. 061 v - 062 r, no.13</name>
+    <monuments>
+      <monument>
+        <census-id>10183865</census-id>
+        <label>Sestertius of Nero / Roma (RIC 273) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183828</census-id>
+    <name>fol. 061 v, no. 12</name>
+    <monuments>
+      <monument>
+        <census-id>10183962</census-id>
+        <label>Sestertius of Nero / Congiarium (RIC 156) (owner: W. Imhoff)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185449</census-id>
+    <name>fol. 062 r, no. 14</name>
+    <monuments>
+      <monument>
+        <census-id>10185447</census-id>
+        <label>Sestertius of Nero / Roma (RIC 280) (owner: G. Grimani)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184289</census-id>
+    <name>fol. 062 v, no. 16</name>
+    <monuments>
+      <monument>
+        <census-id>10184273</census-id>
+        <label>Sestertius of Nero / Ceres and Annona (RIC 140) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10187264</census-id>
+    <name>fol. 063 r, no. 17</name>
+    <monuments>
+      <monument>
+        <census-id>10187258</census-id>
+        <label>Contorniate (Nero / Munus populo romano, Alf&#246;ldi 224) (owner: P. A. Manilio)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186998</census-id>
+    <name>fol. 063 r, no. 18</name>
+    <monuments>
+      <monument>
+        <census-id>10186996</census-id>
+        <label>As of Patras (Nero / Galley, RPC I 1622) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10201310</census-id>
+    <name>fol. 063 v - 064 r, no. 20</name>
+    <monuments>
+      <monument>
+        <census-id>10184302</census-id>
+        <label>Sestertius of Nero / Nero mounted (RIC 171) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10201314</census-id>
+        <label>Sestertius of Nero / Nero mounted (RIC 171) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184304</census-id>
+    <name>fol. 063 v, no. 19</name>
+    <monuments>
+      <monument>
+        <census-id>10184326</census-id>
+        <label>Sestertius of Nero / Roma (RIC 280) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184316</census-id>
+    <name>fol. 064 r, no. 21</name>
+    <monuments>
+      <monument>
+        <census-id>10184329</census-id>
+        <label>Sestertius of Nero / Minerva (RIC 162) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10187371</census-id>
+    <name>fol. 064 v, no. 22</name>
+    <monuments>
+      <monument>
+        <census-id>10187369</census-id>
+        <label>Contorniate (Nero / Quadriga, Alf&#246;ldi 164) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184343</census-id>
+    <name>fol. 064 v, no. 23</name>
+    <monuments>
+      <monument>
+        <census-id>10184341</census-id>
+        <label>As of Nero / Victory (RIC 540) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185460</census-id>
+    <name>fol. 065 r - 065 v, no. 26</name>
+    <monuments>
+      <monument>
+        <census-id>10185458</census-id>
+        <label>Copper coin of Ptolemais (Nero / Togatus, RPC I 4749) (owner: E. Vico)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10187380</census-id>
+    <name>fol. 065 r, no. 25</name>
+    <monuments>
+      <monument>
+        <census-id>10187378</census-id>
+        <label>Contorniate (Nero / Olympias, Alf&#246;ldi 160) (owner: P. Ramez) </label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184351</census-id>
+    <name>fol. 065 v, no. 27</name>
+    <monuments>
+      <monument>
+        <census-id>10184348</census-id>
+        <label>As of Nero / Victory (RIC 313) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10187019</census-id>
+    <name>fol. 065 v, no. 28</name>
+    <monuments>
+      <monument>
+        <census-id>10187012</census-id>
+        <label>As of Nero (Column / Branch, RIC 126) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184359</census-id>
+    <name>fol. 066 r - 066 v, no. 31</name>
+    <monuments>
+      <monument>
+        <census-id>10184357</census-id>
+        <label>Sestertius of Nero / Roma (RIC 361) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185477</census-id>
+    <name>fol. 066 r, no. 29</name>
+    <monuments>
+      <monument>
+        <census-id>10185471</census-id>
+        <label>Dupondius of Nero / Victory (RIC 196) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184472</census-id>
+    <name>fol. 066 r, no. 30</name>
+    <monuments>
+      <monument>
+        <census-id>10184367</census-id>
+        <label>Dupondius of Nero / Victory (RIC 412) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10184476</census-id>
+        <label>Dupondius of Nero / Victory (RIC 412) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183969</census-id>
+    <name>fol. 066 v - 067 r, no. 33</name>
+    <monuments>
+      <monument>
+        <census-id>10183973</census-id>
+        <label>Sestertius of Nero / Roma (RIC 358) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184490</census-id>
+    <name>fol. 067 r, no. 34</name>
+    <monuments>
+      <monument>
+        <census-id>10184484</census-id>
+        <label>Dupondius of Nero / Macellum Magnum (RIC 187) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10187028</census-id>
+    <name>fol. 067 v, no. 36</name>
+    <monuments>
+      <monument>
+        <census-id>10186025</census-id>
+        <label>Copper coin of Perinthus (Nero / Oak wreath, RPC I 1754) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186907</census-id>
+    <name>fol. 067 v, no. 37</name>
+    <monuments>
+      <monument>
+        <census-id>10186900</census-id>
+        <label>Semis of Nero / Roma (RIC 226) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184503</census-id>
+    <name>fol. 068 r - 068 v, no. 40</name>
+    <monuments>
+      <monument>
+        <census-id>10184501</census-id>
+        <label>Semis of Nero / Roma (RIC 483) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186928</census-id>
+    <name>fol. 068 r, no. 38</name>
+    <monuments>
+      <monument>
+        <census-id>10186922</census-id>
+        <label>Denarius of Nero / Virtus (RIC Nero 41) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183990</census-id>
+    <name>fol. 068 v - 069 r, no. 42</name>
+    <monuments>
+      <monument>
+        <census-id>10183983</census-id>
+        <label>As of Nero / Genius Augusti (RIC 214) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10187036</census-id>
+    <name>fol. 068 v, no. 41</name>
+    <monuments>
+      <monument>
+        <census-id>10187034</census-id>
+        <label>Denarius of Civil Wars (Genius / Mars, RIC II 16) (owner A. Agost&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184014</census-id>
+    <name>fol. 069 v - 070 r, no. 47</name>
+    <monuments>
+      <monument>
+        <census-id>10184003</census-id>
+        <label>As of Nero / Apollo Citharoedus (RIC 380) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10184010</census-id>
+        <label>As of Nero / Apollo Citharoedus (RIC 380) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186889</census-id>
+    <name>fol. 070 r - 070 v, no. 49 </name>
+    <monuments>
+      <monument>
+        <census-id>10186309</census-id>
+        <label>Bronze Coin of Buthrotum (Nero / Bridge, RPC I 1405) (owner: G. Calestano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185492</census-id>
+    <name>fol. 070 r, no. 48 </name>
+    <monuments>
+      <monument>
+        <census-id>10185486</census-id>
+        <label>Dupondius of Nero / Securitas (RIC 190) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10185489</census-id>
+        <label>Dupondius of Nero / Securitas (RIC 190) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184734</census-id>
+    <name>fol. 071 r - 071 v, no. 54</name>
+    <monuments>
+      <monument>
+        <census-id>10184728</census-id>
+        <label>Dupondius of Claudius (Nero / Signa religionis, RIC 107) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184717</census-id>
+    <name>fol. 071 r, no. 53 </name>
+    <monuments>
+      <monument>
+        <census-id>10184514</census-id>
+        <label>Semis of Nero / Decorated table (RIC 246) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185629</census-id>
+    <name>fol. 071 v - 072 r, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10185511</census-id>
+        <label>Contorniate (Nero / Quadriga, Alf&#246;ldi 218) (owner: G. Calestano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185640</census-id>
+    <name>fol. 072 r - 072 v, no. 3</name>
+    <monuments>
+      <monument>
+        <census-id>10185514</census-id>
+        <label>Semis of Nero / Roma (RIC 558) (owner: G. Grimani)</label>
+      </monument>
+      <monument>
+        <census-id>10187435</census-id>
+        <label>Contorniate (Nero / Nero in battle, Alf&#246;ldi 173) (owner: G. Grimani)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185636</census-id>
+    <name>fol. 072 r, no. 2</name>
+    <monuments>
+      <monument>
+        <census-id>10185508</census-id>
+        <label>Contorniate (Nero / Barbarians, Alf&#246;ldi 199) (owner: A. Paloso)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10187393</census-id>
+    <name>fol. 072 v, no. 4</name>
+    <monuments>
+      <monument>
+        <census-id>10187391</census-id>
+        <label>Contorniate (Nero / Bacchus, Alf&#246;ldi 130) (owner: G. Grimani)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10187443</census-id>
+    <name>fol. 073 v, no. 7</name>
+    <monuments>
+      <monument>
+        <census-id>10187441</census-id>
+        <label>Contorniate (Nero / Jason, Alf&#246;ldi 158) (owner: O. Petrucci)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185672</census-id>
+    <name>fol. 074 r, no. 9</name>
+    <monuments>
+      <monument>
+        <census-id>10185669</census-id>
+        <label>Sestertius of Nero / Temple of Janus (RIC 354) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185690</census-id>
+    <name>fol. 074 v, no. 11</name>
+    <monuments>
+      <monument>
+        <census-id>10185685</census-id>
+        <label>As of Nero / Temple of Janus (RIC 309) (owner: E. Rizzo)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10187278</census-id>
+    <name>fol. 075 r, no. 12</name>
+    <monuments>
+      <monument>
+        <census-id>10187274</census-id>
+        <label>Contorniate (Nero / Nero armatus, Alf&#246;ldi 191) (owner: S. Erizzo)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10187302</census-id>
+    <name>fol. 075 r, no. 13</name>
+    <monuments>
+      <monument>
+        <census-id>10187298</census-id>
+        <label>Contorniate (Nero / Nero in battle, Alf&#246;ldi 173) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10187400</census-id>
+    <name>fol. 076 r, no. 16</name>
+    <monuments>
+      <monument>
+        <census-id>10187398</census-id>
+        <label>Contorniate (Nero / Nero as victor, Alf&#246;ldi 190) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10187315</census-id>
+    <name>fol. 076 v - 077 r, no. 19</name>
+    <monuments>
+      <monument>
+        <census-id>10187313</census-id>
+        <label>Contorniate (Nero / Quadriga, Alf&#246;ldi 154) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185739</census-id>
+    <name>fol. 077 v - 078 r, no. 22</name>
+    <monuments>
+      <monument>
+        <census-id>10185709</census-id>
+        <label>Denarius of Nero (Nero and Agrippina Minor / Quadriga of Elephants, RIC 7) (owner: G. Romano)</label>
+      </monument>
+      <monument>
+        <census-id>10185729</census-id>
+        <label>Denarius of Nero (Nero and Agrippina Minor / Oak-wreath, RIC 2) (owner: G. Romano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185734</census-id>
+    <name>fol. 077 v, no. 21</name>
+    <monuments>
+      <monument>
+        <census-id>10185706</census-id>
+        <label>Denarius of Nero (Nero and Agrippina Minor / Quadriga of Elephants, RIC 7) (owner:J. Strada)</label>
+      </monument>
+      <monument>
+        <census-id>10185717</census-id>
+        <label>Denarius of Nero (Nero and Agrippina Minor / Oak-wreath, RIC 2) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10187451</census-id>
+    <name>fol. 078 r, no. 23</name>
+    <monuments>
+      <monument>
+        <census-id>10187450</census-id>
+        <label>Contorniate (Nero / Venatio, Alf&#246;ldi 167) (owner: G. Luchino)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184748</census-id>
+    <name>fol. 078 v - 079 r, no. 3</name>
+    <monuments>
+      <monument>
+        <census-id>10184746</census-id>
+        <label>Denarius of Nero/ Nero and Empress (RIC 57) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10187133</census-id>
+    <name>fol. 078 v, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10187127</census-id>
+        <label>Denarius of Nero / Military signs (RIC 68) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184103</census-id>
+    <name>fol. 078 v, no. 2</name>
+    <monuments>
+      <monument>
+        <census-id>10184742</census-id>
+        <label>Sestertius of Nero / Roma (RIC 272) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184176</census-id>
+    <name>fol. 079 r - 079 v, no. 6</name>
+    <monuments>
+      <monument>
+        <census-id>10184173</census-id>
+        <label>Denarius of Nero / Empress (RIC 45) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184876</census-id>
+    <name>fol. 079 r, no. 5</name>
+    <monuments>
+      <monument>
+        <census-id>10184874</census-id>
+        <label>Denarius of Nero / Oak Wreath (RIC 9) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185827</census-id>
+    <name>fol. 079 v, no. 8</name>
+    <monuments>
+      <monument>
+        <census-id>10185820</census-id>
+        <label>Aureus of Nero / Oak-wreath (RIC 13) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184081</census-id>
+    <name>fol. 080 r, no. 10</name>
+    <monuments>
+      <monument>
+        <census-id>10184078</census-id>
+        <label>Denarius of Nero / Jupiter Custos (RIC 53) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184037</census-id>
+    <name>fol. 080 r, no. 9</name>
+    <monuments>
+      <monument>
+        <census-id>10184031</census-id>
+        <label>Denarius of Nero / Salus (RIC 60) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10184034</census-id>
+        <label>Denarius of Nero / Salus (RIC 60) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184110</census-id>
+    <name>fol. 080 v - 081 r, no. 3</name>
+    <monuments>
+      <monument>
+        <census-id>10184107</census-id>
+        <label>Aureus of Claudius (Nero / Legend on Shield, RIC 78) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184090</census-id>
+    <name>fol. 080 v, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10184094</census-id>
+        <label>Aureus of Nero / Roma (RIC 54) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185852</census-id>
+    <name>fol. 081 r - 081 v, no. 5</name>
+    <monuments>
+      <monument>
+        <census-id>10185839</census-id>
+        <label>Aureus of Nero / Nero (RIC 46) (owner: J. Fugger)</label>
+      </monument>
+      <monument>
+        <census-id>10185842</census-id>
+        <label>Aureus of Nero / Nero (RIC 46) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185845</census-id>
+    <name>fol. 081 v, no. 7</name>
+    <monuments>
+      <monument>
+        <census-id>10185849</census-id>
+        <label>Aureus of Nero / Concordia Augusta (RIC 48) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185998</census-id>
+    <name>fol. 082 r, no. 10</name>
+    <monuments>
+      <monument>
+        <census-id>10185992</census-id>
+        <label>Aureus of Nero / Temple of Janus (RIC 58) (owner: H. Agninus)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185868</census-id>
+    <name>fol. 082 r, no. 8</name>
+    <monuments>
+      <monument>
+        <census-id>10187460</census-id>
+        <label>Aureus of Nero / Oak-Wreath (RIC 8) (owner: F. Laurencin)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185987</census-id>
+    <name>fol. 082 r, no. 9</name>
+    <monuments>
+      <monument>
+        <census-id>10185865</census-id>
+        <label>Aureus of Nero / Jupiter Custos (RIC 52) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186013</census-id>
+    <name>fol. 082 v, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10186009</census-id>
+        <label>Bronze coin of Caesarea Maritima (Nero / Agrippina Minor, RPC I 4860) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184121</census-id>
+    <name>fol. 082 v, no. 2</name>
+    <monuments>
+      <monument>
+        <census-id>10184117</census-id>
+        <label>As of Alexandria (Nero / Actian Apollo, RPC I 5301) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184134</census-id>
+    <name>fol. 083 r - 083 v, no. 5</name>
+    <monuments>
+      <monument>
+        <census-id>10184131</census-id>
+        <label>Bronze coin of Gadara (Nero / Tyche I, RPC 4822) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186027</census-id>
+    <name>fol. 083 r, no. 3</name>
+    <monuments>
+      <monument>
+        <census-id>10186025</census-id>
+        <label>Copper coin of Perinthus (Nero / Oak wreath, RPC I 1754) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186045</census-id>
+    <name>fol. 083 r, no. 4</name>
+    <monuments>
+      <monument>
+        <census-id>10186039</census-id>
+        <label>Copper coin of Alexandria (Nero / Actian Apollo, RPC I 5317) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10187512</census-id>
+    <name>fol. 083 v - 084 r, no. 8</name>
+    <monuments>
+      <monument>
+        <census-id>10187510</census-id>
+        <label>Bronze coin of Judaea (Vespasian / Victory, RPC II 2310) (owner P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186076</census-id>
+    <name>fol. 084 r, no. 10</name>
+    <monuments>
+      <monument>
+        <census-id>10186073</census-id>
+        <label>Tetradrachm of Alexandria (Nero / Poppaea, RPC I 5275) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186054</census-id>
+    <name>fol. 084 r, no. 9</name>
+    <monuments>
+      <monument>
+        <census-id>10186052</census-id>
+        <label>Bronze coin of Rhodes (Nero / Nike, RPC I 2772) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184151</census-id>
+    <name>fol. 084 v, no. 12</name>
+    <monuments>
+      <monument>
+        <census-id>10184155</census-id>
+        <label>Bronze coin of Gadara (Nero / Tyche I, RPC 4822) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186233</census-id>
+    <name>fol. 085 r - 085 v, no. 15</name>
+    <monuments>
+      <monument>
+        <census-id>10186230</census-id>
+        <label>Bronze coin of Apamea (Agrippina Minor and Nero / Eagle, RPC I 3136) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186250</census-id>
+    <name>fol. 085 v, no. 16</name>
+    <monuments>
+      <monument>
+        <census-id>10186244</census-id>
+        <label>Tetradrachm of Alexandria (Nero / Tiberius, RPC I 5295) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186264</census-id>
+    <name>fol. 085 v, no. 17</name>
+    <monuments>
+      <monument>
+        <census-id>10186262</census-id>
+        <label>Bronze Coin of Sidon (Nero / Europa, RPC I 4618) (owner. P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10187466</census-id>
+    <name>fol. 086 r, no. 18</name>
+    <monuments>
+      <monument>
+        <census-id>10187465</census-id>
+        <label>Bronze coin of Rhodes (Nero / Nike, RPC I 2772)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186277</census-id>
+    <name>fol. 086 r, no. 19</name>
+    <monuments>
+      <monument>
+        <census-id>10186275</census-id>
+        <label>Copper Coin of Nicaea (Nero / Dionysos, RPC I 2051) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10184163</census-id>
+    <name>fol. 087 r, no. 23</name>
+    <monuments>
+      <monument>
+        <census-id>10184161</census-id>
+        <label>Tetradrachm of Alexandria (Nero / Bust of Sarapis, RPC I 5274) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10187408</census-id>
+    <name>fol. 087 v, no. 27</name>
+    <monuments>
+      <monument>
+        <census-id>10187406</census-id>
+        <label>Contorniate (Nero / Snake, Alf&#246;ldi 180) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186297</census-id>
+    <name>fol. 089 r - 089 v, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10186073</census-id>
+        <label>Tetradrachm of Alexandria (Nero / Poppaea, RPC I 5275) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185950</census-id>
+    <name>fol. 090 v - 091 r, no. 2</name>
+    <monuments>
+      <monument>
+        <census-id>10185939</census-id>
+        <label>Dupondius of Galba (Laureate Head of Galba / Pax holding Branch and Cornucopia, RIC 278) (owner: J. Strada)</label>
+      </monument>
+      <monument>
+        <census-id>10185946</census-id>
+        <label>Sestertius of Galba (Laureate Head of Galba / Galba with Soldiers, RIC 464) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185880</census-id>
+    <name>fol. 090 v, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10185875</census-id>
+        <label>Sestertius of Galba (Laureate Head of Galba / Galba and Female Allegorical Figure, RIC 469) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185913</census-id>
+    <name>fol. 091 r, no. 4</name>
+    <monuments>
+      <monument>
+        <census-id>10185909</census-id>
+        <label>Sestertius of Galba (Bust of Laureate Galba / Mars holding Spear and Trophy, RIC 481) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10185965</census-id>
+    <name>fol. 091 v, no. 6</name>
+    <monuments>
+      <monument>
+        <census-id>10185963</census-id>
+        <label>Sestertius of Galba (Laureate Bust of Galba / Aesculapius, RIC 488) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186108</census-id>
+    <name>fol. 091 v, no. 7</name>
+    <monuments>
+      <monument>
+        <census-id>10186105</census-id>
+        <label>As of Galba (Laureate Head of Galba / Libertas, RIC 423) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186127</census-id>
+    <name>fol. 092 r, no. 8</name>
+    <monuments>
+      <monument>
+        <census-id>10186121</census-id>
+        <label>Sestertius of Galba (Laureate Head of Galba / Victory with Wreath and Palm, RIC 401) (owner: A. Conteschi)</label>
+      </monument>
+      <monument>
+        <census-id>10186124</census-id>
+        <label>Sestertius of Galba (Laureate Head of Galba / Victory with Wreath and Palm, RIC 357) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186159</census-id>
+    <name>fol. 092 r, no. 9</name>
+    <monuments>
+      <monument>
+        <census-id>10186156</census-id>
+        <label>Dupondius of Galba (Laureate Head of Galba / Libertas, RIC 275) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186211</census-id>
+    <name>fol. 092 v - 094 r, no. 13</name>
+    <monuments>
+      <monument>
+        <census-id>10186207</census-id>
+        <label>As of Galba (Laureate Head of Galba / Salus, RIC 500) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186186</census-id>
+    <name>fol. 092 v, no. 11</name>
+    <monuments>
+      <monument>
+        <census-id>10186178</census-id>
+        <label>Sestertius of Galba (Laureate Head of Galba / Roma, RIC 392) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186198</census-id>
+    <name>fol. 092 v, no. 12</name>
+    <monuments>
+      <monument>
+        <census-id>10186195</census-id>
+        <label>Dupondius of Galba (Bare Head of Galba / Vesta, RIC 374) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186331</census-id>
+    <name>fol. 094 r - 094 v, no. 15</name>
+    <monuments>
+      <monument>
+        <census-id>10186327</census-id>
+        <label>As of Galba (Laureate Head of Galba / Aequitas, RIC 494)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186319</census-id>
+    <name>fol. 094 r, no. 14</name>
+    <monuments>
+      <monument>
+        <census-id>10186315</census-id>
+        <label>Sestertius of Galba (Bare  Head of Galba / Galba with Soldiers, RIC 462) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186351</census-id>
+    <name>fol. 094 v - 095 r, no. 17</name>
+    <monuments>
+      <monument>
+        <census-id>10186347</census-id>
+        <label>Sestertius of Galba (Laureate Head of Galba / Roma, RIC 450) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186366</census-id>
+    <name>fol. 095 r, no. 18</name>
+    <monuments>
+      <monument>
+        <census-id>10186363</census-id>
+        <label>Sestertius of Galba / Legend in Oak-Wreath (RIC 265) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186475</census-id>
+    <name>fol. 095 r, no. 19</name>
+    <monuments>
+      <monument>
+        <census-id>10186466</census-id>
+        <label>Sestertius of Galba (Head of Galba / Roma, RIC 245) (owner: A. Maffei)</label>
+      </monument>
+      <monument>
+        <census-id>10186472</census-id>
+        <label>Sestertius of Galba (Laureate Bust of Galba / Roma, RIC 241) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186383</census-id>
+    <name>fol. 095 v, no. 20</name>
+    <monuments>
+      <monument>
+        <census-id>10186380</census-id>
+        <label>Sestertius of Galba (Laureate Head of Galba / Livia with Corn-Ears and Scepter, RIC 335) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186494</census-id>
+    <name>fol. 095 v, no. 21</name>
+    <monuments>
+      <monument>
+        <census-id>10186491</census-id>
+        <label>Dupondius of Galba (Laureate Head of Galba / Felicitas, RIC 411) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186403</census-id>
+    <name>fol. 096 r, no. 22</name>
+    <monuments>
+      <monument>
+        <census-id>10186399</census-id>
+        <label>As of Galba (Laureate Head of Galba / Pax burning Arms with Torch, RIC 496) (owner: A. Conteschi)  </label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186443</census-id>
+    <name>fol. 096 v - 097 r, no. 27</name>
+    <monuments>
+      <monument>
+        <census-id>10186438</census-id>
+        <label>Dupondius of Galba (Laureate Head of Galba / Pax holding Branch and Cornucopiae, RIC 369) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186422</census-id>
+    <name>fol. 096 v, no. 26</name>
+    <monuments>
+      <monument>
+        <census-id>10186418</census-id>
+        <label>As of Galba (Laureate Bust of Galba / Victory holding Wreath and Palm Branch, RIC 514) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186541</census-id>
+    <name>fol. 097 v - 098 r, no. 2</name>
+    <monuments>
+      <monument>
+        <census-id>10186537</census-id>
+        <label>Denarius of Galba (Laureate Head of Galba / Livia, RIC 150) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186517</census-id>
+    <name>fol. 097 v, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10186512</census-id>
+        <label>Denarius of Galba (Galba Riding / Three Female Busts, RIC 92) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186575</census-id>
+    <name>fol. 098 r - 098 v, no. 5</name>
+    <monuments>
+      <monument>
+        <census-id>10186571</census-id>
+        <label>Denarius of Galba (Laureate Head of Galba / Hispania, RIC 155) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186556</census-id>
+    <name>fol. 098 r, no. 3</name>
+    <monuments>
+      <monument>
+        <census-id>10186554</census-id>
+        <label>Denarius of Galba (Laureate Head of Galba / Oak-Wreath, RIC 168) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186593</census-id>
+    <name>fol. 098 v, no. 6</name>
+    <monuments>
+      <monument>
+        <census-id>10186590</census-id>
+        <label>Denarius of Galba (Laureate Head of Galba / Gallia, RIC 228) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186605</census-id>
+    <name>fol. 098 v, no. 7</name>
+    <monuments>
+      <monument>
+        <census-id>10201326</census-id>
+        <label>Denarius of Galba / Concordia (RIC 54)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186654</census-id>
+    <name>fol. 099 r - 099 v, no. 10</name>
+    <monuments>
+      <monument>
+        <census-id>10186650</census-id>
+        <label>Denarius of Galba / Roma Renascens (RIC 195) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186619</census-id>
+    <name>fol. 099 r, no. 8</name>
+    <monuments>
+      <monument>
+        <census-id>10059930</census-id>
+        <label>Denarius of Galba (Laureate Head of Galba / Concordia, RIC 197)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186638</census-id>
+    <name>fol. 099 r, no. 9</name>
+    <monuments>
+      <monument>
+        <census-id>10186635</census-id>
+        <label>Denarius of Galba (Laureate Head of Galba and Globe / Roma Vicitrix, RIC 60) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10201331</census-id>
+    <name>fol. 099 v, no. 11</name>
+    <monuments>
+      <monument>
+        <census-id>10064030</census-id>
+        <label>Denarius of Galba / Gallia and Hispania (RIC 154)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186674</census-id>
+    <name>fol. 099 v, no. 12</name>
+    <monuments>
+      <monument>
+        <census-id>10186673</census-id>
+        <label>Denarius of Galba (Laureate Head of Galba / Libertas, RIC 159)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186691</census-id>
+    <name>fol. 101 r, no. 13</name>
+    <monuments>
+      <monument>
+        <census-id>10186686</census-id>
+        <label>Denarius of Galba (Galba Riding / Hispania, RIC 2) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186720</census-id>
+    <name>fol. 101 v, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10186713</census-id>
+        <label>Aureus of Galba (Laureate Head of Galba / Salus, RIC 206) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10201343</census-id>
+    <name>fol. 101 v, no. 2</name>
+    <monuments>
+      <monument>
+        <census-id>10201339</census-id>
+        <label>Aureus of Galba / Virtus (RIC 220) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186740</census-id>
+    <name>fol. 102 r, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10186735</census-id>
+        <label>Bronze Coin of Alexandria (Laureate Head of Galba / Isis, RPC 5349) (owner: F. Veniero)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10187106</census-id>
+    <name>fol. 104 r - 104 v, no. 3</name>
+    <monuments>
+      <monument>
+        <census-id>10187104</census-id>
+        <label>Bronze Coin of Ptolemais (Laureate Head of Zeus / Tyche, RPC 4743) (owner: G. Kandler)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186838</census-id>
+    <name>fol. 104 r, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10186830</census-id>
+        <label>Denarius of Otho (Bare Head of Otho / Vesta, RIC 24) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186859</census-id>
+    <name>fol. 104 r, no. 2</name>
+    <monuments>
+      <monument>
+        <census-id>10186857</census-id>
+        <label>Bronze Coin of Antioch (Laureate Head of Otho / S C within Laurel-Wreath, RPC 4320) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186798</census-id>
+    <name>fol. 104 v - 105 r, no. 2</name>
+    <monuments>
+      <monument>
+        <census-id>10066377</census-id>
+        <label>Denarius of Otho (Bare Head of Otho / Otho on Horseback, RIC 22)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186760</census-id>
+    <name>fol. 104 v, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10186755</census-id>
+        <label>Denarius of Otho (Otho / Pax, RIC 4) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186951</census-id>
+    <name>fol. 105 r - 105 v, no. 5</name>
+    <monuments>
+      <monument>
+        <census-id>10186947</census-id>
+        <label>Denarius of Otho (Bare Head of Otho / Ceres, RIC 20) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186976</census-id>
+    <name>fol. 105 r, no. 3</name>
+    <monuments>
+      <monument>
+        <census-id>10186970</census-id>
+        <label>Denarius of Otho (Bare Head of Otho / Securitas, RIC 8) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10186814</census-id>
+    <name>fol. 105 r, no. 4</name>
+    <monuments>
+      <monument>
+        <census-id>10186812</census-id>
+        <label>Denarius of Otho (Bare Head of Otho / Vesta, RIC 24) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10187089</census-id>
+    <name>fol. 105 v, no. 6</name>
+    <monuments>
+      <monument>
+        <census-id>10187086</census-id>
+        <label>Denarius of Otho (Bare Head of Otho / Victoria, RIC 16) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10187073</census-id>
+    <name>fol. 106 r, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10187064</census-id>
+        <label>Aureus of Otho / Securitas (RIC 7) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10187169</census-id>
+    <name>fol. 107 r - 107 v, no. 2</name>
+    <monuments>
+      <monument>
+        <census-id>10187162</census-id>
+        <label>Sestertius of Vitellius (Laureate Head of Vitellius / VIctory, RIC 123) (owner: A. Maffei) </label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10187204</census-id>
+    <name>fol. 107 v - 108 r, no. 4</name>
+    <monuments>
+      <monument>
+        <census-id>10187200</census-id>
+        <label>Sestertius of Vitellius (Laureate Head of Vitellius / Honos and Virtus, RIC 113) (owner: A. Agust&#237;n) </label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10187184</census-id>
+    <name>fol. 107 v, no. 3</name>
+    <monuments>
+      <monument>
+        <census-id>10187181</census-id>
+        <label>Denarius of Vitellius (Laureate Head of Vitellius / Libertas, RIC 105) (owner: G. Romano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10187219</census-id>
+    <name>fol. 108 r, no. 5</name>
+    <monuments>
+      <monument>
+        <census-id>10187216</census-id>
+        <label>Denarius of Vitellius (Bare Head of Vitellius / Concordia, RIC 66) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10187348</census-id>
+    <name>fol. 108 r, no. 6</name>
+    <monuments>
+      <monument>
+        <census-id>10187345</census-id>
+        <label>Sestertius of Vitellius (Laureate Head of Vitellius / Vitellius and Togate Men, RIC 134) (owner: J. Matal)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10187363</census-id>
+    <name>fol. 108 v, no. 8</name>
+    <monuments>
+      <monument>
+        <census-id>10187360</census-id>
+        <label>Dupondius of Vitellius (Laureate Bust of Vitellius / Concordia, RIC 161) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10190820</census-id>
+    <name>fol. 109 r - 109 v, no. 11</name>
+    <monuments>
+      <monument>
+        <census-id>10190816</census-id>
+        <label>As of Vitellius (Head of Vitellius / Mars holding Aquila, RIC 40) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10191542</census-id>
+    <name>fol. 109 v - 110 r, no. 14</name>
+    <monuments>
+      <monument>
+        <census-id>10191537</census-id>
+        <label>Sestertius of Vitellius (Bust of Vitellius / Victory, RIC 142) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10190982</census-id>
+    <name>fol. 109 v, no. 12</name>
+    <monuments>
+      <monument>
+        <census-id>10190979</census-id>
+        <label>Denarius of Vitellius (Head of Vitellius / Tripod, RIC 86) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10191477</census-id>
+    <name>fol. 109 v, no. 13</name>
+    <monuments>
+      <monument>
+        <census-id>10191472</census-id>
+        <label>Denarius of Vitellius (Head of Vitellius / Oak-Wreath, RIC 83) (owner: P. Ramez) I</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10191768</census-id>
+    <name>fol. 110 r - 110 v, no. 16</name>
+    <monuments>
+      <monument>
+        <census-id>10191597</census-id>
+        <label>Sestertius of Vitellius (Head of Vitellius / Pax holding Branch and Cornucopia, RIC 117) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10191565</census-id>
+    <name>fol. 110 r, no. 15</name>
+    <monuments>
+      <monument>
+        <census-id>10191562</census-id>
+        <label>Sestertius of Vitellius (Laureate Head of Vitellius / VIctory, RIC 123) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10191581</census-id>
+    <name>fol. 110 v, no. 17</name>
+    <monuments>
+      <monument>
+        <census-id>10191577</census-id>
+        <label>Denarius of Vitellius (Head of Vitellius / Victory, RIC 112) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10191866</census-id>
+    <name>fol. 111 r - 111 v, no. 21</name>
+    <monuments>
+      <monument>
+        <census-id>10191798</census-id>
+        <label>Dupondius of Vitellius (Head of Vitellius / Concordia, RIC 162) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10191895</census-id>
+    <name>fol. 111 v, no. 22</name>
+    <monuments>
+      <monument>
+        <census-id>10191891</census-id>
+        <label>As of Vitellius (Head of Vitellius / Altar, RIC 163) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192529</census-id>
+    <name>fol. 112 r - 112 v, no. 3</name>
+    <monuments>
+      <monument>
+        <census-id>10192525</census-id>
+        <label>Denarius of Vitellius (Laureate Head of Vitellius / Libertas, RIC 105) (owner: A. Maffei) </label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192100</census-id>
+    <name>fol. 112 r, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10192093</census-id>
+        <label>Denarius of Vitellius (Head of Vitellius / Mars Helmeted, RIC 20) owner: G. Duchoul</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192416</census-id>
+    <name>fol. 112 r, no. 2</name>
+    <monuments>
+      <monument>
+        <census-id>10192413</census-id>
+        <label>Denarius of Vitellius (Head of Vitellius / Jupiter Seated in Distyle Temple, RIC 56) (owner: J. Fugger) </label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192560</census-id>
+    <name>fol. 112 v - 113 r, no. 6</name>
+    <monuments>
+      <monument>
+        <census-id>10192556</census-id>
+        <label>Denarius of Vitellius (Head of Vitellius / Son and Daughter, RIC 103) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192549</census-id>
+    <name>fol. 112 v. no. 4</name>
+    <monuments>
+      <monument>
+        <census-id>10192537</census-id>
+        <label>Denarius of Vitellius (Head of Vitellius / Tripod with Dolphin and Raven, RIC 109) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192580</census-id>
+    <name>fol. 113 r - 113 v, no. 8</name>
+    <monuments>
+      <monument>
+        <census-id>10192576</census-id>
+        <label>Denarius of Vitellius (Head of Vitellius / Oak Wreath, RIC 83) (owner: P. Ramez) II</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192605</census-id>
+    <name>fol. 113 v, no. 10</name>
+    <monuments>
+      <monument>
+        <census-id>10192601</census-id>
+        <label>Denarius of Vitellius (Head of Vitellius / Concordia, RIC 73) (owner: A. Agust&#237;n / A. Maffei) </label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192588</census-id>
+    <name>fol. 113 v, no. 9</name>
+    <monuments>
+      <monument>
+        <census-id>10192586</census-id>
+        <label>Denarius of Vitellius (Head of Vitellius / Vesta, RIC 107) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192640</census-id>
+    <name>fol. 114 r - 114 v, no. 2</name>
+    <monuments>
+      <monument>
+        <census-id>10192634</census-id>
+        <label>Aureus of Vitellius (Head of Vitellius / Mars Victor, RIC 22) (owner: French Nobleman from Geneve)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192769</census-id>
+    <name>fol. 114 v - 115 r, no. 4</name>
+    <monuments>
+      <monument>
+        <census-id>10192765</census-id>
+        <label>Denarius of Vitellius (Head of Vitellius / Fides exercituum, RIC 67) (owner: Anonymous Nobleman from Bern)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192682</census-id>
+    <name>fol. 114 v, no. 3</name>
+    <monuments>
+      <monument>
+        <census-id>10192665</census-id>
+        <label>Aureus of Vitellius (Head of Vitellius / Clementia, RIC 1) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10191387</census-id>
+    <name>fol. 117 r - 117 v, no. 2</name>
+    <monuments>
+      <monument>
+        <census-id>10191327</census-id>
+        <label>Sestertius of Vespasian / Titus and Domitian (RIC 1132) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10191334</census-id>
+        <label>Sestertius of Vespasian / Titus and Domitian (RIC 1132) (owner: A. Conteschi)</label>
+      </monument>
+      <monument>
+        <census-id>10191395</census-id>
+        <label>Aureus of Vespasian / Vespasian and Roma (RIC 1360) (owner: A. Conteschi)</label>
+      </monument>
+      <monument>
+        <census-id>10191401</census-id>
+        <label>Aureus of Vespasian / Vespasian and Roma (RIC 1360) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189457</census-id>
+    <name>fol. 117 r, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10189455</census-id>
+        <label>Sestertius of Vespasian / Temple of Isis (RIC 116) (owner: S. del Bufalo)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10193997</census-id>
+    <name>fol. 118 r, no. 4</name>
+    <monuments>
+      <monument>
+        <census-id>10053354</census-id>
+        <label>Sestertius of Titus / Flavian Amphitheatre (RIC 184)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189482</census-id>
+    <name>fol. 118 r, no. 5</name>
+    <monuments>
+      <monument>
+        <census-id>10189467</census-id>
+        <label>Sestertius of Vespasian / Roma (RIC 108) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10189469</census-id>
+        <label>Sestertius of Vespasian / Roma (RIC 108) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10188148</census-id>
+    <name>fol. 118 v - 119 r, no. 7</name>
+    <monuments>
+      <monument>
+        <census-id>10188141</census-id>
+        <label>Sestertius of Vespasian / Pax and Minerva (RIC 179) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10188105</census-id>
+    <name>fol. 118 v, no. 6</name>
+    <monuments>
+      <monument>
+        <census-id>10188095</census-id>
+        <label>Sestertius of Vespasian / Spes (RIC 206) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10188322</census-id>
+    <name>fol. 119 r - 119 v, no. 9</name>
+    <monuments>
+      <monument>
+        <census-id>10188319</census-id>
+        <label>Sestertius of Vespasian / Roma (RIC 244) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10188184</census-id>
+    <name>fol. 119 r, no. 8</name>
+    <monuments>
+      <monument>
+        <census-id>10188177</census-id>
+        <label>Sestertius of Vespasian / Titus and Domitian (RIC 146) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189828</census-id>
+    <name>fol. 120 r, no. 13</name>
+    <monuments>
+      <monument>
+        <census-id>10189826</census-id>
+        <label>As of Vespasian / Judaea (RIC 134) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189867</census-id>
+    <name>fol. 121 r, no. 18</name>
+    <monuments>
+      <monument>
+        <census-id>10189865</census-id>
+        <label>Sestertius of Vespasian / Vespasian (RIC 236) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189881</census-id>
+    <name>fol. 121 v, no. 19</name>
+    <monuments>
+      <monument>
+        <census-id>10189844</census-id>
+        <label>Sestertius of Vespasian / Mars (RIC 578) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189900</census-id>
+    <name>fol. 121 v, no. 20</name>
+    <monuments>
+      <monument>
+        <census-id>10189894</census-id>
+        <label>Sestertius of Vespasian / Aquila (RIC 156) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189941</census-id>
+    <name>fol. 122 r - 122 v, no. 24</name>
+    <monuments>
+      <monument>
+        <census-id>10189938</census-id>
+        <label>Sestertius of Vespasian / Victory (RIC 256) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189917</census-id>
+    <name>fol. 122 r, no. 22</name>
+    <monuments>
+      <monument>
+        <census-id>10189911</census-id>
+        <label>As of Vespasian / Spes (RIC 1011) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189930</census-id>
+    <name>fol. 122 r, no. 23</name>
+    <monuments>
+      <monument>
+        <census-id>10189928</census-id>
+        <label>Dupondius of Vespasian / Pax (RIC 1190) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10191164</census-id>
+    <name>fol. 123 r - 123 v, no. 29</name>
+    <monuments>
+      <monument>
+        <census-id>10191162</census-id>
+        <label>As of Vespasian / Altar (RIC 314) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189959</census-id>
+    <name>fol. 123 r, no. 27</name>
+    <monuments>
+      <monument>
+        <census-id>10189957</census-id>
+        <label>As of Vespasian / Aequitas (RIC 1231) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10193981</census-id>
+    <name>fol. 123 v, no. 30</name>
+    <monuments>
+      <monument>
+        <census-id>10191334</census-id>
+        <label>Sestertius of Vespasian / Titus and Domitian (RIC 1132) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10193985</census-id>
+    <name>fol. 123 v, no. 31</name>
+    <monuments>
+      <monument>
+        <census-id>10188814</census-id>
+        <label>Denarius of Vespasian / Ceres (RIC 968) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10188332</census-id>
+    <name>fol. 124 r, no. 32</name>
+    <monuments>
+      <monument>
+        <census-id>10188329</census-id>
+        <label>Sestertius of Vespasian / Fortuna Redux (RIC 230) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10193109</census-id>
+        <label>Sestertius of Vespasian / Fortuna Redux (RIC 230) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10190296</census-id>
+    <name>fol. 124 r, no. 33</name>
+    <monuments>
+      <monument>
+        <census-id>10190290</census-id>
+        <label>Sestertius of Vespasian / Roma (RIC 190) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10188345</census-id>
+    <name>fol. 124 v, no. 35</name>
+    <monuments>
+      <monument>
+        <census-id>10188342</census-id>
+        <label>Sestertius of Vespasian / Judaea capta (RIC 159) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10190332</census-id>
+    <name>fol. 125 r, no. 37</name>
+    <monuments>
+      <monument>
+        <census-id>10190318</census-id>
+        <label>Quadrans of Vespasian (Palm-tree / Vexillum, RIC 340) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10190369</census-id>
+    <name>fol. 125 v, no. 40</name>
+    <monuments>
+      <monument>
+        <census-id>10190366</census-id>
+        <label>Sestertius of Vespasian / Roma (RIC 244) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10190379</census-id>
+    <name>fol. 126 r - 126 v, no. 44</name>
+    <monuments>
+      <monument>
+        <census-id>10190374</census-id>
+        <label>Denarius of Vespasian / Woman (RIC 1426)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10188364</census-id>
+    <name>fol. 126 r, no. 42</name>
+    <monuments>
+      <monument>
+        <census-id>10188355</census-id>
+        <label>Sestertius of Vespasian / Salus (RIC 197) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10188371</census-id>
+    <name>fol. 126 v - 127 r, no. 47</name>
+    <monuments>
+      <monument>
+        <census-id>10188368</census-id>
+        <label>As of Vespasian / Aequitas (RIC 720) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10190393</census-id>
+    <name>fol. 126 v, no. 46</name>
+    <monuments>
+      <monument>
+        <census-id>10190387</census-id>
+        <label>As of Vespasian / Aequitas (RIC 399) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10190845</census-id>
+    <name>fol. 127 r - 127 v, no. 50</name>
+    <monuments>
+      <monument>
+        <census-id>10190842</census-id>
+        <label>As of Vespasian / Spes (RIC 730) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10190418</census-id>
+    <name>fol. 127 r, no. 48</name>
+    <monuments>
+      <monument>
+        <census-id>10190405</census-id>
+        <label>As of Vespasian / Aequitas (RIC 1229) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10190831</census-id>
+    <name>fol. 127 r, no. 49</name>
+    <monuments>
+      <monument>
+        <census-id>10190827</census-id>
+        <label>Dupondius of Vespasian / Caduceus (RIC 759) (owner: F. Laurencin)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10191739</census-id>
+    <name>fol. 127 v - 128 r, no. 53</name>
+    <monuments>
+      <monument>
+        <census-id>10191406</census-id>
+        <label>Dupondius of Vespasian / Caduceus (RIC 758) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10188383</census-id>
+    <name>fol. 127 v, no. 51</name>
+    <monuments>
+      <monument>
+        <census-id>10188381</census-id>
+        <label>As of Vespasian / Pax (RIC 311) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10190855</census-id>
+    <name>fol. 127 v, no. 52</name>
+    <monuments>
+      <monument>
+        <census-id>10190853</census-id>
+        <label>Sestertius of Vespasian / Pax (RIC 242) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10188419</census-id>
+    <name>fol. 128 r - 128 v, no. 56</name>
+    <monuments>
+      <monument>
+        <census-id>10188416</census-id>
+        <label>Dupondius of Vespasian / Tutela (RIC 282) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10188396</census-id>
+    <name>fol. 128 r, no. 54</name>
+    <monuments>
+      <monument>
+        <census-id>10188393</census-id>
+        <label>Sestertius of Vespasian / Oak-Wreath (RIC 1137) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10188409</census-id>
+    <name>fol. 128 r, no. 55</name>
+    <monuments>
+      <monument>
+        <census-id>10188406</census-id>
+        <label>Denarius of Vespasian / Caduceus (RIC 520) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10190888</census-id>
+    <name>fol. 129 r - 129 v, no. 61</name>
+    <monuments>
+      <monument>
+        <census-id>10190886</census-id>
+        <label>Sestertius of Vespasian / Mars (RIC 91) (owner: G. Grimani)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10190875</census-id>
+    <name>fol. 129 r, no. 59</name>
+    <monuments>
+      <monument>
+        <census-id>10190868</census-id>
+        <label>As of Vespasian / Victory (RIC 1014) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10190916</census-id>
+    <name>fol. 129 v, no. 62</name>
+    <monuments>
+      <monument>
+        <census-id>10190913</census-id>
+        <label>Sestertius of Vespasian / Titus and Domitian (RIC 144) (G. Calestano)</label>
+      </monument>
+      <monument>
+        <census-id>10190921</census-id>
+        <label>Cistophorus of Domitian / Corn-Ears (RIC 852) (G. Calestano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10190939</census-id>
+    <name>fol. 130 r - 130 v, no. 66</name>
+    <monuments>
+      <monument>
+        <census-id>10190933</census-id>
+        <label>Quadrans of Vespasian (Cornucopiae / Caduceus, RIC 1016) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10190902</census-id>
+    <name>fol. 130 r, no. 64</name>
+    <monuments>
+      <monument>
+        <census-id>10190900</census-id>
+        <label>Sestertius of Vespasian / Oak-Wreath (RIC 122) (owner: O. Petrucci)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10191021</census-id>
+    <name>fol. 130 v, no. 67</name>
+    <monuments>
+      <monument>
+        <census-id>10190950</census-id>
+        <label>Quadrans of Titus (Modius / Wreath of laurel, RIC 255) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10191055</census-id>
+    <name>fol. 130 v, no. 68</name>
+    <monuments>
+      <monument>
+        <census-id>10191052</census-id>
+        <label>Quadrans of Titus (Minerva / Wreath of Laurel, RIC 254) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10193119</census-id>
+    <name>fol. 131 r, no. 71</name>
+    <monuments>
+      <monument>
+        <census-id>10193113</census-id>
+        <label>Dupondius of Vespasian / Victory (RIC 1225) (owner: J. Grolier)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10191072</census-id>
+    <name>fol. 131 v - 132 r, no. 73</name>
+    <monuments>
+      <monument>
+        <census-id>10191068</census-id>
+        <label>Sestertius of Vespasian / Roma (RIC 108)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10191091</census-id>
+    <name>fol. 132 v, no. 75</name>
+    <monuments>
+      <monument>
+        <census-id>10191090</census-id>
+        <label>Sestertius of Vespasian / Titus and Domitian (RIC 142)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10191154</census-id>
+    <name>fol. 133 r - 133 v, no. 77</name>
+    <monuments>
+      <monument>
+        <census-id>10191105</census-id>
+        <label>Sestertius of Vespasian / Roma (RIC 1135) (owner: G. Kandler)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10188432</census-id>
+    <name>fol. 133 v, no. 78</name>
+    <monuments>
+      <monument>
+        <census-id>10188429</census-id>
+        <label>Aureus of Vespasian / Temple of Vesta (RIC 515) (owner: G. Kandler)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10191752</census-id>
+    <name>fol. 134 r - 134 v, no. 2</name>
+    <monuments>
+      <monument>
+        <census-id>10191743</census-id>
+        <label>Contorniate (Vespasian / Hunter and Boar, Alf&#246;ldi 242) (owner: P. Ramez)</label>
+      </monument>
+      <monument>
+        <census-id>10191745</census-id>
+        <label>Contorniate (Vespasian / Hunter and Boar, Alf&#246;ldi 242) (owner: G. Grimani)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10191772</census-id>
+    <name>fol. 135 r - 135 v, no. 2</name>
+    <monuments>
+      <monument>
+        <census-id>10191762</census-id>
+        <label>Denarius of Vespasian / Soldiers (RIC 1351) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10188510</census-id>
+    <name>fol. 135 r, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10188507</census-id>
+        <label>Denarius of Vespasian / Titus and Domitian (RIC 6) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10191788</census-id>
+    <name>fol. 135 v - 136 r, no. 5</name>
+    <monuments>
+      <monument>
+        <census-id>10191782</census-id>
+        <label>Denarius of Vespasian / Caduceus (RIC 703) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10188521</census-id>
+    <name>fol. 135 v, no. 4</name>
+    <monuments>
+      <monument>
+        <census-id>10188518</census-id>
+        <label>Denarius of Vespasian / Columna Rostrata (RIC 1065) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10188555</census-id>
+    <name>fol. 136 r - 136 v, no. 7</name>
+    <monuments>
+      <monument>
+        <census-id>10188552</census-id>
+        <label>Denarius of Vespasian / Aequitas (RIC 21) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10188538</census-id>
+    <name>fol. 136 r, no. 6</name>
+    <monuments>
+      <monument>
+        <census-id>10188533</census-id>
+        <label>Denarius of Titus (Divus Vespasianus / Quadriga, RIC 362) (owner: A. Corvino)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10191820</census-id>
+    <name>fol. 136 v, no. 8</name>
+    <monuments>
+      <monument>
+        <census-id>10191806</census-id>
+        <label>As of Vespasian / Titus and Domitian (RIC 1321) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10191862</census-id>
+    <name>fol. 136 v, no. 9</name>
+    <monuments>
+      <monument>
+        <census-id>10191860</census-id>
+        <label>Denarius of Vespasian / Eagle (RIC 1472) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10188567</census-id>
+    <name>fol. 137 r - 137 v, no. 12</name>
+    <monuments>
+      <monument>
+        <census-id>10188565</census-id>
+        <label>Dupondius of Vespasian / Titus and Domitian (RIC 64) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10191913</census-id>
+    <name>fol. 137 r, no. 10</name>
+    <monuments>
+      <monument>
+        <census-id>10191911</census-id>
+        <label>Denarius of Vespasian / Wild Sow (RIC 984) (owner: G. Romano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10191924</census-id>
+    <name>fol. 137 r, no. 11</name>
+    <monuments>
+      <monument>
+        <census-id>10191921</census-id>
+        <label>Quadrans of Vespasian / Caduceus (RIC 825) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10191940</census-id>
+    <name>fol. 137 v - 138 r, no. 15</name>
+    <monuments>
+      <monument>
+        <census-id>10191938</census-id>
+        <label>As of Vespasian / Libertas (RIC 310) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10188584</census-id>
+    <name>fol. 137 v, no. 14</name>
+    <monuments>
+      <monument>
+        <census-id>10188581</census-id>
+        <label>Denarius of Vespasian / Victory (RIC 1396) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10188734</census-id>
+    <name>fol. 138 r - 138 v, no. 18</name>
+    <monuments>
+      <monument>
+        <census-id>10188744</census-id>
+        <label>Denarius of Vespasian / Mars (RIC 937) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10191954</census-id>
+    <name>fol. 138 r, no. 16</name>
+    <monuments>
+      <monument>
+        <census-id>10191948</census-id>
+        <label>Denarius of Vespasian / Salus (RIC 522) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10188747</census-id>
+    <name>fol. 138 r, no. 17</name>
+    <monuments>
+      <monument>
+        <census-id>10188728</census-id>
+        <label>Denarius of Vespasian / Modius (RIC 980) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10188760</census-id>
+    <name>fol. 138 v - 139 r, no. 20</name>
+    <monuments>
+      <monument>
+        <census-id>10188757</census-id>
+        <label>Denarius of Vespasian / Pax (RIC 772) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10191968</census-id>
+    <name>fol. 138 v, no. 19</name>
+    <monuments>
+      <monument>
+        <census-id>10193133</census-id>
+        <label>Denarius of Titus (Vespasian / Victory, RIC 364) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10188794</census-id>
+    <name>fol. 139 r - 139 v, no. 23</name>
+    <monuments>
+      <monument>
+        <census-id>10188791</census-id>
+        <label>Denarius of Vespasian / Female bust (RIC 1433) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10188773</census-id>
+    <name>fol. 139 r, no. 21</name>
+    <monuments>
+      <monument>
+        <census-id>10188770</census-id>
+        <label>Denarius of Vespasian / Caduceus (RIC 520) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10188783</census-id>
+    <name>fol. 139 r, no. 22</name>
+    <monuments>
+      <monument>
+        <census-id>10188780</census-id>
+        <label>Denarius of Vespasian / Prow (RIC 941) (owner: F. Laurencin)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10191983</census-id>
+    <name>fol. 139 v - 140 r, no. 26</name>
+    <monuments>
+      <monument>
+        <census-id>10191981</census-id>
+        <label>As of Vespasian / Mars (RIC 1325) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10188804</census-id>
+    <name>fol. 139 v, no. 24</name>
+    <monuments>
+      <monument>
+        <census-id>10188801</census-id>
+        <label>Denarius of Vespasian / Laurel branches (RIC 681) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10188817</census-id>
+    <name>fol. 140 r - 140 v, no. 29</name>
+    <monuments>
+      <monument>
+        <census-id>10188814</census-id>
+        <label>Denarius of Vespasian / Ceres (RIC 968) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192000</census-id>
+    <name>fol. 140 r, no. 27</name>
+    <monuments>
+      <monument>
+        <census-id>10191998</census-id>
+        <label>Aureus of Vespasian / Fortuna (RIC 1525) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192026</census-id>
+    <name>fol. 140 v - 141 r, no. 31</name>
+    <monuments>
+      <monument>
+        <census-id>10192024</census-id>
+        <label>Denarius of Vespasian / Wild Sow (RIC 984) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192013</census-id>
+    <name>fol. 140 v, no. 30</name>
+    <monuments>
+      <monument>
+        <census-id>10192009</census-id>
+        <label>Denarius of Vespasian / Ceres (RIC 1453) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189078</census-id>
+    <name>fol. 141 r, no. 32</name>
+    <monuments>
+      <monument>
+        <census-id>10189076</census-id>
+        <label>Denarius of Vespasian / Victory (RIC 48) (owner: P. Ramez) </label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192140</census-id>
+    <name>fol. 141 v - 142 r, no. 37</name>
+    <monuments>
+      <monument>
+        <census-id>10192134</census-id>
+        <label>Denarius of Vespasian / Judaea (RIC 1118) (owner: G. Kandler)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192033</census-id>
+    <name>fol. 141 v, no. 35</name>
+    <monuments>
+      <monument>
+        <census-id>10192031</census-id>
+        <label>Aureus of Vespasian / Bull (RIC 843) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192124</census-id>
+    <name>fol. 141 v, no. 36</name>
+    <monuments>
+      <monument>
+        <census-id>10189263</census-id>
+        <label>Dupondius of Titus (Vespasian / Capricorns, RIC 357) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10192121</census-id>
+        <label>Denarius of Vespasian / Vespasian (RIC 1559) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189088</census-id>
+    <name>fol. 142 r, no. 38</name>
+    <monuments>
+      <monument>
+        <census-id>10189085</census-id>
+        <label>Denarius of Vespasian / Victory (RIC 777) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189101</census-id>
+    <name>fol. 142 r, no. 39</name>
+    <monuments>
+      <monument>
+        <census-id>10189098</census-id>
+        <label>Denarius of Vespasian / Vespasian (RIC 545) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189155</census-id>
+    <name>fol. 142 v - 143 r, no. 42</name>
+    <monuments>
+      <monument>
+        <census-id>10189152</census-id>
+        <label>Denarius of Vespasian / Iudaea (RIC 2) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192156</census-id>
+    <name>fol. 142 v, no. 40</name>
+    <monuments>
+      <monument>
+        <census-id>10192151</census-id>
+        <label>Denarius of Vespasian (Domitian / Eagle, RIC 1487)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189122</census-id>
+    <name>fol. 142 v, no. 41</name>
+    <monuments>
+      <monument>
+        <census-id>10189119</census-id>
+        <label>Dupondius of Titus (Vespasian / Quadriga, RIC 361) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189191</census-id>
+    <name>fol. 143 r - 143 v, no. 45</name>
+    <monuments>
+      <monument>
+        <census-id>10189188</census-id>
+        <label>Denarius of Vespasian / Securitas (RIC 774) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189168</census-id>
+    <name>fol. 143 r, no. 43</name>
+    <monuments>
+      <monument>
+        <census-id>10189165</census-id>
+        <label>Denarius of Vespasian / Victory (RIC 362) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189181</census-id>
+    <name>fol. 143 r, no. 44</name>
+    <monuments>
+      <monument>
+        <census-id>10189178</census-id>
+        <label>Denarius of Vespasian / Priestly Implements (RIC 43) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192184</census-id>
+    <name>fol. 143 v - 144 r, no. 48</name>
+    <monuments>
+      <monument>
+        <census-id>10192181</census-id>
+        <label>Denarius of Vespasian / Oxen (RIC 944) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192167</census-id>
+    <name>fol. 143 v, no. 46</name>
+    <monuments>
+      <monument>
+        <census-id>10192164</census-id>
+        <label>Denarius of Vespasian / Vesta (RIC 359) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189266</census-id>
+    <name>fol. 143 v, no. 47</name>
+    <monuments>
+      <monument>
+        <census-id>10189263</census-id>
+        <label>Dupondius of Titus (Vespasian / Capricorns, RIC 357) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192201</census-id>
+    <name>fol. 144 r - 144 v, no. 50</name>
+    <monuments>
+      <monument>
+        <census-id>10188791</census-id>
+        <label>Denarius of Vespasian / Female bust (RIC 1433) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192197</census-id>
+    <name>fol. 144 r, no. 49</name>
+    <monuments>
+      <monument>
+        <census-id>10192194</census-id>
+        <label>Denarius of Vespasian / Vesta (RIC 359) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189299</census-id>
+    <name>fol. 144 v - 145 r, no. 53</name>
+    <monuments>
+      <monument>
+        <census-id>10189303</census-id>
+        <label>Denarius of Vespasian / Vespasian and Judaea (RIC 1558) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189276</census-id>
+    <name>fol. 144 v, no. 51</name>
+    <monuments>
+      <monument>
+        <census-id>10189273</census-id>
+        <label>Denarius of Vespasian / Pax (RIC 29) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189289</census-id>
+    <name>fol. 144 v, no. 52</name>
+    <monuments>
+      <monument>
+        <census-id>10189286</census-id>
+        <label>Denarius of Vespasian / Neptune (RIC 1555) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189322</census-id>
+    <name>fol. 145 r - 145 v, no. 55</name>
+    <monuments>
+      <monument>
+        <census-id>10189273</census-id>
+        <label>Denarius of Vespasian / Pax (RIC 29) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189314</census-id>
+    <name>fol. 145 r, no. 54</name>
+    <monuments>
+      <monument>
+        <census-id>10189311</census-id>
+        <label>Denarius of Titus (Vespasian / Column with Shield, RIC 359) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189329</census-id>
+    <name>fol. 145 v, no. 56</name>
+    <monuments>
+      <monument>
+        <census-id>10189326</census-id>
+        <label>Denarius of Vespasian / Oak-wreath (RIC 1392) (owner: F. Laurencin)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192207</census-id>
+    <name>fol. 145 v, no. 57</name>
+    <monuments>
+      <monument>
+        <census-id>10192205</census-id>
+        <label>Aureus of Vespasian / Fortuna (RIC 1525) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189416</census-id>
+    <name>fol. 146 r - 146 v, no. 3</name>
+    <monuments>
+      <monument>
+        <census-id>10189413</census-id>
+        <label>Aureus of Titus (Vespasian / Column, RIC 358) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189363</census-id>
+    <name>fol. 146 r, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10189360</census-id>
+        <label>As of Vespasian / Victory (RIC 734) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189373</census-id>
+    <name>fol. 146 r, no. 2</name>
+    <monuments>
+      <monument>
+        <census-id>10189370</census-id>
+        <label>Denarius of Vespasian / Jupiter (RIC 849) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189420</census-id>
+    <name>fol. 146 v, no. 4</name>
+    <monuments>
+      <monument>
+        <census-id>10189085</census-id>
+        <label>Denarius of Vespasian / Victory (RIC 777) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192260</census-id>
+    <name>fol. 147 v, no. 8</name>
+    <monuments>
+      <monument>
+        <census-id>10192246</census-id>
+        <label>Aureus of Vespasian / Nemesis (RIC 1180) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10193147</census-id>
+    <name>fol. 147 v, no. 8</name>
+    <monuments>
+      <monument>
+        <census-id>10192246</census-id>
+        <label>Aureus of Vespasian / Nemesis (RIC 1180) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192300</census-id>
+    <name>fol. 147 v, no. 9</name>
+    <monuments>
+      <monument>
+        <census-id>10192271</census-id>
+        <label>Aureus of Vespasian / Vespasian (RIC 935) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192374</census-id>
+    <name>fol. 148 r - 148 v, no. 12</name>
+    <monuments>
+      <monument>
+        <census-id>10192371</census-id>
+        <label>Aureus of Titus (Divus Vespasianus / Capricorns, RIC 356) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189427</census-id>
+    <name>fol. 148 r, no. 10</name>
+    <monuments>
+      <monument>
+        <census-id>10189424</census-id>
+        <label>Aureus of Vespasian / Pax (RIC 40) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192364</census-id>
+    <name>fol. 148 r, no. 11</name>
+    <monuments>
+      <monument>
+        <census-id>10192354</census-id>
+        <label>Aureus of Vespasian / Victory (RIC 361) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189437</census-id>
+    <name>fol. 148 v - 149 r, no. 15</name>
+    <monuments>
+      <monument>
+        <census-id>10189434</census-id>
+        <label>Denarius of Vespasian / Modius (RIC 980) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189450</census-id>
+    <name>fol. 149 r, no. 16</name>
+    <monuments>
+      <monument>
+        <census-id>10189447</census-id>
+        <label>Denarius of Vespasian / Vespasian and Judaea (RIC 1558) (owner: W. Imhoff)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192497</census-id>
+    <name>fol. 150 r - 150 v, no. 2</name>
+    <monuments>
+      <monument>
+        <census-id>10192724</census-id>
+        <label>Bronze Coin of Alexandria (Vespasian / Isis, RPC II 2434) (owner: R. Odoni)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192474</census-id>
+    <name>fol. 150 r, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10192469</census-id>
+        <label>Bronze Coin of Cyprus (Vespasian / Temple of Aphrodite, RPC II 1819) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192509</census-id>
+    <name>fol. 150 v, no. 3</name>
+    <monuments>
+      <monument>
+        <census-id>10192508</census-id>
+        <label>Bronze Coin of Tium (Domitian / Zeus, RPC II 701) (owner: Count of Mantova)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192518</census-id>
+    <name>fol. 150 v, no. 4</name>
+    <monuments>
+      <monument>
+        <census-id>10192516</census-id>
+        <label>Bronze Coin of Tium (Domitian / Zeus, RPC II 701) (owner: S. Erizzo)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192668</census-id>
+    <name>fol. 151 r, no. 5</name>
+    <monuments>
+      <monument>
+        <census-id>10192672</census-id>
+        <label>Bronze Coin of Alexandria (Vespasian / Titus, RPC II 2456) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192675</census-id>
+    <name>fol. 151 r, no. 6</name>
+    <monuments>
+      <monument>
+        <census-id>10192655</census-id>
+        <label>Bronze Coin of Alexandria (Vespasian / Titus, RPC II 2456)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192690</census-id>
+    <name>fol. 151 r, no. 7</name>
+    <monuments>
+      <monument>
+        <census-id>10192688</census-id>
+        <label>Bronze Coin of Koinon (Vespasian / Zeus, RPC II 5) (owner: S. Erizzo)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192714</census-id>
+    <name>fol. 151 v - 152 r, no. 10</name>
+    <monuments>
+      <monument>
+        <census-id>10192672</census-id>
+        <label>Bronze Coin of Alexandria (Vespasian / Titus, RPC II 2456) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192705</census-id>
+    <name>fol. 151 v, no. 9</name>
+    <monuments>
+      <monument>
+        <census-id>10192688</census-id>
+        <label>Bronze Coin of Koinon (Vespasian / Zeus, RPC II 5) (owner: S. Erizzo)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192726</census-id>
+    <name>fol. 152 v, no. 12</name>
+    <monuments>
+      <monument>
+        <census-id>10192495</census-id>
+        <label>Bronze Coin of Alexandria (Vespasian / Isis, RPC II 2434) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192739</census-id>
+    <name>fol. 153 r, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10192735</census-id>
+        <label>Silver Coin of Syria (Vespasian / Eagle, RPC II 1945) (owner: F. Veniero)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192752</census-id>
+    <name>fol. 153 v, no. 3</name>
+    <monuments>
+      <monument>
+        <census-id>10192750</census-id>
+        <label>Tetradrachm of Syria (Vespasian / Eagle, RPC II 1951) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194013</census-id>
+    <name>fol. 155 r - 155 v, no. 2</name>
+    <monuments>
+      <monument>
+        <census-id>10194009</census-id>
+        <label>Sestertius of Vespasian (Titus / Titus in quadriga, RIC 431) (owner: P. A. Manilio)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10193946</census-id>
+    <name>fol. 155 r, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10193940</census-id>
+        <label>As of Vespasian (Titus / Temple of Capitoline Jupiter, RIC 638) (owner: W. Imhoff)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194023</census-id>
+    <name>fol. 155 v - 156 r, no. 4</name>
+    <monuments>
+      <monument>
+        <census-id>10191078</census-id>
+        <label>Sestertius of Vespasian / Congiarium (RIC 420) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194038</census-id>
+    <name>fol. 156 r, no. 6</name>
+    <monuments>
+      <monument>
+        <census-id>10194035</census-id>
+        <label>Sestertius of Titus / Annona (RIC 136) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194054</census-id>
+    <name>fol. 156 v, no. 7</name>
+    <monuments>
+      <monument>
+        <census-id>10194050</census-id>
+        <label>Sestertius of Titus / Vesta (RIC 175) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194095</census-id>
+    <name>fol. 156 v, no. 8</name>
+    <monuments>
+      <monument>
+        <census-id>10194075</census-id>
+        <label>Sestertius of Titus (Laureate Head of Titus / Spes Holding Flower, RIC 170) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10194082</census-id>
+        <label>Sestertius of Titus (Laureate Head of Titus / Spes Holding Flower, RIC 168) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194099</census-id>
+    <name>fol. 156 v, no. 9</name>
+    <monuments>
+      <monument>
+        <census-id>10194086</census-id>
+        <label>As of Titus (Laureate Head of Titus / Genius Sacrificing Over Altar and Holding Cornucopiae, RIC 227) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194104</census-id>
+    <name>fol. 157 r, no. 10</name>
+    <monuments>
+      <monument>
+        <census-id>10194092</census-id>
+        <label>Sestertius of Titus (Divus Vespasian in Elephant Quadriga / S C, RIC 258) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194214</census-id>
+    <name>fol. 157 v, no. 12</name>
+    <monuments>
+      <monument>
+        <census-id>10194197</census-id>
+        <label>As of Titus (Laureate Head of Titus / Victory Holding Wreath and Palm, RIC 246) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194238</census-id>
+    <name>fol. 158 r, no. 15</name>
+    <monuments>
+      <monument>
+        <census-id>10194235</census-id>
+        <label>Sestertius of Titus / Felicitas (RIC 143) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194223</census-id>
+    <name>fol. 158 r, no. 16</name>
+    <monuments>
+      <monument>
+        <census-id>10194204</census-id>
+        <label>Sestertius of Titus (Laureate Head of Titus / Pax Holding Branch and Cornucopiae, RIC 154) (owner: A. Conteschi)</label>
+      </monument>
+      <monument>
+        <census-id>10194210</census-id>
+        <label>Sestertius of Titus / Pax (RIC 155) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194255</census-id>
+    <name>fol. 158 v - 159 r, no. 17</name>
+    <monuments>
+      <monument>
+        <census-id>10194250</census-id>
+        <label>Sestertius of Titus / Temple of Jupiter (RIC 172) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194330</census-id>
+    <name>fol. 158 v, no. 18</name>
+    <monuments>
+      <monument>
+        <census-id>10194339</census-id>
+        <label>Quadrans of Titus (Minerva / Wreath of Laurel, RIC 254) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194276</census-id>
+    <name>fol. 159 r - 159 v, no. 19</name>
+    <monuments>
+      <monument>
+        <census-id>10194270</census-id>
+        <label>Dupondius of Titus / Salus (RIC 203) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10194309</census-id>
+        <label>Dupondius of Titus / Salus (RIC 204) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194364</census-id>
+    <name>fol. 159 r, no. 21</name>
+    <monuments>
+      <monument>
+        <census-id>10194362</census-id>
+        <label>Sestertius of Titus (Laureate Head of Titus / Judaea Seated on Arms, RIC 152) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194424</census-id>
+    <name>fol. 159 v - 160 r, no. 24</name>
+    <monuments>
+      <monument>
+        <census-id>10194420</census-id>
+        <label>As of Vespasian / Victory (RIC 454) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194416</census-id>
+    <name>fol. 159 v, no. 23</name>
+    <monuments>
+      <monument>
+        <census-id>10194412</census-id>
+        <label>Sestertius of Titus (Laureate Head of Titus / Spes Holding Flower, RIC 170) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194435</census-id>
+    <name>fol. 160 r, no. 25</name>
+    <monuments>
+      <monument>
+        <census-id>10194432</census-id>
+        <label>Sestertius of Vespasian (Titus / Titus riding, RIC 429) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194450</census-id>
+    <name>fol. 160 r, no. 26</name>
+    <monuments>
+      <monument>
+        <census-id>10194447</census-id>
+        <label>As of Titus / Aeternitas (RIC 217) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194610</census-id>
+    <name>fol. 160 v - 161 r, no. 29</name>
+    <monuments>
+      <monument>
+        <census-id>10194556</census-id>
+        <label>Dupondius of Vespasian (Radiate Head of Titus / Pax Holding Caducaeus and Branch, RIC 616) (owner: A. Agust&#237;n) </label>
+      </monument>
+      <monument>
+        <census-id>10194568</census-id>
+        <label>Aureus of Vespasian (Titus / Pax, RIC 782) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194500</census-id>
+    <name>fol. 160 v, no. 28</name>
+    <monuments>
+      <monument>
+        <census-id>10194477</census-id>
+        <label>Sestertius of Vespasian (Laureate Head of Titus / Domitian Riding, RIC 486) (owner: A. Conteschi) </label>
+      </monument>
+      <monument>
+        <census-id>10194482</census-id>
+        <label>Sestertius of Vespasian (Titus / Domitian riding, RIC 418) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194631</census-id>
+    <name>fol. 161 r, no. 31</name>
+    <monuments>
+      <monument>
+        <census-id>10194621</census-id>
+        <label>Sestertius of Titus / Vespasian and Titus (RIC 162) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195235</census-id>
+    <name>fol. 161 v - 162 r, no. 34</name>
+    <monuments>
+      <monument>
+        <census-id>10194204</census-id>
+        <label>Sestertius of Titus (Laureate Head of Titus / Pax Holding Branch and Cornucopiae, RIC 154) (owner: A. Conteschi)</label>
+      </monument>
+      <monument>
+        <census-id>10195270</census-id>
+        <label>Denarius of Antoninus Pius (Laureate Head of Antoninus Pius / Italia Holding Cornucopiae, RIC III 73c) (owner: A. Conteschi) </label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194816</census-id>
+    <name>fol. 161 v, no. 33</name>
+    <monuments>
+      <monument>
+        <census-id>10194812</census-id>
+        <label>Sestertius of Titus (Laureate Head of Titus / Captive and Judaea Next to Palm Tree, RIC 145) (owner: J. Strada) </label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195224</census-id>
+    <name>fol. 162 r, no. 35</name>
+    <monuments>
+      <monument>
+        <census-id>10194829</census-id>
+        <label>Sestertius of Titus (Laureate Head of Titus / Mars Victor, RIC 499) (owner: A. Corvino)</label>
+      </monument>
+      <monument>
+        <census-id>10195220</census-id>
+        <label>Sestertius of Titus (Divus Vespasianus / Mars, RIC 371) (owner: A. Corvino)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195395</census-id>
+    <name>fol. 162 r, no. 36</name>
+    <monuments>
+      <monument>
+        <census-id>10205034</census-id>
+        <label>Sestertius of Titus (Carpentum / SC, RIC 262.3) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195521</census-id>
+    <name>fol. 162 v - 163 r, no. 39</name>
+    <monuments>
+      <monument>
+        <census-id>10195517</census-id>
+        <label>Sestertius of Titus  (Augustus / S C, RIC Titus 401) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195509</census-id>
+    <name>fol. 162 v, no. 38</name>
+    <monuments>
+      <monument>
+        <census-id>10195506</census-id>
+        <label>Dupondius of Titus / Securitas (RIC 68) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195536</census-id>
+    <name>fol. 163 r, no. 40</name>
+    <monuments>
+      <monument>
+        <census-id>10195533</census-id>
+        <label>Sestertius of Vespasian / Iudaea Capta (RIC 167) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195548</census-id>
+    <name>fol. 163 v, no. 42</name>
+    <monuments>
+      <monument>
+        <census-id>10195544</census-id>
+        <label>Sestertius of Vespasian (Titus / Titus in quadriga, RIC 431) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195556</census-id>
+    <name>fol. 164 r, no. 44</name>
+    <monuments>
+      <monument>
+        <census-id>10195552</census-id>
+        <label>As of Titus (Divus Augustus / Eagle, RIC 458) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195582</census-id>
+    <name>fol. 164 v, no. 48</name>
+    <monuments>
+      <monument>
+        <census-id>10195573</census-id>
+        <label>Dupondius of Titus / Securitas (RIC 68) (owner: P. Ramez)</label>
+      </monument>
+      <monument>
+        <census-id>10195591</census-id>
+        <label>Dupondius of Titus / Securitas (RIC 210) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195596</census-id>
+    <name>fol. 165 r, no. 50</name>
+    <monuments>
+      <monument>
+        <census-id>10195593</census-id>
+        <label>Sestertius of Titus / Titus and Domitian (RIC 159) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195616</census-id>
+    <name>fol. 166 r - 166 v, no. 56</name>
+    <monuments>
+      <monument>
+        <census-id>10195608</census-id>
+        <label>Sestertius of Titus / Felicitas (RIC 143) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195642</census-id>
+    <name>fol. 167 v, no. 63</name>
+    <monuments>
+      <monument>
+        <census-id>10195654</census-id>
+        <label>Dupondius of Titus (Laureate Head of Titus / Ceres Holding Corn Ears and Torch, RIC 187) (owner: J. Strada) </label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195671</census-id>
+    <name>fol. 168 r, no. 65</name>
+    <monuments>
+      <monument>
+        <census-id>10195666</census-id>
+        <label>Dupondius of Titus (Radiate Head of Titus / Fountain on Plinth, RIC 205) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196151</census-id>
+    <name>fol. 168 v - 168 r, no. 2</name>
+    <monuments>
+      <monument>
+        <census-id>10196147</census-id>
+        <label>As of Titus (Laureate Head of Divus Augustus / Altar, RIC 450) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195723</census-id>
+    <name>fol. 168 v, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10195708</census-id>
+        <label>As of Augustus / Eagle (RIC Titus 469) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196170</census-id>
+    <name>fol. 169 r, no. 3</name>
+    <monuments>
+      <monument>
+        <census-id>10196167</census-id>
+        <label>Dupondius of Titus (Radiate Head of Divus Augustus / Victory Carrying Shield, RIC 446) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196188</census-id>
+    <name>fol. 169 r, no. 4</name>
+    <monuments>
+      <monument>
+        <census-id>10196184</census-id>
+        <label>Sestertius of Titus  (Augustus / S C, RIC Titus 401) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196200</census-id>
+    <name>fol. 169 v - 170 r, no. 7</name>
+    <monuments>
+      <monument>
+        <census-id>10196209</census-id>
+        <label>As of Titus (Laureate Head of Divus Augustus / Altar, RIC 450) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196502</census-id>
+    <name>fol. 170 v, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10196496</census-id>
+        <label>Denarius of Vespasian (Laureate Head of Titus / Neptune on Globe, RIC 366) (owner: J. Fugger) </label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196793</census-id>
+    <name>fol. 171 r - fol. 171 v, no. 6</name>
+    <monuments>
+      <monument>
+        <census-id>10196772</census-id>
+        <label>Denarius of Titus (Laureate Head of Titus / Curule Chair Below Wreath, RIC 109) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196737</census-id>
+    <name>fol. 171 r, no. 4</name>
+    <monuments>
+      <monument>
+        <census-id>10196718</census-id>
+        <label>Denarius of Titus (Laureate Head of Titus / Male Captive, RIC 12) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10196725</census-id>
+        <label>Denarius of Vespasian (Laureate Head of Titus / Captive and Trophy, RIC 1076) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196885</census-id>
+    <name>fol. 171 v - 172 r, no. 9</name>
+    <monuments>
+      <monument>
+        <census-id>10196875</census-id>
+        <label>Denarius of Titus (Laureate Head of Titus / Radiate Male Statue on Rostral Column, RIC 10) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196816</census-id>
+    <name>fol. 171 v, no. 7</name>
+    <monuments>
+      <monument>
+        <census-id>10196806</census-id>
+        <label>Denarius of Titus / Capricorn (RIC 19) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196843</census-id>
+    <name>fol. 171 v, no. 8</name>
+    <monuments>
+      <monument>
+        <census-id>10196840</census-id>
+        <label>Denarius of Titus / Venus (RIC 34) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197051</census-id>
+    <name>fol. 172 r, no. 10</name>
+    <monuments>
+      <monument>
+        <census-id>10197047</census-id>
+        <label>Denarius of Titus (Laureate Head of Titus / Ceres, RIC 23) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197073</census-id>
+    <name>fol. 172 r, no. 11</name>
+    <monuments>
+      <monument>
+        <census-id>10197067</census-id>
+        <label>Denarius of Vespasian (Titus / Oak-wreath, RIC 1435) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197095</census-id>
+    <name>fol. 172 v, no. 14</name>
+    <monuments>
+      <monument>
+        <census-id>10197091</census-id>
+        <label>Denarius of Titus (Laureate Head of Titus / Draped Seat, RIC 124) (owner: J. Fugger)</label>
+      </monument>
+      <monument>
+        <census-id>10197119</census-id>
+        <label>Denarius of Titus (Laureate Head of Titus / Draped Square Seat, RIC 125) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197328</census-id>
+    <name>fol. 173 r, no. 17</name>
+    <monuments>
+      <monument>
+        <census-id>10197324</census-id>
+        <label>Denarius of Titus / Elephant (RIC 115) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10197340</census-id>
+        <label>Denarius of Titus / Seat and thunderbolt (RIC 120) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197371</census-id>
+    <name>fol. 173 v - 174 r, no. 20</name>
+    <monuments>
+      <monument>
+        <census-id>10197367</census-id>
+        <label>Denarius of Titus / Tripod (RIC Titus 128) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197386</census-id>
+    <name>fol. 173 v, no. 18</name>
+    <monuments>
+      <monument>
+        <census-id>10197383</census-id>
+        <label>Denarius of Titus / Trophy and captives (RIC 102) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197355</census-id>
+    <name>fol. 173 v, no. 19</name>
+    <monuments>
+      <monument>
+        <census-id>10197351</census-id>
+        <label>Denarius of Titus / Dolphin around anchor (RIC 112) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197411</census-id>
+    <name>fol. 174 v, no. 24</name>
+    <monuments>
+      <monument>
+        <census-id>10197383</census-id>
+        <label>Denarius of Titus / Trophy and captives (RIC 102) (owner: A. Maffei)</label>
+      </monument>
+      <monument>
+        <census-id>10197404</census-id>
+        <label>Denarius of Vespasian / Oxen (RIC 943) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197511</census-id>
+    <name>fol. 175 r - 175 v, no. 3</name>
+    <monuments>
+      <monument>
+        <census-id>10197501</census-id>
+        <label>Aureus of Traian (Laureate Head of Divus Titus, RIC 833) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10197507</census-id>
+        <label>Aureus of Titus / Curule Chair (RIC 107) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197456</census-id>
+    <name>fol. 175 r, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10197448</census-id>
+        <label>Aureus of Vespasian (Laureate Head of Titus / Victory on Globe, RIC 367) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197485</census-id>
+    <name>fol. 175 r, no. 2</name>
+    <monuments>
+      <monument>
+        <census-id>10197482</census-id>
+        <label>Aureus of Titus (Laureate Head of Titus / Curule Chair with Wreath, RIC 106) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197554</census-id>
+    <name>fol. 175 v - 176 r, no. 8</name>
+    <monuments>
+      <monument>
+        <census-id>10197549</census-id>
+        <label>Aureus of Titus / Seat (RIC 117) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197645</census-id>
+    <name>fol. 176 r, no. 9</name>
+    <monuments>
+      <monument>
+        <census-id>10197501</census-id>
+        <label>Aureus of Traian (Laureate Head of Divus Titus, RIC 833) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197673</census-id>
+    <name>fol. 176 v - 177 r, no. 11</name>
+    <monuments>
+      <monument>
+        <census-id>10197670</census-id>
+        <label>Aureus of Vespasian (Titus / Temple of Vesta, RIC 530) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197658</census-id>
+    <name>fol. 177 r, no. 12</name>
+    <monuments>
+      <monument>
+        <census-id>10197654</census-id>
+        <label>Aureus of Vespasian (Head of Titus / Aeternitas, RIC 856) (owner:  H. Agninus)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200350</census-id>
+    <name>fol. 177 v - 178 r, no. 2</name>
+    <monuments>
+      <monument>
+        <census-id>10200347</census-id>
+        <label>Bronze Coin of Judaea (Laureate Head of Titus / Victory, RPC 2249) (owner: W. Imhoff)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200332</census-id>
+    <name>fol. 177 v, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10200200</census-id>
+        <label>Bronze Coin of Laodicea (Turreted Bust of Laodicea / Nike, RPC 1299) (owner: S. Erizzo)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200365</census-id>
+    <name>fol. 178 r, no. 3</name>
+    <monuments>
+      <monument>
+        <census-id>10200363</census-id>
+        <label>Bronze Coin of Judaea (Laureate Head of Titus / Victory, RPC 2311) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200380</census-id>
+    <name>fol. 178 r, no. 4</name>
+    <monuments>
+      <monument>
+        <census-id>10200378</census-id>
+        <label>Bronze Coin of Judaea (Laureate Head of Titus / Victory, RPC 2277) (owner: F. Veniero)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200396</census-id>
+    <name>fol. 178 v, no. 5</name>
+    <monuments>
+      <monument>
+        <census-id>10200393</census-id>
+        <label>Bronze Coin of Alexandria (Laureate Head of Titus / Emperor in Quadriga, RPC 2678) (owner: R. Odoni)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200405</census-id>
+    <name>fol. 179 r, no. 7</name>
+    <monuments>
+      <monument>
+        <census-id>10200363</census-id>
+        <label>Bronze Coin of Judaea (Laureate Head of Titus / Victory, RPC 2311) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200433</census-id>
+    <name>fol. 179 v, no. 10</name>
+    <monuments>
+      <monument>
+        <census-id>10200430</census-id>
+        <label>Tetradrachme of Cyprus (Laureate Head of Vespasian / Temple of Paphos, RPC 1802) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200418</census-id>
+    <name>fol. 180 r, no. 12</name>
+    <monuments>
+      <monument>
+        <census-id>10200363</census-id>
+        <label>Bronze Coin of Judaea (Laureate Head of Titus / Victory, RPC 2311) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194466</census-id>
+    <name>fol. 183 v - 184 r, no. 8</name>
+    <monuments>
+      <monument>
+        <census-id>10194460</census-id>
+        <label>Sestertius of Domitian / Domitian and Rhenus (RIC 278) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194485</census-id>
+    <name>fol. 184 r, no. 9</name>
+    <monuments>
+      <monument>
+        <census-id>10194480</census-id>
+        <label>Sestertius of  Domitian / Temple (RIC 800) (owner: G. Grimani)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194507</census-id>
+    <name>fol. 184 v - 185 r, no. 12</name>
+    <monuments>
+      <monument>
+        <census-id>10194496</census-id>
+        <label>Sestertius of Domitian / Germania (RIC 351) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194542</census-id>
+    <name>fol. 185 r - 185 v, no. 14</name>
+    <monuments>
+      <monument>
+        <census-id>10194539</census-id>
+        <label>Sestertius of Domitian / Domitian and Soldiers (RIC 359) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10194546</census-id>
+        <label>Sestertius of Domitian / Domitian and Soldiers (RIC 359) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194528</census-id>
+    <name>fol. 185 r, no. 13</name>
+    <monuments>
+      <monument>
+        <census-id>10194525</census-id>
+        <label>Sestertius of Domitian / Minerva (RIC 78) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194574</census-id>
+    <name>fol. 185 v, no. 16</name>
+    <monuments>
+      <monument>
+        <census-id>10194559</census-id>
+        <label>As of Domitian / Altar (RIC 304) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10194571</census-id>
+        <label>As of Domitian / Altar (RIC 304) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194669</census-id>
+    <name>fol. 186 r, no. 18</name>
+    <monuments>
+      <monument>
+        <census-id>10194603</census-id>
+        <label>Sestertius of Domitian / Equestrian Statue (RIC 797) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194679</census-id>
+    <name>fol. 186 v, no. 21</name>
+    <monuments>
+      <monument>
+        <census-id>10194608</census-id>
+        <label>Sestertius of Domitian / Jupiter (RIC 464) (owner: P. Ramez)</label>
+      </monument>
+      <monument>
+        <census-id>10194614</census-id>
+        <label>Sestertius of Titus (Domitian / Victory, RIC 305) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194692</census-id>
+    <name>fol. 187 r - 187 v,  no. 25</name>
+    <monuments>
+      <monument>
+        <census-id>10194618</census-id>
+        <label>Sestertius of Domitian / Domitian (RIC 80) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194716</census-id>
+    <name>fol. 187 v - 188 r,  no. 27</name>
+    <monuments>
+      <monument>
+        <census-id>10194628</census-id>
+        <label>Dupondius of Domitian / Domitian (RIC 619) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194703</census-id>
+    <name>fol. 187 v,  no. 26</name>
+    <monuments>
+      <monument>
+        <census-id>10194625</census-id>
+        <label>Sestertius of Domitian / Minerva (RIC 655) (owner: G. Duchoul)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194729</census-id>
+    <name>fol. 188 r,  no. 29</name>
+    <monuments>
+      <monument>
+        <census-id>10194726</census-id>
+        <label>Sestertius of Domitian / Equestrian Statue (RIC 797) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194738</census-id>
+    <name>fol. 188 v,  no. 30</name>
+    <monuments>
+      <monument>
+        <census-id>10194735</census-id>
+        <label>Sestertius of Vespasian (Domitian / Spes, RIC 654) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194745</census-id>
+    <name>fol. 188 v,  no. 31</name>
+    <monuments>
+      <monument>
+        <census-id>10194742</census-id>
+        <label>Dupondius of Domitian / Domitian sacrificing (RIC 625) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194875</census-id>
+    <name>fol. 189 v - 190 r,  no. 36</name>
+    <monuments>
+      <monument>
+        <census-id>10194778</census-id>
+        <label>Sestertius of Domitian / Domitian Sacrificing (RIC 277) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194864</census-id>
+    <name>fol. 189 v,  no. 35</name>
+    <monuments>
+      <monument>
+        <census-id>10194773</census-id>
+        <label>Sestertius of Domitian / Victory (RIC 475)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194896</census-id>
+    <name>fol. 190 r - 190 v,  no. 39</name>
+    <monuments>
+      <monument>
+        <census-id>10194798</census-id>
+        <label>Sestertius of Domitian / Domitian and Victory (RIC 752) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194882</census-id>
+    <name>fol. 190 r,  no. 37</name>
+    <monuments>
+      <monument>
+        <census-id>10194782</census-id>
+        <label>Sestertius of Domitian / Domitian Sacrificing (RIC 637) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194889</census-id>
+    <name>fol. 190 r,  no. 38</name>
+    <monuments>
+      <monument>
+        <census-id>10194791</census-id>
+        <label>Sestertius of Domitian / Minerva (RIC 103) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194906</census-id>
+    <name>fol. 190 v,  no. 40</name>
+    <monuments>
+      <monument>
+        <census-id>10194802</census-id>
+        <label>As of Domitian / Domitian Sacrificing (RIC 623) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200855</census-id>
+    <name>fol. 191 r - 191 v,  no. 42</name>
+    <monuments>
+      <monument>
+        <census-id>10200863</census-id>
+        <label>Sestertius of Domitian / Domitian and Citizen (RIC 609) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194916</census-id>
+    <name>fol. 191 r,  no. 41</name>
+    <monuments>
+      <monument>
+        <census-id>10194808</census-id>
+        <label>Sestertius of Domitian / Arch (RIC 796) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194929</census-id>
+    <name>fol. 191 v,  no. 44</name>
+    <monuments>
+      <monument>
+        <census-id>10194460</census-id>
+        <label>Sestertius of Domitian / Domitian and Rhenus (RIC 278) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194980</census-id>
+    <name>fol. 192 r - 192 v,  no. 47</name>
+    <monuments>
+      <monument>
+        <census-id>10194947</census-id>
+        <label>Sestertius of Domitian / Domitian with Captive (RIC 279) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194960</census-id>
+    <name>fol. 192 r,  no. 45</name>
+    <monuments>
+      <monument>
+        <census-id>10194934</census-id>
+        <label>Dupondius of Domitian / Shields over Vexillum (RIC 296) (J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194970</census-id>
+    <name>fol. 192 r,  no. 46</name>
+    <monuments>
+      <monument>
+        <census-id>10194941</census-id>
+        <label>Dupondius of Domitian / Victory (RIC 373) (owner: J. Strada)</label>
+      </monument>
+      <monument>
+        <census-id>10194950</census-id>
+        <label>Dupondius of Domitian / Victory (RIC 373) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194987</census-id>
+    <name>fol. 192 v - 193 r,  no. 49</name>
+    <monuments>
+      <monument>
+        <census-id>10194525</census-id>
+        <label>Sestertius of Domitian / Minerva (RIC 78) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194991</census-id>
+    <name>fol. 193 r,  no. 50</name>
+    <monuments>
+      <monument>
+        <census-id>10194954</census-id>
+        <label>Sestertius of Domitian / Domitian in Battle (RIC 529) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195310</census-id>
+    <name>fol. 193 v,  no. 53</name>
+    <monuments>
+      <monument>
+        <census-id>10195274</census-id>
+        <label>Sestertius of Domitian / Jupiter (RIC 702) (owner J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195324</census-id>
+    <name>fol. 194 r - 194 v,  no. 57</name>
+    <monuments>
+      <monument>
+        <census-id>10195285</census-id>
+        <label>As of Domitian / Fortuna (RIC 544) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195339</census-id>
+    <name>fol. 194 v - 195 r,  no. 59</name>
+    <monuments>
+      <monument>
+        <census-id>10195293</census-id>
+        <label>As of Domitian / Annona (RIC 646) (owner: G. Romano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195335</census-id>
+    <name>fol. 194 v,  no. 58</name>
+    <monuments>
+      <monument>
+        <census-id>10194954</census-id>
+        <label>Sestertius of Domitian / Domitian in Battle (RIC 529) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195346</census-id>
+    <name>fol. 195 r - 195 v,  no. 61</name>
+    <monuments>
+      <monument>
+        <census-id>10195302</census-id>
+        <label>Sestertius of Domitian / Annona and Ceres (RIC 349) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197239</census-id>
+    <name>fol. 196 r, no. 65</name>
+    <monuments>
+      <monument>
+        <census-id>10197210</census-id>
+        <label>Bronze Coin of Alexandria (Domitian / Apis bull, RPC II 2499) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195353</census-id>
+    <name>fol. 197 r - 197 v,  no. 73</name>
+    <monuments>
+      <monument>
+        <census-id>10195308</census-id>
+        <label>Dupondius of Titus (Domitian / Vesta, RIC 281) (owner: unknown)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197274</census-id>
+    <name>fol. 197 v - 198 r, no. 76</name>
+    <monuments>
+      <monument>
+        <census-id>10197224</census-id>
+        <label>Bronze Coin of Patras (Domitian / Priest and Oxen, RPC II 254) (owner: E. Vico)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197253</census-id>
+    <name>fol. 197 v, no. 74</name>
+    <monuments>
+      <monument>
+        <census-id>10197214</census-id>
+        <label>Brass Coin of Pergamum (Domitian and Domitia / Tempel, RPC II 918) (owner: E. Vico)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197261</census-id>
+    <name>fol. 197 v, no. 75</name>
+    <monuments>
+      <monument>
+        <census-id>10197219</census-id>
+        <label>Bronze Coin of Patras (Domitian / Fountain, RPC II 234) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195404</census-id>
+    <name>fol. 198 r - 198 v,  no. 78</name>
+    <monuments>
+      <monument>
+        <census-id>10195364</census-id>
+        <label>As of Vespasian / Temple of Vesta (RIC 492) (owner: G. Grimani)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195399</census-id>
+    <name>fol. 198 r,  no. 77</name>
+    <monuments>
+      <monument>
+        <census-id>10195361</census-id>
+        <label>Denarius of Domitian (Domitia / Peacock, RIC 151)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195414</census-id>
+    <name>fol. 198 v - 199 r,  no. 81</name>
+    <monuments>
+      <monument>
+        <census-id>10195373</census-id>
+        <label>As of Domitian / Jupiter (RIC 218) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195435</census-id>
+    <name>fol. 199 r,  no. 83</name>
+    <monuments>
+      <monument>
+        <census-id>10194571</census-id>
+        <label>As of Domitian / Altar (RIC 304) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195439</census-id>
+    <name>fol. 199 v,  no. 85</name>
+    <monuments>
+      <monument>
+        <census-id>10195380</census-id>
+        <label>As of Domitian / Domitan and Tiber (RIC 627) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195452</census-id>
+    <name>fol. 200 r,  no. 87</name>
+    <monuments>
+      <monument>
+        <census-id>10195384</census-id>
+        <label>As of Titus (Domitian / Minerva, RIC 345) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197286</census-id>
+    <name>fol. 200 v,  no. 89</name>
+    <monuments>
+      <monument>
+        <census-id>10197226</census-id>
+        <label>Copper Coin of Judaea (Domitian / Victory, RPC II 2308) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196265</census-id>
+    <name>fol. 201 r,  no. 92</name>
+    <monuments>
+      <monument>
+        <census-id>10196246</census-id>
+        <label>Dupondius of Vespasian (Domitian / Domitian, RIC 662) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196274</census-id>
+    <name>fol. 201 r,  no. 93</name>
+    <monuments>
+      <monument>
+        <census-id>10196249</census-id>
+        <label>Dupondius of Vespasian (Domitian / Felicitas, RIC 832) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196299</census-id>
+    <name>fol. 201 v - 202 r,  no. 96</name>
+    <monuments>
+      <monument>
+        <census-id>10196263</census-id>
+        <label>As of Domitian / Virtus (RIC 390) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196281</census-id>
+    <name>fol. 201 v,  no. 94</name>
+    <monuments>
+      <monument>
+        <census-id>10196253</census-id>
+        <label>As of Domitian / Mars (RIC 420) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196288</census-id>
+    <name>fol. 201 v,  no. 95</name>
+    <monuments>
+      <monument>
+        <census-id>10196259</census-id>
+        <label>As of Domitian / Moneta (RIC 708) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196436</census-id>
+    <name>fol. 202 r - 202 v,  no. 98</name>
+    <monuments>
+      <monument>
+        <census-id>10196400</census-id>
+        <label>As of Domitian / Fides (RIC 542) (owner: J.Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196447</census-id>
+    <name>fol. 202 v - 203 r,  no. 101</name>
+    <monuments>
+      <monument>
+        <census-id>10196404</census-id>
+        <label>As of Domitian / Fortuna (RIC 380) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196451</census-id>
+    <name>fol. 203 r,  no. 102</name>
+    <monuments>
+      <monument>
+        <census-id>10196411</census-id>
+        <label>As of Domitian / Fortuna (RIC 648) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196455</census-id>
+    <name>fol. 203 r, no. 103</name>
+    <monuments>
+      <monument>
+        <census-id>10196417</census-id>
+        <label>As of Domitian / Fortuna (RIC 707) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196459</census-id>
+    <name>fol. 203 v, no. 104</name>
+    <monuments>
+      <monument>
+        <census-id>10196427</census-id>
+        <label>Sestertius of Domitian / Minerva (RIC 76) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196729</census-id>
+    <name>fol. 204 r - 204 v, no. 109</name>
+    <monuments>
+      <monument>
+        <census-id>10196506</census-id>
+        <label>Quadrans of Domitian (Rhinoceros / SC, RIC 250) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196463</census-id>
+    <name>fol. 204 r, no. 107</name>
+    <monuments>
+      <monument>
+        <census-id>10196431</census-id>
+        <label>Quadrans of Domitian (Rhinoceros / SC, RIC 250) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197297</census-id>
+    <name>fol. 204 r, no. 108</name>
+    <monuments>
+      <monument>
+        <census-id>10197234</census-id>
+        <label>Bronze Coin of Antioch (Domitian / Antiochia, RPC II 2004) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196764</census-id>
+    <name>fol. 204 v - 205 r, no. 112</name>
+    <monuments>
+      <monument>
+        <census-id>10196747</census-id>
+        <label>Sestertius of Domitian / Domitian and Citizens (RIC 608) (owner: P. L. Manlilio)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196741</census-id>
+    <name>fol. 204 v, no. 110</name>
+    <monuments>
+      <monument>
+        <census-id>10196510</census-id>
+        <label>Quadrans of Domitian (Rhinoceros / SC, RIC 249) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196779</census-id>
+    <name>fol. 205 r - 205 v, no. 113</name>
+    <monuments>
+      <monument>
+        <census-id>10196758</census-id>
+        <label>Sestertius of Domitian / Procession (RIC 615) (owner: G. Calestano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196827</census-id>
+    <name>fol. 206 v, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10196810</census-id>
+        <label>As of Domitian (Augustus / Eagle, RIC 824) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197131</census-id>
+    <name>fol. 207 r - 207 v, no. 3</name>
+    <monuments>
+      <monument>
+        <census-id>10196856</census-id>
+        <label>Denarius of Domitian / Minerva (RIC 721) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197124</census-id>
+    <name>fol. 207 r, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10196848</census-id>
+        <label>Denarius of  Domitian / Minerva (RIC 268) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197151</census-id>
+    <name>fol. 207 v - 208 r, no. 5</name>
+    <monuments>
+      <monument>
+        <census-id>10196871</census-id>
+        <label>Denarius of Titus (Domitian / Seat and Helmet, RIC 271) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197141</census-id>
+    <name>fol. 207 v, no. 4</name>
+    <monuments>
+      <monument>
+        <census-id>10196865</census-id>
+        <label>Denarius of Titus (Domitian / Vesta, RIC 99) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197158</census-id>
+    <name>fol. 208 r, no. 7</name>
+    <monuments>
+      <monument>
+        <census-id>10196878</census-id>
+        <label>Denarius of Domitian / Anchor with Dolphin (RIC 96) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197308</census-id>
+    <name>fol. 208 r, no. 8</name>
+    <monuments>
+      <monument>
+        <census-id>10196892</census-id>
+        <label>Denarius of Vespasian (Domitian / Pegasus, RIC 921) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197168</census-id>
+    <name>fol. 208 v, no. 11</name>
+    <monuments>
+      <monument>
+        <census-id>10196881</census-id>
+        <label>Denarius of Domitian / Tripod (RIC 74) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197725</census-id>
+    <name>fol. 209 r - 209 v, no. 15</name>
+    <monuments>
+      <monument>
+        <census-id>10197686</census-id>
+        <label>Denarius of Domitian / Minerva (RIC 98) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197711</census-id>
+    <name>fol. 209 r, no. 13</name>
+    <monuments>
+      <monument>
+        <census-id>10197697</census-id>
+        <label>Denarius of Domitian / Minerva (RIC 666) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197718</census-id>
+    <name>fol. 209 r, no. 14</name>
+    <monuments>
+      <monument>
+        <census-id>10196856</census-id>
+        <label>Denarius of Domitian / Minerva (RIC 721) (owner: A. Maffei)</label>
+      </monument>
+      <monument>
+        <census-id>10197722</census-id>
+        <label>Denarius of Domitian / Minerva (RIC 580) (owner: A. Maffei)</label>
+      </monument>
+      <monument>
+        <census-id>10203376</census-id>
+        <label>Denarius of Domitian / Minerva (RIC 669) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197750</census-id>
+    <name>fol. 210 v, no. 21</name>
+    <monuments>
+      <monument>
+        <census-id>10197694</census-id>
+        <label>Quinarius of Domitian / Victory (RIC 433) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197757</census-id>
+    <name>fol. 210 v, no. 22</name>
+    <monuments>
+      <monument>
+        <census-id>10197319</census-id>
+        <label>Denarius of Domitian / Minerva (RIC 666) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197764</census-id>
+    <name>fol. 211 v - 212 r, no. 28</name>
+    <monuments>
+      <monument>
+        <census-id>10197699</census-id>
+        <label>Denarius of Titus (Domitian / Goat, RIC 267) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197774</census-id>
+    <name>fol. 212 r, no. 29</name>
+    <monuments>
+      <monument>
+        <census-id>10197702</census-id>
+        <label>Denarius of Domitian / Germania (RIC 326) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197781</census-id>
+    <name>fol. 212 r, no. 30</name>
+    <monuments>
+      <monument>
+        <census-id>10197705</census-id>
+        <label>Denarius of Titus (Domitian / Clasped Hands, RIC 96) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197914</census-id>
+    <name>fol. 212 v - 213 r, no. 33</name>
+    <monuments>
+      <monument>
+        <census-id>10197801</census-id>
+        <label>Denarius of Titus (Domitian / Salus, RIC 97) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197791</census-id>
+    <name>fol. 212 v, no. 31</name>
+    <monuments>
+      <monument>
+        <census-id>10197708</census-id>
+        <label>Denarius of Titus (Domitian / Altar, RIC 266) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197940</census-id>
+    <name>fol. 213 r, no. 34</name>
+    <monuments>
+      <monument>
+        <census-id>10197806</census-id>
+        <label>Denarius of Vespasian (Domitian / Horseman, RIC 957) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197956</census-id>
+    <name>fol. 213 r, no. 35</name>
+    <monuments>
+      <monument>
+        <census-id>10197811</census-id>
+        <label>Denarius of Vespasian (Domitian / Wolf and Twins, RIC 961) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198002</census-id>
+    <name>fol. 213 v - 214 r, no. 38</name>
+    <monuments>
+      <monument>
+        <census-id>10197815</census-id>
+        <label>Denarius of Domitian / Minerva (RIC 342) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198044</census-id>
+    <name>fol. 214 r, no. 39</name>
+    <monuments>
+      <monument>
+        <census-id>10197821</census-id>
+        <label>Denarius of Domitian / Minerva (RIC 666) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198058</census-id>
+    <name>fol. 215 v, no. 46</name>
+    <monuments>
+      <monument>
+        <census-id>10197824</census-id>
+        <label>Denarius of Domitian / Minerva (RIC 720) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198073</census-id>
+    <name>fol. 216 r - 216 v, no. 50</name>
+    <monuments>
+      <monument>
+        <census-id>10197886</census-id>
+        <label>Denarius of Domitian / Eagle (RIC 144) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198093</census-id>
+    <name>fol. 216 v, no. 51</name>
+    <monuments>
+      <monument>
+        <census-id>10197903</census-id>
+        <label>Denarius of Domitian / Herald (RIC 601) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198522</census-id>
+    <name>fol. 217 v - 218 r, no. 3</name>
+    <monuments>
+      <monument>
+        <census-id>10198425</census-id>
+        <label>Aureus of Domitian / Anchor with Dolphin (RIC 53) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198494</census-id>
+    <name>fol. 217 v, no. 1</name>
+    <monuments>
+      <monument>
+        <census-id>10198419</census-id>
+        <label>Aureus of Vespasian (Domitian / Captive, RIC 959) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198504</census-id>
+    <name>fol. 217 v, no. 2</name>
+    <monuments>
+      <monument>
+        <census-id>10198422</census-id>
+        <label>Aureus of Vespasian (Domitian / Vesta, RIC 1086) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198536</census-id>
+    <name>fol. 218 r - 218 v, no. 5</name>
+    <monuments>
+      <monument>
+        <census-id>10198440</census-id>
+        <label>Aureus of Vespasian (Domitian / Spes, RIC 787) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198529</census-id>
+    <name>fol. 218 r, no. 4</name>
+    <monuments>
+      <monument>
+        <census-id>10198437</census-id>
+        <label>Denarius of Domitian / Minerva (RIC 137) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198563</census-id>
+    <name>fol. 218 v - 219 r, no. 8</name>
+    <monuments>
+      <monument>
+        <census-id>10198482</census-id>
+        <label>Aureus of Vespasian (Domitian / Wolf and Twins, RIC 960) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198546</census-id>
+    <name>fol. 218 v, no. 6</name>
+    <monuments>
+      <monument>
+        <census-id>10198446</census-id>
+        <label>Denarius of Vespasian (Domitian / Horseman, RIC 957) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198551</census-id>
+    <name>fol. 218 v, no. 7</name>
+    <monuments>
+      <monument>
+        <census-id>10198468</census-id>
+        <label>Aureus of Vespasian (Domitian / Cornucopiae, RIC 918) (owner: F. Laurencin)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198870</census-id>
+    <name>fol. 219 v, no. 2</name>
+    <monuments>
+      <monument>
+        <census-id>10198821</census-id>
+        <label>Bronze Coin of Alexandria (Domitian / Sarapis, RPC II 2493) (owner: F. Veniero)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198880</census-id>
+    <name>fol. 220 r - 220 v, no. 5</name>
+    <monuments>
+      <monument>
+        <census-id>10197237</census-id>
+        <label>Bronze Coin of Cibyra (Domitian / Jupiter, RPC II 1262) (owner: S. Erizzo)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198892</census-id>
+    <name>fol. 220 v, no. 6</name>
+    <monuments>
+      <monument>
+        <census-id>10198828</census-id>
+        <label>Bronze Coin of Alexandria (Vespasian / Ibis, RPC II 2740) (owner: S. Erizzo)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198902</census-id>
+    <name>fol. 220 v, no. 7</name>
+    <monuments>
+      <monument>
+        <census-id>10198835</census-id>
+        <label>Bronze Coin of Alexandria (Domitian / Apis bull, RPC II 2526) (owner: S. Erizzo)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198909</census-id>
+    <name>fol. 221 v, no. 12</name>
+    <monuments>
+      <monument>
+        <census-id>10198841</census-id>
+        <label>Copper Coin of Alexandria (Domitian / Isis, RPC II 2490) (owner: F. Veniero)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198919</census-id>
+    <name>fol. 222 r, no. 14</name>
+    <monuments>
+      <monument>
+        <census-id>10198844</census-id>
+        <label>Bronze Coin of Ephesus (Domitia / Female Figure, RPC II 1093)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199122</census-id>
+    <name>fol. 222 v, no. 15</name>
+    <monuments>
+      <monument>
+        <census-id>10198846</census-id>
+        <label>Bronze Coin of Alexandria (Domitian / Isis, RPC II 2482) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199132</census-id>
+    <name>fol. 223 r, no. 18</name>
+    <monuments>
+      <monument>
+        <census-id>10198853</census-id>
+        <label>Bronze Coin of Neokydos Tharsa (Domitian / Temple, RPC II 48) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199149</census-id>
+    <name>fol. 224 r - 224 v, no. 23</name>
+    <monuments>
+      <monument>
+        <census-id>10198860</census-id>
+        <label>Silver Coin of Lycia (Domitian / Lyre, RPC II 1502) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199142</census-id>
+    <name>fol. 224 r, no. 22</name>
+    <monuments>
+      <monument>
+        <census-id>10198856</census-id>
+        <label>Bronze Coin of Alexandria (Domitian / Ammon, RPC II 2513) (owner: G. Romano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199162</census-id>
+    <name>fol. 224 v, no. 24</name>
+    <monuments>
+      <monument>
+        <census-id>10198862</census-id>
+        <label>Silver Coin of Lycia (Domitian / Lyre and Owl, RPC II 1503) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199169</census-id>
+    <name>fol. 224 v, no. 25</name>
+    <monuments>
+      <monument>
+        <census-id>10198864</census-id>
+        <label>Bronze coin of Neapolis (Domitian / Legend, RPC II 2218) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199176</census-id>
+    <name>fol. 225 r, no. 28</name>
+    <monuments>
+      <monument>
+        <census-id>10198866</census-id>
+        <label>Bronze Coin of Cos (Domitian / Club, RPC II 1165) (owner: J. Strada) </label>
       </monument>
     </monuments>
   </document>

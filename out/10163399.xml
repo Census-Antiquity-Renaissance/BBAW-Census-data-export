@@ -1,2 +1,3864 @@
 <?xml version="1.0" encoding="utf-8"?>
-<documents/>
+<documents>
+  <document>
+    <census-id>10201962</census-id>
+    <name>fol. 005 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP NERVA CAES AVG P M TR POT II COS III P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10201969</census-id>
+        <label>Sestertius of Nerva (Laureate Head of Nerva / Fortuna, RIC 83) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10201979</census-id>
+    <name>fol. 006 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>FORTVNA AVGVST S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10201969</census-id>
+        <label>Sestertius of Nerva (Laureate Head of Nerva / Fortuna, RIC 83) (owner: J. Strada)</label>
+      </monument>
+      <monument>
+        <census-id>10202942</census-id>
+        <label>Dupondius of Nerva (Radiate Head of Nerva / Fortuna, RIC 84) (owner: A. Maffei)</label>
+      </monument>
+      <monument>
+        <census-id>10203325</census-id>
+        <label>Dupondius of Nerva (Radiate Head of Nerva / Fortuna, RIC 84) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10202930</census-id>
+    <name>fol. 007 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP NERVA CAES P M TR P COS II PP</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10202921</census-id>
+        <label>Sestertius of Nerva (Laureate Head of Nerva / Nerva and Italia, RIC 92) (owner: Goldsmith from Lyon)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10202207</census-id>
+    <name>fol. 008 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TVTELLA ITALIAE S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10202193</census-id>
+        <label>Sestertius of Nerva (Laureate Head of Nerva / Nerva and Italia, RIC 92) (owner: Anonymous)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10202933</census-id>
+    <name>fol. 008 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TVTELLA ITALIAE S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10202921</census-id>
+        <label>Sestertius of Nerva (Laureate Head of Nerva / Nerva and Italia, RIC 92) (owner: Goldsmith from Lyon)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10201597</census-id>
+    <name>fol. 009 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP NERVA CAES AVG P M TR P COX II P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10201583</census-id>
+        <label>Sestertius of Nerva (Laureate Head of Nerva / Mules Grazing Behind Chart, RIC 93) (owner:  A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10201600</census-id>
+    <name>fol. 010 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>VEICVLATIONE ITALIAE REMISSA S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10201583</census-id>
+        <label>Sestertius of Nerva (Laureate Head of Nerva / Mules Grazing Behind Chart, RIC 93) (owner:  A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10201382</census-id>
+    <name>fol. 014 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CONGIAR P R S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10201361</census-id>
+        <label>Sestertius of Nerva / Nerva, Liberalitas and Minerva (RIC 56) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10202814</census-id>
+    <name>fol. 016 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CONCORIDIA AVGVSTI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10202805</census-id>
+        <label>Dupondius of Vespasian (Radiate Head of Titus / Concordia, RIC 568) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10202859</census-id>
+    <name>fol. 017 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP NERVA CAES AVG P M TR P COS III P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10202838</census-id>
+        <label>Sestertius of Nerva (Laureate Head of Nerva / Modius, RIC 89) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10202862</census-id>
+    <name>fol. 018 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>PLENE VRBANAE FRVMENTO CONSTITVTO S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10202838</census-id>
+        <label>Sestertius of Nerva (Laureate Head of Nerva / Modius, RIC 89) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10203107</census-id>
+    <name>fol. 019 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP NERVA CAES AVG P M TR P COS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10203097</census-id>
+        <label>Sestertius of Nerva (Laureate Head of Nerva / Palm-Tree, RIC 58) (owner: J. Strada, A. Conteschi))</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10203110</census-id>
+    <name>fol. 020 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>FISCI IVDAICI CALVMNIA SVBLATA S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10203097</census-id>
+        <label>Sestertius of Nerva (Laureate Head of Nerva / Palm-Tree, RIC 58) (owner: J. Strada, A. Conteschi))</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10201570</census-id>
+    <name>fol. 021 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP NERVA CAES AVG P M TR P COS III P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10201530</census-id>
+        <label>Sestertius of Nerva (Laureate Head of Nerva / Ceres facing Abundantia, RIC 78) (owner: G. Calestano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10201573</census-id>
+    <name>fol. 022 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>ANNONA AVGVST S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10201530</census-id>
+        <label>Sestertius of Nerva (Laureate Head of Nerva / Ceres facing Abundantia, RIC 78) (owner: G. Calestano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204045</census-id>
+    <name>fol. 027 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP NERVA CAES AVG</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204030</census-id>
+        <label>Quadrans of Nerva (Bust of Juno / Rudder on Globe, RIC 114) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204051</census-id>
+    <name>fol. 028 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204030</census-id>
+        <label>Quadrans of Nerva (Bust of Juno / Rudder on Globe, RIC 114) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10203952</census-id>
+    <name>fol. 029 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DIVVS AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10203942</census-id>
+        <label>Dupondius of Nerva (Radiate Divus Augustus / Rudder on Globe, RIC 132) (owner:  A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10203955</census-id>
+    <name>fol. 030 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP NER CAES AVG REST</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10203942</census-id>
+        <label>Dupondius of Nerva (Radiate Divus Augustus / Rudder on Globe, RIC 132) (owner:  A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10203821</census-id>
+    <name>fol. 031 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DIVVS AVG PATER PAATRIAE</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10203798</census-id>
+        <label>As of Nerva (Head of Augustus / Altar with Paneled Door, RIC 134) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10203826</census-id>
+    <name>fol. 032 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP NERVA CAES AVG REST S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10203798</census-id>
+        <label>As of Nerva (Head of Augustus / Altar with Paneled Door, RIC 134) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10203897</census-id>
+    <name>fol. 035 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DIVVS AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10203870</census-id>
+        <label>As of Nerva (Divus Augustus / Eagle, RIC 129) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10203900</census-id>
+    <name>fol. 036 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP NERVA CAESAR AVG REST S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10203870</census-id>
+        <label>As of Nerva (Divus Augustus / Eagle, RIC 129) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10203293</census-id>
+    <name>fol. 040 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP NERVA VAES PATER FEL S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10203131</census-id>
+        <label>Sestertius of Nerva (Bust of Agrippina Major / S C, RIC 138) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10203977</census-id>
+    <name>fol. 041 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DIVVS AVGVSTVS PATER</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10203968</census-id>
+        <label>As of Nerva (Divus Augustus / Thunderbolt, RIC 130) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10203980</census-id>
+    <name>fol. 042 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP NERVA CAES AVG REST S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10203968</census-id>
+        <label>As of Nerva (Divus Augustus / Thunderbolt, RIC 130) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10203909</census-id>
+    <name>fol. 045 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DIVVS AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10203867</census-id>
+        <label>Sestertius of Nerva (Laureate Head of Divus Augustus / S C, RIC 136) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10203912</census-id>
+    <name>fol. 046 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP NERVA CAESAR AVGVSTVS RESTIT S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10203867</census-id>
+        <label>Sestertius of Nerva (Laureate Head of Divus Augustus / S C, RIC 136) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207569</census-id>
+    <name>fol. 047 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP NERVA CAES AVG P M TR P COS II P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207502</census-id>
+        <label>As of Nerva / Clasped hands (RIC 53) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207572</census-id>
+    <name>fol. 048 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CONCORDIA EXERCITVM S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207502</census-id>
+        <label>As of Nerva / Clasped hands (RIC 53) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207556</census-id>
+    <name>fol. 051 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP NERVA CAESAR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207493</census-id>
+        <label>Quadrans of Nerva (Modius / Winged caduceus, RIC 109) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207560</census-id>
+    <name>fol. 052 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207493</census-id>
+        <label>Quadrans of Nerva (Modius / Winged caduceus, RIC 109) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207522</census-id>
+    <name>fol. 054 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>COS II DES IG III P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207458</census-id>
+        <label>Denarius of Nerva / Diana (RIC 11) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10202262</census-id>
+    <name>fol. 055 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP NERVA CAES AVG P M TR P P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10202253</census-id>
+        <label>Cistophorus of Nerva (Laureate Head of Nerva / Temple of Diana of Perge, RIC 116) (owner: Anonymous)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10202265</census-id>
+    <name>fol. 056 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DIANA PERG COS III</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10202253</census-id>
+        <label>Cistophorus of Nerva (Laureate Head of Nerva / Temple of Diana of Perge, RIC 116) (owner: Anonymous)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10201492</census-id>
+    <name>fol. 057 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP NERVA CAES AVG P M TR P P P COS II</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10201486</census-id>
+        <label>Bronze Coin of Cassandrea (Nerva / Jupiter Ammon, GIC 929) (owner: A. Loredano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10201495</census-id>
+    <name>fol. 058 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>COL IVL AVG</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10201486</census-id>
+        <label>Bronze Coin of Cassandrea (Nerva / Jupiter Ammon, GIC 929) (owner: A. Loredano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10203965</census-id>
+    <name>fol. 064 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP NERVA CAES AVG S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10203942</census-id>
+        <label>Dupondius of Nerva (Radiate Divus Augustus / Rudder on Globe, RIC 132) (owner:  A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10202494</census-id>
+    <name>fol. 065 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP NERVA CAES AVG P M TR P COS II DESIGN III P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10202404</census-id>
+        <label>Sestertius of Nerva (Laureate Head of Nerva / Nerva Surrounded by Minerva and Liberalitas, RIC 71) (owner:  G. Romano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10202491</census-id>
+    <name>fol. 066 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C CONGIARIVM</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10202404</census-id>
+        <label>Sestertius of Nerva (Laureate Head of Nerva / Nerva Surrounded by Minerva and Liberalitas, RIC 71) (owner:  G. Romano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10201959</census-id>
+    <name>fol. 069 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP NERVA CAES AVG P M TR P COS III P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10201944</census-id>
+        <label>Sestertius of Nerva (Laureate Head of Nerva / Libertas, RIC 86) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204799</census-id>
+    <name>fol. 079 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES NERVA TRAIAN AVG GERM</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204488</census-id>
+        <label>Denarius of Trajan / Hercules (RIC 50) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204802</census-id>
+    <name>fol. 080 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>PM TR POT COS IIII P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204488</census-id>
+        <label>Denarius of Trajan / Hercules (RIC 50) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10203808</census-id>
+    <name>fol. 089 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DIVVS AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10203798</census-id>
+        <label>As of Nerva (Head of Augustus / Altar with Paneled Door, RIC 134) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10203811</census-id>
+    <name>fol. 090 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP NERVA CAES AVG REST</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10203798</census-id>
+        <label>As of Nerva (Head of Augustus / Altar with Paneled Door, RIC 134) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207542</census-id>
+    <name>fol. 095 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP NERVA CAES AVG P M TR P COS III P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207477</census-id>
+        <label>Denarius of Nerva / Justitia (RIC 18) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207545</census-id>
+    <name>fol. 096 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IVSTITIA AVGVSTI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207477</census-id>
+        <label>Denarius of Nerva / Justitia (RIC 18) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207530</census-id>
+    <name>fol. 097 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP NERVA CAES AVG P M TR POT</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207465</census-id>
+        <label>Denarius of Nerva / Religious objects (RIC 23) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207533</census-id>
+    <name>fol. 098 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>COS III PATER PATRIAE</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207465</census-id>
+        <label>Denarius of Nerva / Religious objects (RIC 23) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10202893</census-id>
+    <name>fol. 099 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP NERVA CAES AVG P M TR P COS III P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10202872</census-id>
+        <label>Denarius of Nerva (Laureate Head of Nerva / Salus, RIC 20) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10202896</census-id>
+    <name>fol. 100 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>SALVS PVBLICA</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10202872</census-id>
+        <label>Denarius of Nerva (Laureate Head of Nerva / Salus, RIC 20) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10203123</census-id>
+    <name>fol. 101 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP NERVA CAES AVG P M TR P COS II PP</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10203114</census-id>
+        <label>As of Nerva (Laureate Head of Nerva / Aequitas, RIC 51) (owner: J. Strada)</label>
+      </monument>
+      <monument>
+        <census-id>10207489</census-id>
+        <label>As of Nerva / Aequitas (RIC 51) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10203126</census-id>
+    <name>fol. 102 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AEQVITAS AVGVSTI </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10203114</census-id>
+        <label>As of Nerva (Laureate Head of Nerva / Aequitas, RIC 51) (owner: J. Strada)</label>
+      </monument>
+      <monument>
+        <census-id>10207489</census-id>
+        <label>As of Nerva / Aequitas (RIC 51) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10208556</census-id>
+    <name>fol. 113 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES NERVAE TRAIANO AVG GER DAC P M TR POT COS V P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10208260</census-id>
+        <label>Dupondius of Trajan / Cuirass (RIC 582) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10208559</census-id>
+    <name>fol. 114 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S P Q R OPTIMO PRINCIPI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10208260</census-id>
+        <label>Dupondius of Trajan / Cuirass (RIC 582) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10208589</census-id>
+    <name>fol. 121 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES NERVAE TRAIANO AVG GER DAC P M TR P COS V P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10208303</census-id>
+        <label>As of Trajan / Trajan on horse (RIC 543) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10208592</census-id>
+    <name>fol. 122 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S P Q R OPTIMO PRINCIPI S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10208303</census-id>
+        <label>As of Trajan / Trajan on horse (RIC 543) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204846</census-id>
+    <name>fol. 125 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES NERVAE TRAIANO AVG GER DAC P M TR P COS V P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204511</census-id>
+        <label>Denarius of Trajan / Arabia (RIC 94) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204849</census-id>
+    <name>fol. 126 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S P Q R OPTIMO PRINCIPI ARABIA</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204511</census-id>
+        <label>Denarius of Trajan / Arabia (RIC 94) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10208656</census-id>
+    <name>fol. 129 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES NERVAE TRAIANO AVG GER DAC P M TR POT COS VI P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10208546</census-id>
+        <label>Sestertius of Trajan / Abundantia (RIC 604) (owner: G. Romano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10208659</census-id>
+    <name>fol. 130 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S P Q R OPTIMO PRINCIPI ALIM ITAL</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10208546</census-id>
+        <label>Sestertius of Trajan / Abundantia (RIC 604) (owner: G. Romano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207732</census-id>
+    <name>fol. 131 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES NERVA TRAIAN AVG GER DAC PART COS V P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207609</census-id>
+        <label>Dupondius of Trajan / Victory (RIC 525) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207735</census-id>
+    <name>fol. 132 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S P Q R OPTIMO PRINCIPI S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207609</census-id>
+        <label>Dupondius of Trajan / Victory (RIC 525) (owner: J. Strada)</label>
+      </monument>
+      <monument>
+        <census-id>10208282</census-id>
+        <label>As of Trajan / Victory (RIC 524) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10208571</census-id>
+    <name>fol. 133 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES NERVAE TRAIANO AVG GER DAC P M TR P COS V P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10208282</census-id>
+        <label>As of Trajan / Victory (RIC 524) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207756</census-id>
+    <name>fol. 142 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S P Q R&#13;
+OPTIMO&#13;
+PRINCIPI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207625</census-id>
+        <label>As of Trajan / Oak-wreath (RIC 476) (owner: S. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207789</census-id>
+    <name>fol. 145 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES NERVAE TRAIANO AVG GER DAC P M TR POT COS V P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207650</census-id>
+        <label>As of Trajan / Pax and dacian (RIC 510) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207792</census-id>
+    <name>fol. 146 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S P Q R OPTIMO PRINCIPI S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207650</census-id>
+        <label>As of Trajan / Pax and dacian (RIC 510) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207746</census-id>
+    <name>fol. 147 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES NERVAE TRAIANO AVG GER DAC P M TR POT COS V P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207617</census-id>
+        <label>As of Trajan / Temple (RIC 575) (owner: G. Romano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207749</census-id>
+    <name>fol. 148 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S P Q R OPTIMO PRINCIPI S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207617</census-id>
+        <label>As of Trajan / Temple (RIC 575) (owner: G. Romano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207702</census-id>
+    <name>fol. 149 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES NERVAE TRAIANO AVG GER DAC P M TR POT COS V P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207595</census-id>
+        <label>Sestertius of Trajan / Temple of Jupiter (RIC 577) (owner: B. Castiglione)</label>
+      </monument>
+      <monument>
+        <census-id>10208715</census-id>
+        <label>Sestertius of Trajan / Temple of Jupiter (RIC 577) (owner: G. Calestano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207705</census-id>
+    <name>fol. 150 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S P Q R OPTIMO PRINCIPI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207595</census-id>
+        <label>Sestertius of Trajan / Temple of Jupiter (RIC 577) (owner: B. Castiglione)</label>
+      </monument>
+      <monument>
+        <census-id>10208715</census-id>
+        <label>Sestertius of Trajan / Temple of Jupiter (RIC 577) (owner: G. Calestano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207853</census-id>
+    <name>fol. 151 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES NERVAE TRAIANO AVG GER DAC P M TR P COS V P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207678</census-id>
+        <label>Sestertius of Trajan / Arabia (RIC 466) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207857</census-id>
+    <name>fol. 152 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S P Q R OPTIMO PRINCIPI S C ARAB ADQVIS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207678</census-id>
+        <label>Sestertius of Trajan / Arabia (RIC 466) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207763</census-id>
+    <name>fol. 153 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES NERVAE TRAIANO AVG GER DAC P M TR POT</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207629</census-id>
+        <label>Aureus of Trajan / Trajan and Italia (RIC 106) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207766</census-id>
+    <name>fol. 154 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>COS V P P S P Q R OPTIMO PRINCIPI REST ITAL</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207629</census-id>
+        <label>Aureus of Trajan / Trajan and Italia (RIC 106) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10205235</census-id>
+    <name>fol. 167 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TRAIANVS AVG GER DAC P M TR P COS VI P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10205139</census-id>
+        <label>Denarius of Trajan / Trajan and Victory (RIC 212) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10205238</census-id>
+    <name>fol. 168 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S P Q R OPTIMO PRINCIPI S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10205139</census-id>
+        <label>Denarius of Trajan / Trajan and Victory (RIC 212) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10205185</census-id>
+    <name>fol. 175 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TRAIANVS AVG GER DAC P M TR P COS VI P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10205048</census-id>
+        <label>Aureus of Trajan / Forum of Trajan (RIC 255) (owner: A. Maffei)</label>
+      </monument>
+      <monument>
+        <census-id>10205051</census-id>
+        <label>Aureus of Trajan / Forum of Trajan (RIC 255) (owner: G. Duchoul)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10205188</census-id>
+    <name>fol. 176 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>FORVM TRAIANI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10205048</census-id>
+        <label>Aureus of Trajan / Forum of Trajan (RIC 255) (owner: A. Maffei)</label>
+      </monument>
+      <monument>
+        <census-id>10205051</census-id>
+        <label>Aureus of Trajan / Forum of Trajan (RIC 255) (owner: G. Duchoul)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204321</census-id>
+    <name>fol. 177 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DIVO NERVAE TRAIANO</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204269</census-id>
+        <label>Contorniate (Trajan / Skylla, Alf&#246;ldi 367) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204324</census-id>
+    <name>fol. 178 r</name>
+    <monuments>
+      <monument>
+        <census-id>10204269</census-id>
+        <label>Contorniate (Trajan / Skylla, Alf&#246;ldi 367) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204421</census-id>
+    <name>fol. 179 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP NERVA TRAIANVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204300</census-id>
+        <label>Contorniate (Vespasian / Vespasian on horse, Alf&#246;ldi 593) (owner: O. Petrucci)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204424</census-id>
+    <name>fol. 180 r</name>
+    <monuments>
+      <monument>
+        <census-id>10204300</census-id>
+        <label>Contorniate (Vespasian / Vespasian on horse, Alf&#246;ldi 593) (owner: O. Petrucci)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204385</census-id>
+    <name>fol. 183 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TRAIANVS AVG COS III P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204288</census-id>
+        <label>Contorniate (Trajan / Kybele and Attis, Alf&#246;ldi 301) (owner: G. Calestano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204388</census-id>
+    <name>fol. 184 r</name>
+    <monuments>
+      <monument>
+        <census-id>10204288</census-id>
+        <label>Contorniate (Trajan / Kybele and Attis, Alf&#246;ldi 301) (owner: G. Calestano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204225</census-id>
+    <name>fol. 187 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES TRAIAN AVG GERM</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204102</census-id>
+        <label>Quadrans of Trajan (Hercules / Club, RIC 699) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204228</census-id>
+    <name>fol. 188 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204102</census-id>
+        <label>Quadrans of Trajan (Hercules / Club, RIC 699) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204215</census-id>
+    <name>fol. 207 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES TRAIAN AVG GERM</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204094</census-id>
+        <label>Quadrans of Trajan (Hercules / Boar, RIC 702) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204218</census-id>
+    <name>fol. 208 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204094</census-id>
+        <label>Quadrans of Trajan (Hercules / Boar, RIC 702) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206963</census-id>
+    <name>fol. 220 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#914;&#917;&#929;&#927;&#921;&#13;
+&#923;&#921;WN&#13;
+A&#13;
+</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206750</census-id>
+        <label>Bronze Coin of Beroea (Trajan / Laurel wreath, RPC III 3425) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10208609</census-id>
+    <name>fol. 237 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TRAIANVS AVG GER DAC P M TR P COS VI P P&#13;
+</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10208321</census-id>
+        <label>Dupondius of Trajan / Trajan on horse (RIC 546) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10208612</census-id>
+    <name>fol. 238 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S P Q R OPTIMO PRINCIPI S C&#13;
+</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10208321</census-id>
+        <label>Dupondius of Trajan / Trajan on horse (RIC 546) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206956</census-id>
+    <name>fol. 252 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription> &#916;&#919;&#924;&#913;&#929;&#935;&#13;
+ CE&#933;&#928;&#913;&#932;&#914;</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206743</census-id>
+        <label>Brass Coin of Antioch (Trajan / Wreath, RPC III 3653) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204906</census-id>
+    <name>fol. 263 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES NERVA TRAIAN AVG GER P M TR POT</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204550</census-id>
+        <label>Denarius of Trajan / Mars (RIC 114) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204909</census-id>
+    <name>fol. 264 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>COS V P P S P Q R OPTIMO PRINCIPI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204550</census-id>
+        <label>Denarius of Trajan / Mars (RIC 114) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10205219</census-id>
+    <name>fol. 265 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES NERVA TRAIAN AVG GER</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10205135</census-id>
+        <label>Denarius of Trajan / Victory (MIR 125a1) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10205223</census-id>
+    <name>fol. 266 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>P M TR P COS IIII P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10205135</census-id>
+        <label>Denarius of Trajan / Victory (MIR 125a1) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10208578</census-id>
+    <name>fol. 267 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TRAIANVS AVG GER DAC P M TR P COS V P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10208294</census-id>
+        <label>Sestertius of Trajan / Victory (RIC 527) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10208581</census-id>
+    <name>fol. 268 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>VIC&#13;
+DAC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>S P Q R OPTIMO PRINCIPI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10208294</census-id>
+        <label>Sestertius of Trajan / Victory (RIC 527) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207688</census-id>
+    <name>fol. 285 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES NERVA TRAIAN AVG GER</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199857</census-id>
+        <label>Quinarius of Trajan / Victory (RIC 24) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207691</census-id>
+    <name>fol. 286 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>PONT MAX TR POT COS III</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199857</census-id>
+        <label>Quinarius of Trajan / Victory (RIC 24) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10205503</census-id>
+    <name>fol. 288 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>COS V P P S P Q R OPTIMO PRINCIPI S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10205159</census-id>
+        <label>Denarius of Trajan / Aequitas (RIC 119) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10205195</census-id>
+    <name>fol. 292 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>PARTHICO P M TR P COS VI P P S P Q R</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10205108</census-id>
+        <label>Denarius of Trajan / Virtus (RIC 334) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204881</census-id>
+    <name>fol. 294 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S P Q R OPTIMO PRINCIPI VIA TRAIANI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204531</census-id>
+        <label>Denarius of Trajan / Via Trajana (RIC 266) (owner: J. Strada)</label>
+      </monument>
+      <monument>
+        <census-id>10204539</census-id>
+        <label>Denarius of Trajan / Via Trajana (RIC 267) (owner: A. Maffei)</label>
+      </monument>
+      <monument>
+        <census-id>10204545</census-id>
+        <label>Denarius of Trajan / Via Trajana (RIC 267) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204891</census-id>
+    <name>fol. 298 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CON V P P S P Q R OPTIMO PRINCIPI ARABIA</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204511</census-id>
+        <label>Denarius of Trajan / Arabia (RIC 94) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204145</census-id>
+    <name>fol. 299 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TRAIANVS AVG GER DAC P M TR P COS VI P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10201547</census-id>
+        <label>Sestertius of Trajan / Providentia (RIC 663) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204148</census-id>
+    <name>fol. 300 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>PROVIDENTIA AVGVSTI S P Q R</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10201547</census-id>
+        <label>Sestertius of Trajan / Providentia (RIC 663) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207831</census-id>
+    <name>fol. 305 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TRAIANVS AVG GER DAC P M TR P COS VI P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207671</census-id>
+        <label>As of Trajan / Trajan (RIC 461) (owner: G. Romano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207834</census-id>
+    <name>fol. 306 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S P Q R OPTIMO PRINCIPI ALIM ITAL</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207671</census-id>
+        <label>As of Trajan / Trajan (RIC 461) (owner: G. Romano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204208</census-id>
+    <name>fol. 322 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>REX PARTH DATVS S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204086</census-id>
+        <label>Sestertius of Trajan / Trajan, Parthamaspates and Parthia (RIC 667) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10208626</census-id>
+    <name>fol. 323 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TRAIANVS AVG GER DAC P M TR P COS V P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10208327</census-id>
+        <label>Sestertius of Trajan / Trajan and Victory (RIC 551) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10208629</census-id>
+    <name>fol. 324 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S P Q R OPTIMO PRINCIPI S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10208327</census-id>
+        <label>Sestertius of Trajan / Trajan and Victory (RIC 551) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10205207</census-id>
+    <name>fol. 330 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTI PROFECTIO</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10205127</census-id>
+        <label>Aureus of Trajan / Trajan mounted (RIC 314) (owner: G. R&#246;mer)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204187</census-id>
+    <name>fol. 337 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TRAIANVS AVG GER DAC P M TR P COS V P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204070</census-id>
+        <label>As of Trajan / Aquila (RIC 588) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204190</census-id>
+    <name>fol. 338 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S P Q R OPTIMO PRINCIPI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204070</census-id>
+        <label>As of Trajan / Aquila (RIC 588) (owner: J. Strada)</label>
+      </monument>
+      <monument>
+        <census-id>10205478</census-id>
+        <label>Aureus of Trajan / Aquila and Standards (RIC 296) (owner: M. Flodenus)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10201465</census-id>
+    <name>fol. 342 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>FORT RED TR P COS II P P S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10201418</census-id>
+        <label>Denarius of Trajan / Fortuna (MIR 559v) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204112</census-id>
+    <name>fol. 345 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES NERVA TRAIAN AVG GER PONT M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10201511</census-id>
+        <label>As of Trajan / Victory (RIC 402) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204115</census-id>
+    <name>fol. 346 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TR POT COS II P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>S P Q R</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10201511</census-id>
+        <label>As of Trajan / Victory (RIC 402) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10208646</census-id>
+    <name>fol. 351 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TRAIANVS AVG GER DAC P M TR P COS VI P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10208542</census-id>
+        <label>As of Trajan / Trajan on horse (RIC 543) (owner: G. Romano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10208649</census-id>
+    <name>fol. 352 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S P Q R OPTIMO PRINCIPI S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10208542</census-id>
+        <label>As of Trajan / Trajan on horse (RIC 543) (owner: G. Romano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10205510</census-id>
+    <name>fol. 355 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES TRAIANO AVGER DAC P M TR P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10205170</census-id>
+        <label>Aureus of Trajan / Legend in Oak-wreath (RIC 148) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10205513</census-id>
+    <name>fol. 356 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>COS V P P&#13;
+S P Q R&#13;
+OPTIMO&#13;
+PRINCIPI&#13;
+S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10205170</census-id>
+        <label>Aureus of Trajan / Legend in Oak-wreath (RIC 148) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204884</census-id>
+    <name>fol. 360 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S P Q R OPTIMO PRINCIPI VIA TRAIANA</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204531</census-id>
+        <label>Denarius of Trajan / Via Trajana (RIC 266) (owner: J. Strada)</label>
+      </monument>
+      <monument>
+        <census-id>10204539</census-id>
+        <label>Denarius of Trajan / Via Trajana (RIC 267) (owner: A. Maffei)</label>
+      </monument>
+      <monument>
+        <census-id>10204545</census-id>
+        <label>Denarius of Trajan / Via Trajana (RIC 267) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204198</census-id>
+    <name>fol. 363 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TRAIANVS AVG GER DAC P M TR P COS V P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204078</census-id>
+        <label>Dupondius of Trajan / Trajan mounted (RIC 545) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204201</census-id>
+    <name>fol. 364 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S P Q R OPTIMO PRINCIPI S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204078</census-id>
+        <label>Dupondius of Trajan / Trajan mounted (RIC 545) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10205496</census-id>
+    <name>fol. 366 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>P M TR P COS VI P P S P Q R</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10205154</census-id>
+        <label>Aureus of Trajan / Trajan and Jupiter (RIC 336) (owner: G. R&#246;mer)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204786</census-id>
+    <name>fol. 367 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES NERVA TRAIAN AVG GER P M TR POT</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204480</census-id>
+        <label>Denarius of Trajan / Dacian captive (RIC 96) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204789</census-id>
+    <name>fol. 368 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>COS V P P S P Q R OPTIMO PRINCIPI DAC CAP</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204480</census-id>
+        <label>Denarius of Trajan / Dacian captive (RIC 96) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204867</census-id>
+    <name>fol. 373 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TRAIANVS AVG GER DAC P M TR P COS V P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204523</census-id>
+        <label>Denarius of Trajan / Genius (RIC 275) (owner: J. J. Fugger)</label>
+      </monument>
+      <monument>
+        <census-id>10207587</census-id>
+        <label>Denarius of Trajan / Genius (RIC 275) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204870</census-id>
+    <name>fol. 374 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S P Q R OPTIMO PRINCIPI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204523</census-id>
+        <label>Denarius of Trajan / Genius (RIC 275) (owner: J. J. Fugger)</label>
+      </monument>
+      <monument>
+        <census-id>10207587</census-id>
+        <label>Denarius of Trajan / Genius (RIC 275) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204156</census-id>
+    <name>fol. 377 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TRAIANVS AVG GER DAC P M TR P COS V P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10201556</census-id>
+        <label>As of Trajan / Club and Lion-Skin (RIC 581) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204161</census-id>
+    <name>fol. 378 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S P Q R OPTIMO PRINCIPI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10201556</census-id>
+        <label>As of Trajan / Club and Lion-Skin (RIC 581) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207717</census-id>
+    <name>fol. 379 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TRAIANVS AVG GER DAC P M TR P COS V P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207601</census-id>
+        <label>As of Trajan / Dacia (RIC 561) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207720</census-id>
+    <name>fol. 380 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S P Q R OPTIMO PRINCIPI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207601</census-id>
+        <label>As of Trajan / Dacia (RIC 561) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207775</census-id>
+    <name>fol. 385 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TRAIANVS AVG GER DAC P M TR P COS V P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207633</census-id>
+        <label>As of Trajan / River god (RIC 463) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207778</census-id>
+    <name>fol. 386 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S P Q R OPTIMO PRINCIPI S C AQVA TRAIANA</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207633</census-id>
+        <label>As of Trajan / River god (RIC 463) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204916</census-id>
+    <name>fol. 390 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S P Q R OPTIMO PRINCIPI DANVVIVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204558</census-id>
+        <label>Denarius of Trajan / Danuvius (RIC 100) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204856</census-id>
+    <name>fol. 391 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TRAIANVS AVG GER DAC P M TR POTEST</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204515</census-id>
+        <label>Denarius of Trajan / Victory (RIC 128) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204860</census-id>
+    <name>fol. 392 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>COS V P P S P Q R OPTIMO PRINCIPI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204515</census-id>
+        <label>Denarius of Trajan / Victory (RIC 128) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10208636</census-id>
+    <name>fol. 399 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TRAIANVS AVG GER DAC P M TR P COS V P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10208335</census-id>
+        <label>As of Trajan / Pax (RIC 503) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10208639</census-id>
+    <name>fol. 400 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S P Q R OPTIMO PRINCIPI S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10208335</census-id>
+        <label>As of Trajan / Pax (RIC 503) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204814</census-id>
+    <name>fol. 402 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S P Q R OPTIMO PRINCIPI FOR RED</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204500</census-id>
+        <label>Denarius of Trajan / Fortuna (RIC 253) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204124</census-id>
+    <name>fol. 404 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>P M TR P COS III SAL AVG</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10201523</census-id>
+        <label>Aureus of Trajan / Salus (RIC 368) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10201455</census-id>
+    <name>fol. 407 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES NERVA TRAIAN AVG GER</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10201409</census-id>
+        <label>Sestertius of Trajan / Concordia (MIR 5) (owner: J. Strada)</label>
+      </monument>
+      <monument>
+        <census-id>10204491</census-id>
+        <label>Denarius of Trajan / Concordia (RIC 12) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10201458</census-id>
+    <name>fol. 408 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>PONT MAX TR POT COS II</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10201409</census-id>
+        <label>Sestertius of Trajan / Concordia (MIR 5) (owner: J. Strada)</label>
+      </monument>
+      <monument>
+        <census-id>10204491</census-id>
+        <label>Denarius of Trajan / Concordia (RIC 12) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207808</census-id>
+    <name>fol. 409 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TRAIANVS AVG GER DAC P M TR P COS V P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207654</census-id>
+        <label>As of Trajan / Dacia (RIC 561) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207811</census-id>
+    <name>fol. 410 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S P Q R OPTIMO PRINCIPI S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207654</census-id>
+        <label>As of Trajan / Dacia (RIC 561) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204135</census-id>
+    <name>fol. 413 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TRAIANVS AVG GER DAC P M TR P COS V P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10201539</census-id>
+        <label>Dupondius of Trajan / Trajan (RIC 676) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204138</census-id>
+    <name>fol. 414 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>SENATVS POPVLVSQVE ROMANVS S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10201539</census-id>
+        <label>Dupondius of Trajan / Trajan (RIC 676) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10208599</census-id>
+    <name>fol. 417 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TRAIANVS AVG GER DAC P M TR P COS V P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10208312</census-id>
+        <label>Dupondius of Trajan / Trophy (RIC 587) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10208602</census-id>
+    <name>fol. 418 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S P Q R OPTIMO PRINCIPI S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10208312</census-id>
+        <label>Dupondius of Trajan / Trophy (RIC 587) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10205544</census-id>
+    <name>fol. 423 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TRAIANVS AVG GERM DAC P M TR P COS VI P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10205489</census-id>
+        <label>Aureus of Trajan / Marcus Ulpius Traianus (RIC 764) (owner: M. Flodenus)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10205547</census-id>
+    <name>fol. 424 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DIVO PATER TRAIAN</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10205489</census-id>
+        <label>Aureus of Trajan / Marcus Ulpius Traianus (RIC 764) (owner: M. Flodenus)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10201445</census-id>
+    <name>fol. 439 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES NERVA TRAIAN AVG GERM DACICVS P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10201406</census-id>
+        <label>Sestertius of Trajan / Trajan on Quadriga (MIR 156b) (owner: A. Paloso)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10201448</census-id>
+    <name>fol. 440 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TR P VII IMP IIII COS V P P S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10201406</census-id>
+        <label>Sestertius of Trajan / Trajan on Quadriga (MIR 156b) (owner: A. Paloso)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10201424</census-id>
+    <name>fol. 441 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP NERVA CAES TRAIAN AVG GERM P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10201402</census-id>
+        <label>Denarius of Trajan / Securitas (MIR 1) (owner: A. Loredano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10201427</census-id>
+    <name>fol. 442 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP NERVA CAES TRAIAN AVG GERM P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10201402</census-id>
+        <label>Denarius of Trajan / Securitas (MIR 1) (owner: A. Loredano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10205669</census-id>
+    <name>fol. 444 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>COL PTO&#923;</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10205624</census-id>
+        <label>Bronze Coin of Ptolemais (Trajan / Tyche, RPC III 3911) (owner: R. Odoni)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204375</census-id>
+    <name>fol. 445 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DIVO TRAIANO AVGVSTO</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204285</census-id>
+        <label>Contorniate (Trajan / Coachmen between horses, Alf&#246;ldi 383)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204378</census-id>
+    <name>fol. 446 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMPERATORI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204285</census-id>
+        <label>Contorniate (Trajan / Coachmen between horses, Alf&#246;ldi 383)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10201392</census-id>
+    <name>fol. 448 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>BASILICA VLPIA&#13;
+S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10201369</census-id>
+        <label>Sestertius of Trajan / Basilica of Trajan (RIC 617) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204394</census-id>
+    <name>fol. 454 r</name>
+    <monuments>
+      <monument>
+        <census-id>10204295</census-id>
+        <label>Contorniate (Vespasian / Vespasian on horse, Alf&#246;ldi 593) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204165</census-id>
+    <name>fol. 458 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>P M TR P COS VI P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10201535</census-id>
+        <label>Bronze Coin of Trajan / S C in Oak-wreath (MIR 933) (owner: A. Corvino)</label>
+      </monument>
+      <monument>
+        <census-id>10204061</census-id>
+        <label>Bronze Coin of Trajan / S C in Oak-wreath (MIR 933) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206977</census-id>
+    <name>fol. 463 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AYT KAIC NEP TPAIANOC CEB</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206761</census-id>
+        <label>Brass Coin of Antioch (Trajan / Tyche, RPC III 3656) (owner: F. Veniero)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206980</census-id>
+    <name>fol. 464 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>KOINON CIPIAC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206761</census-id>
+        <label>Brass Coin of Antioch (Trajan / Tyche, RPC III 3656) (owner: F. Veniero)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206894</census-id>
+    <name>fol. 467 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AYTOKP KAIC NEP TPAIANOC CEB</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206709</census-id>
+        <label>Silver Coin of Antioch (Trajan / Melqart, RPC III 3528) (owner: A. Loredano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206898</census-id>
+    <name>fol. 468 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#916;HMAPX E&#926; Y&#928;AT E</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206709</census-id>
+        <label>Silver Coin of Antioch (Trajan / Melqart, RPC III 3528) (owner: A. Loredano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207092</census-id>
+    <name>fol. 475 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AYT KAICAP NEPVAE TRAIAN &#915;EPM</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207057</census-id>
+        <label>Drachm of Cyrenaica (Trajan / Zeus Ammon, RPC III 1) (owner: F. Veniero)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207095</census-id>
+    <name>fol. 476 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#916;&#919;&#924;&#913;&#929;X &#917;&#926; I&#928;&#913;&#932;</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207057</census-id>
+        <label>Drachm of Cyrenaica (Trajan / Zeus Ammon, RPC III 1) (owner: F. Veniero)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204355</census-id>
+    <name>fol. 481 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>PE</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>DIVO TRAIANO AVGVSTO</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204279</census-id>
+        <label>Contorniate (Trajan / Achilles and Penthesilea, Alf&#246;ldi 335) (owner: S. del Bufalo)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204359</census-id>
+    <name>fol. 482 r</name>
+    <monuments>
+      <monument>
+        <census-id>10204304</census-id>
+        <label>Contorniate (Trajan / Race at Circus Maximus, Alf&#246;ldi 357) (owner: A. Conteschi)</label>
+      </monument>
+      <monument>
+        <census-id>10204349</census-id>
+        <label>Contorniate (Trajan / Race at Circus Maximus, Alf&#246;ldi 336) (owner: S. del Bufalo)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206905</census-id>
+    <name>fol. 485 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AYT KAIC NEP TPAIANOC &#916;&#913;&#922; &#928;&#913;P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206717</census-id>
+        <label>Bronce Coin of Alexandria (Trajan / Trajan, RPC III 4796) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206908</census-id>
+    <name>fol. 486 r</name>
+    <monuments>
+      <monument>
+        <census-id>10206717</census-id>
+        <label>Bronce Coin of Alexandria (Trajan / Trajan, RPC III 4796) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206881</census-id>
+    <name>fol. 488 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#916;HMAPX E&#926; Y&#928;AT &#915;</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206706</census-id>
+        <label>Silver Coin of Antioch (Trajan / Eagle, RPC III 3578)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206791</census-id>
+    <name>fol. 492 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>LB</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10205690</census-id>
+        <label>Bronze Coin of Alexandria (Trajan / Temple of Zeus, RPC III 4450.3) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206780</census-id>
+    <name>fol. 495 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AYT KAIC NEP TPAIANOC CEB &#915;EP &#916;AK</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10205686</census-id>
+        <label>Bronze Coin of Seleucia (Trajan / Zeus Kasios, RPC III 3766) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206783</census-id>
+    <name>fol. 496 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CE&#923;EYKEWN &#928;IEPIAC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>&#931;&#917;&#933;CA&#13;
+KACIOC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10205686</census-id>
+        <label>Bronze Coin of Seleucia (Trajan / Zeus Kasios, RPC III 3766) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207079</census-id>
+    <name>fol. 497 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TPAIANOC CEB</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207054</census-id>
+        <label>Bronze Coin of Balanea-Claudia Leucas (Trajan / God in quadriga, RPC III 3812) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207082</census-id>
+    <name>fol. 498 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#922;&#923;&#913;&#933;&#916; NEOKOPON NO&#916;</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>EM</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207054</census-id>
+        <label>Bronze Coin of Balanea-Claudia Leucas (Trajan / God in quadriga, RPC III 3812) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206839</census-id>
+    <name>fol. 499 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AYT KAIC NEP TPAIANOC CEB &#915;EP &#916;K</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206670</census-id>
+        <label>Silver Coin of Arabia (Trajan / Temple of Artemis, RPC III 4070) (owner: F. Veniero)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206842</census-id>
+    <name>fol. 500 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#916;HMAPX E&#926; Y&#928;ATO C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206670</census-id>
+        <label>Silver Coin of Arabia (Trajan / Temple of Artemis, RPC III 4070) (owner: F. Veniero)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204430</census-id>
+    <name>fol. 503 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AYT KAI&#931; A&#916;PIANO&#931; CEB</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10205599</census-id>
+        <label>Bronze Coin of Alexandria (Hadrian / Hadrian and Alexandria, RPC III 5780) (owner: G. Grimani)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10205650</census-id>
+    <name>fol. 504 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>L K</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10205599</census-id>
+        <label>Bronze Coin of Alexandria (Hadrian / Hadrian and Alexandria, RPC III 5780) (owner: G. Grimani)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206928</census-id>
+    <name>fol. 505 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>KAIC NEP TPAIANOC CEB</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206731</census-id>
+        <label>Bronze Coin of Sidon (Hadrian / Kadmos, RPC III 3868) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206931</census-id>
+    <name>fol. 506 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IZK&#931;</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>&#931;&#921;&#916;&#937;&#925;&#927;&#931;&#925;&#913;&#933;&#13;
+&#913;&#929;&#935;&#921;&#916;&#927;&#931;</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206731</census-id>
+        <label>Bronze Coin of Sidon (Hadrian / Kadmos, RPC III 3868) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207069</census-id>
+    <name>fol. 507 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AYT TPAIAN &#915;&#917;&#929;&#924; &#916;&#913;&#922;IK</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207050</census-id>
+        <label>Bronze Coin of Alexandria (Trajan / Elephant quadriga, RPC III 4510.1) (owner: S. Erizzo)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10207072</census-id>
+    <name>fol. 508 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription> L &#921;&#916;</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10207050</census-id>
+        <label>Bronze Coin of Alexandria (Trajan / Elephant quadriga, RPC III 4510.1) (owner: S. Erizzo)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206939</census-id>
+    <name>fol. 509 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TPAIAN CEB &#915;&#917;&#929;M . . . .</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206735</census-id>
+        <label>Bronze Coin of Alexandria (Trajan / Nike, RPC III 4308.1) (owner: S. Erizzo)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206942</census-id>
+    <name>fol. 510 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>L II</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206735</census-id>
+        <label>Bronze Coin of Alexandria (Trajan / Nike, RPC III 4308.1) (owner: S. Erizzo)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206798</census-id>
+    <name>fol. 512 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#929;&#927;&#916;&#921;&#13;
+&#916;&#921;&#916;&#929;&#13;
+&#935;&#924;&#927;&#925;</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206720</census-id>
+        <label>Didrachm of Rhodes (Trajan / Poseidon, RPC III 2184) (owner: A. Loredano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206918</census-id>
+    <name>fol. 513 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AYT KAIC NEP TPAIAN &#916;&#913;&#922; &#928;&#913;P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206724</census-id>
+        <label>Bronze Coin of Laodicea (Trajan / Tyche, RPC III 3796) (owner: S. Erizzo)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206921</census-id>
+    <name>fol. 514 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>ICY&#923;IE&#8182;N TON KAI&#923;AO&#916;IKE&#8182;N B&#926;P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206724</census-id>
+        <label>Bronze Coin of Laodicea (Trajan / Tyche, RPC III 3796) (owner: S. Erizzo)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206970</census-id>
+    <name>fol. 518 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>L E</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206756</census-id>
+        <label>Bronze Coin of Alexandria (Trajan / Temple of Sarapis, RPC III 4447.2) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206849</census-id>
+    <name>fol. 519 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AYTOK NEP TPAIANOC APICT KAIC CEB &#915;EP &#916;AK</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206692</census-id>
+        <label>Bronze Coin of Laodicea (Trajan / Tyche, RPC III 3797) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206852</census-id>
+    <name>fol. 520 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IOY&#923;&#921;&#917;WN KAI &#923;AO&#916;IKEWN IEP</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206692</census-id>
+        <label>Bronze Coin of Laodicea (Trajan / Tyche, RPC III 3797) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206949</census-id>
+    <name>fol. 528 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206739</census-id>
+        <label>Bronze Coin of Antioch (Nerva / Laurel wreath, RPC III 3487) (owner: R. Odoni)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206871</census-id>
+    <name>fol. 531 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AYT KAIC NEP TPAIANOC CEB &#915;EP &#916;AK</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206702</census-id>
+        <label>Copper Coin of Cyrenaica (Trajan / Zeus Ammon, RPC III 9) (owner: A. Loredano)</label>
+      </monument>
+      <monument>
+        <census-id>10206884</census-id>
+        <label>Copper Coin of Cyrenaica (Trajan / Zeus Ammon, RPC III 9) (owner: G. Grimani)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206874</census-id>
+    <name>fol. 532 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription> &#916;HMAPX E&#926; Y&#928;AT E</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206702</census-id>
+        <label>Copper Coin of Cyrenaica (Trajan / Zeus Ammon, RPC III 9) (owner: A. Loredano)</label>
+      </monument>
+      <monument>
+        <census-id>10206884</census-id>
+        <label>Copper Coin of Cyrenaica (Trajan / Zeus Ammon, RPC III 9) (owner: G. Grimani)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204832</census-id>
+    <name>fol. 537 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES NERVAE TRAIAN AVF</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204504</census-id>
+        <label>Semis of Trajan / Decorated Table (RIC 688) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204835</census-id>
+    <name>fol. 538 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204504</census-id>
+        <label>Semis of Trajan / Decorated Table (RIC 688) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204365</census-id>
+    <name>fol. 545 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES TRAIANVS AVG P M P P PROCONS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204282</census-id>
+        <label>Contorniate (Trajan / Aeneas, Anchises and Ascanius, Alf&#246;ldi 349)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204368</census-id>
+    <name>fol. 546 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AENEAS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204282</census-id>
+        <label>Contorniate (Trajan / Aeneas, Anchises and Ascanius, Alf&#246;ldi 349)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204400</census-id>
+    <name>fol. 547 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES TRAIANVS AVG P M P P PROCONS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204299</census-id>
+        <label>Contorniate (Trajan / Athlete, Alf&#246;ldi 350)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204403</census-id>
+    <name>fol. 548 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>FILINVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204299</census-id>
+        <label>Contorniate (Trajan / Athlete, Alf&#246;ldi 350)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204177</census-id>
+    <name>fol. 551 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES NERVAE TRAIANVS GERM . . . .</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204066</census-id>
+        <label>Aureus of Trajan / Sol (RIC 329)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204180</census-id>
+    <name>fol. 552 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>PARTHICO P M TR P COS II P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204066</census-id>
+        <label>Aureus of Trajan / Sol (RIC 329)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204330</census-id>
+    <name>fol. 553 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES NERVAE TRAIANVS AVG COS III P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204273</census-id>
+        <label>Contorniate (Trajan / Luna and Endymion, Alf&#246;ldi 339) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204333</census-id>
+    <name>fol. 554 r</name>
+    <monuments>
+      <monument>
+        <census-id>10204273</census-id>
+        <label>Contorniate (Trajan / Luna and Endymion, Alf&#246;ldi 339) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10205520</census-id>
+    <name>fol. 555 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TRAIANO AVG GERM DAC PONT M TR P COS VI P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10205175</census-id>
+        <label>Aureus of Trajan / Genius (RIC 277) (owner: P. A. Manlilio)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10205523</census-id>
+    <name>fol. 556 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S P Q R OPTIMO PRINCIPI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10205175</census-id>
+        <label>Aureus of Trajan / Genius (RIC 277) (owner: P. A. Manlilio)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10201506</census-id>
+    <name>fol. 560 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>ANNONA AVGVSTA CERES S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10201499</census-id>
+        <label>Contorniate (Trajan / Annona and Ceres, Alf&#246;ldi 244) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10205530</census-id>
+    <name>fol. 565 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAESAR NERVA TRAIANVS AVG</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10205244</census-id>
+        <label>Semis of Trajan / Hercules (RIC 690) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10205533</census-id>
+    <name>fol. 566 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10205244</census-id>
+        <label>Semis of Trajan / Hercules (RIC 690) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204436</census-id>
+    <name>fol. 567 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DIVO NERVAE TRAIANO</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204309</census-id>
+        <label>Contorniate (Trajan / Bullfight, Alf&#246;ldi 374) (owner: F. Veniero)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204439</census-id>
+    <name>fol. 568 r</name>
+    <monuments>
+      <monument>
+        <census-id>10204309</census-id>
+        <label>Contorniate (Trajan / Bullfight, Alf&#246;ldi 374) (owner: F. Veniero)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10205633</census-id>
+    <name>fol. 569 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES TRAIAN AVG COS VI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10205593</census-id>
+        <label>Bronze Coin of Berytus (Trajan / Ploughing scene, RPC III 3841) (owner: G. Grimani)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10205636</census-id>
+    <name>fol. 570 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>COL&#13;
+BER</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10205593</census-id>
+        <label>Bronze Coin of Berytus (Trajan / Ploughing scene, RPC III 3841) (owner: G. Grimani)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10205657</census-id>
+    <name>fol. 573 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AYT TPAIANOC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10205613</census-id>
+        <label>Bronze Coin of Alexandria (Trajan / Nile, RPC III 4122)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10205660</census-id>
+    <name>fol. 574 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>LII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10205613</census-id>
+        <label>Bronze Coin of Alexandria (Trajan / Nile, RPC III 4122)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10201434</census-id>
+    <name>fol. 575 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES NERVAE TRAIANO AVG GERM DAC P M TR P COS VI P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199866</census-id>
+        <label>Sestertius of Trajan / Via Traiana (MIR 476f) (owner: G. Grimani)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10201437</census-id>
+    <name>fol. 576 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S P Q R OPTIMO PRINCIPI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>VIA TRAIANI&#13;
+S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199866</census-id>
+        <label>Sestertius of Trajan / Via Traiana (MIR 476f) (owner: G. Grimani)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204339</census-id>
+    <name>fol. 577 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DIVO TRAIANO AVGVSTO</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10204275</census-id>
+        <label>Contorniate (Trajan / Quadriga and boxer, Alf&#246;ldi 344) (owner: S. Erizzo)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204342</census-id>
+    <name>fol. 578 r</name>
+    <monuments>
+      <monument>
+        <census-id>10204275</census-id>
+        <label>Contorniate (Trajan / Quadriga and boxer, Alf&#246;ldi 344) (owner: S. Erizzo)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206818</census-id>
+    <name>fol. 584 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AYT KAIC NEP TPAIAN&#937; APICT&#937; CEB &#915;EPM K</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206450</census-id>
+        <label>Brass Coin of Cyprus (Trajan / Zeus Salaminios, RPC III 3408) (owner: E. Vico)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206821</census-id>
+    <name>fol. 585 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#916;HMAPX C Y&#928;ATOC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>KOINON KY&#928;&#929;I&#937;N</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206450</census-id>
+        <label>Brass Coin of Cyprus (Trajan / Zeus Salaminios, RPC III 3408) (owner: E. Vico)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206859</census-id>
+    <name>fol. 586 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AYTOK KAIC NEP TPAIANOC CEBACTOC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206699</census-id>
+        <label>Brass Coin of Antioch (Trajan / Laurel branch, RPC III 3659) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206862</census-id>
+    <name>fol. 587 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#916;HMAPX E Y&#928;AT B</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206699</census-id>
+        <label>Brass Coin of Antioch (Trajan / Laurel branch, RPC III 3659) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206829</census-id>
+    <name>fol. 588 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AYTOK KAIC NEP TPAIANOC CEB &#915;&#917;&#929;M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206453</census-id>
+        <label>Silver Coin of Lycia-Pamphylia (Trajan / Lyres and owl, RPC III 2676) (owner: J. Strada)</label>
+      </monument>
+      <monument>
+        <census-id>10207060</census-id>
+        <label>Silver Coin of Lycia-Pamphylia (Trajan / Lyres and owl, RPC III 2676) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206832</census-id>
+    <name>fol. 589 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#916;HM E&#926; Y&#928;AT B</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206453</census-id>
+        <label>Silver Coin of Lycia-Pamphylia (Trajan / Lyres and owl, RPC III 2676) (owner: J. Strada)</label>
+      </monument>
+      <monument>
+        <census-id>10207060</census-id>
+        <label>Silver Coin of Lycia-Pamphylia (Trajan / Lyres and owl, RPC III 2676) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206987</census-id>
+    <name>fol. 591 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#931;&#917;&#928;&#934;&#937;&#13;
+&#929;&#919;&#925;&#937;&#925;</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206767</census-id>
+        <label>Bronze Coin of Sepphoris (Trajan / Palm tree, RPC III 3937) (owner: G. Kandler)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206801</census-id>
+    <name>fol. 593 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#929;&#927;&#916;&#921;&#13;
+&#916;&#921;&#916;&#929;&#13;
+&#935;&#924; E</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206720</census-id>
+        <label>Didrachm of Rhodes (Trajan / Poseidon, RPC III 2184) (owner: A. Loredano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206808</census-id>
+    <name>fol. 600 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AYTOK KAIC NEP TPA. . .</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10205697</census-id>
+        <label>Brass Coin of Cyrenaica (Trajan / Zeus Ammon, RPC III 4)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206811</census-id>
+    <name>fol. 601 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#916;HMAPX E&#926; Y&#928;ATOC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10205697</census-id>
+        <label>Brass Coin of Cyrenaica (Trajan / Zeus Ammon, RPC III 4)</label>
+      </monument>
+    </monuments>
+  </document>
+</documents>

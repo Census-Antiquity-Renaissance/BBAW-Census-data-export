@@ -33,6 +33,50 @@
     </monuments>
   </document>
   <document>
+    <census-id>10182942</census-id>
+    <name>fol. 011 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TI CAESAR DIVI AVG F AVG IMP VIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10051213</census-id>
+        <label>Dupondius of Tiberius / Shield with Laurel (RIC 39)</label>
+      </monument>
+      <monument>
+        <census-id>10051446</census-id>
+        <label>As of Tiberius / Caduceus (RIC 53)</label>
+      </monument>
+      <monument>
+        <census-id>10051451</census-id>
+        <label>As of Tiberius (Tiberius / Rudder and Globus, RIC 58)</label>
+      </monument>
+      <monument>
+        <census-id>10051473</census-id>
+        <label>As of Tiberius / Caduceus (RIC 65)</label>
+      </monument>
+      <monument>
+        <census-id>10051516</census-id>
+        <label>As of Tiberius / Caduceus (RIC 59)</label>
+      </monument>
+      <monument>
+        <census-id>10052338</census-id>
+        <label>Dupondius of Tiberius / Bust on Shield (RIC 38)</label>
+      </monument>
+      <monument>
+        <census-id>10052344</census-id>
+        <label>As of Tiberius / Rudder and Globe (RIC 64)</label>
+      </monument>
+      <monument>
+        <census-id>10182971</census-id>
+        <label>As of Tiberius (Tiberius / Rudder and globe, RIC 52)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
     <census-id>10180461</census-id>
     <name>fol. 013 r</name>
     <transcriptions>
@@ -80,7 +124,7 @@
     <monuments>
       <monument>
         <census-id>10180792</census-id>
-        <label>As of Tiberius / Rudder with Globes (RIC 64) (owner: A. Agust&#237;n)</label>
+        <label>As of Tiberius / Rudder with Globe (RIC 64) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
   </document>
@@ -96,7 +140,7 @@
     <monuments>
       <monument>
         <census-id>10180792</census-id>
-        <label>As of Tiberius / Rudder with Globes (RIC 64) (owner: A. Agust&#237;n)</label>
+        <label>As of Tiberius / Rudder with Globe (RIC 64) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
   </document>
@@ -176,11 +220,55 @@
     <monuments>
       <monument>
         <census-id>10180792</census-id>
-        <label>As of Tiberius / Rudder with Globes (RIC 64) (owner: A. Agust&#237;n)</label>
+        <label>As of Tiberius / Rudder with Globe (RIC 64) (owner: A. Agust&#237;n)</label>
       </monument>
       <monument>
         <census-id>10182587</census-id>
-        <label>As of Tiberius (Tiberius / Rudder and Globus, RIC Tib 58) (owner: A. Agust&#237;n)</label>
+        <label>As of Tiberius (Tiberius / Rudder and Globus, RIC 58) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10182946</census-id>
+    <name>fol. 023 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TI CAESAR DIVI AVG F AVG IMP VIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10051213</census-id>
+        <label>Dupondius of Tiberius / Shield with Laurel (RIC 39)</label>
+      </monument>
+      <monument>
+        <census-id>10051446</census-id>
+        <label>As of Tiberius / Caduceus (RIC 53)</label>
+      </monument>
+      <monument>
+        <census-id>10051451</census-id>
+        <label>As of Tiberius (Tiberius / Rudder and Globus, RIC 58)</label>
+      </monument>
+      <monument>
+        <census-id>10051473</census-id>
+        <label>As of Tiberius / Caduceus (RIC 65)</label>
+      </monument>
+      <monument>
+        <census-id>10051516</census-id>
+        <label>As of Tiberius / Caduceus (RIC 59)</label>
+      </monument>
+      <monument>
+        <census-id>10052338</census-id>
+        <label>Dupondius of Tiberius / Bust on Shield (RIC 38)</label>
+      </monument>
+      <monument>
+        <census-id>10052344</census-id>
+        <label>As of Tiberius / Rudder and Globe (RIC 64)</label>
+      </monument>
+      <monument>
+        <census-id>10182971</census-id>
+        <label>As of Tiberius (Tiberius / Rudder and globe, RIC 52)</label>
       </monument>
     </monuments>
   </document>
@@ -196,7 +284,23 @@
     <monuments>
       <monument>
         <census-id>10180792</census-id>
-        <label>As of Tiberius / Rudder with Globes (RIC 64) (owner: A. Agust&#237;n)</label>
+        <label>As of Tiberius / Rudder with Globe (RIC 64) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10182987</census-id>
+    <name>fol. 028 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DRVSVS CAES TI AVG P COS II TR POT</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10182985</census-id>
+        <label>Drachme of Tiberius in Caesarea (Cappadocia) (Tiberius / Drusus minor, RIC 86)</label>
       </monument>
     </monuments>
   </document>
@@ -535,6 +639,23 @@ D P D P</inscription>
     </monuments>
   </document>
   <document>
+    <census-id>10182978</census-id>
+    <name>fol. 059 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DIVO AVGVSTO SPQR &#13;
+OB CIVIS SER</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10051457</census-id>
+        <label>Sestertius of Tiberius (Shield / SC, RIC 57)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
     <census-id>10182683</census-id>
     <name>fol. 060 r</name>
     <transcriptions>
@@ -619,6 +740,38 @@ D P D P</inscription>
       <monument>
         <census-id>10180386</census-id>
         <label>As of Tiberius / Seated Female Figure (RIC 34) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10182982</census-id>
+    <name>fol. 067 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TI CAESAR DIVI AVG F AVGVSTVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10065213</census-id>
+        <label>Aureus of Tiberius / Tiberius in Quadriga (RIC Tiberius 1) (owner: F. Angeloni)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10182992</census-id>
+    <name>fol. 070 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>NERO CLAV CAESAR IMP ET OCTAVIA AVGVSTA</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10030746</census-id>
+        <label>Copper Coin of Cnossus (Head of Nero / Heads of Nero and Octavia, RPC I 1005) (owner: E. Vico)</label>
       </monument>
     </monuments>
   </document>
@@ -961,6 +1114,22 @@ D P D P</inscription>
     </monuments>
   </document>
   <document>
+    <census-id>10183140</census-id>
+    <name>fol. 099 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TI CAES DIVI AVG F AVGVST</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10180386</census-id>
+        <label>As of Tiberius / Seated Female Figure (RIC 34) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
     <census-id>10182344</census-id>
     <name>fol. 100 r</name>
     <transcriptions>
@@ -1009,6 +1178,22 @@ D P D P</inscription>
     </monuments>
   </document>
   <document>
+    <census-id>10183022</census-id>
+    <name>fol. 103 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DEO AVGVSTO</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10060008</census-id>
+        <label>Bronze Coin of Tarraco (Head of Octavian / Temple, RPC I 224)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
     <census-id>10180436</census-id>
     <name>fol. 104 r</name>
     <transcriptions>
@@ -1025,6 +1210,102 @@ D P D P</inscription>
       <monument>
         <census-id>10180421</census-id>
         <label>Dupondius of Tiberius (Livia (?) as Justitia / SC, RIC 46) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183026</census-id>
+    <name>fol. 106 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TI CAESAR DIVI AVG F AVGVST PM TR POT XXVII S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10066541</census-id>
+        <label>Sestertius of Tiberius (Augustus in Elephant-Quadriga / SC, RIC 62) (owner: F. Angeloni)</label>
+      </monument>
+      <monument>
+        <census-id>10066589</census-id>
+        <label>Sestertius of Tiberius (Temple / SC, RIC 61) (owner: F. Angeloni)</label>
+      </monument>
+      <monument>
+        <census-id>10066596</census-id>
+        <label>Sestertius of Tiberius (Shield / SC, RIC 63) (owner: F. Angeloni)</label>
+      </monument>
+      <monument>
+        <census-id>10066600</census-id>
+        <label>Sestertius of Tiberius (Quadriga / SC, RIC 60) (owner: F. Angeloni)</label>
+      </monument>
+      <monument>
+        <census-id>10180587</census-id>
+        <label>Sestertius of Tiberius (Shield / SC, RIC 63) (owner: J. Fugger)</label>
+      </monument>
+      <monument>
+        <census-id>10180648</census-id>
+        <label>Sestertius of Tiberius (Quadriga / SC, RIC 60) (owner: A. Conteschi)</label>
+      </monument>
+      <monument>
+        <census-id>10180771</census-id>
+        <label>Sestertius of Tiberius (Temple / SC, RIC 61) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10181999</census-id>
+        <label>Sestertius of Tiberius (Augustus in Elephant-Quadriga / SC, RIC 62) (owner: A. Conteschi) </label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183032</census-id>
+    <name>fol. 107 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TI CAESAR DIVI AVG F AVGVST PM TR POT XXXVI S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10051457</census-id>
+        <label>Sestertius of Tiberius (Shield / SC, RIC 57)</label>
+      </monument>
+      <monument>
+        <census-id>10159057</census-id>
+        <label>Sestertius of Tiberius (Temple / SC, RIC 55)</label>
+      </monument>
+      <monument>
+        <census-id>10179712</census-id>
+        <label>Sestertius of Tiberius (Deified Augustus / Legend around SC, RIC 56)</label>
+      </monument>
+      <monument>
+        <census-id>10179722</census-id>
+        <label>Sestertius of Tiberius (Deified Augustus / Legend around SC, RIC 56) (owner: A. Conteschi)</label>
+      </monument>
+      <monument>
+        <census-id>10183029</census-id>
+        <label>Sestertius of Tiberius (Quadriga / SC, RIC 54)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183036</census-id>
+    <name>fol. 108 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>PACE AVG PERP</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10063906</census-id>
+        <label>Provincial Bronze Coin of Tiberius / Altar (RPC I 5451)</label>
+      </monument>
+      <monument>
+        <census-id>10180254</census-id>
+        <label>Provincial Bronze Coin of Tiberius / Altar (RPC I 5451) (owner: F. Veniero)</label>
       </monument>
     </monuments>
   </document>
@@ -1058,6 +1339,28 @@ D P D P</inscription>
       <monument>
         <census-id>10051453</census-id>
         <label>Sestertius of Tiberius (Augustus Seated / SC, RIC 49)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183040</census-id>
+    <name>fol. 114 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DRVSVS CAESAR TI AVG F DIVI AVG N PONT TR POT II &#13;
+S C &#13;
+</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10052362</census-id>
+        <label>Sestertius of Tiberius (Crossed Cornucopiae / SC, RIC 42)</label>
+      </monument>
+      <monument>
+        <census-id>10066614</census-id>
+        <label>Sestertius of Tiberius (Crossed Cornucopiae / SC, RIC 42) (owner: F. Angeloni)</label>
       </monument>
     </monuments>
   </document>
@@ -1169,7 +1472,7 @@ D P D P</inscription>
     <monuments>
       <monument>
         <census-id>10182563</census-id>
-        <label>Bronze Coin of Sidon (Laureate head / Europa on Bull, RPC 4612) (owner: Achillino)</label>
+        <label>Bronze Coin of Sidon (Laureate Head / Europa on Bull, RPC 4612) (owner: Achillino)</label>
       </monument>
     </monuments>
   </document>
@@ -1302,6 +1605,34 @@ D P D P</inscription>
     </monuments>
   </document>
   <document>
+    <census-id>10183085</census-id>
+    <name>fol. 142 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CI&#916;&#937;NOC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10183030</census-id>
+        <label>Bronze Coin of Sidon (Tetrastyle Temple / Europa on Bull, RPC 4568)</label>
+      </monument>
+      <monument>
+        <census-id>10183072</census-id>
+        <label>Bronze Coin of Sidon (Tetrastyle Temple / Europa on Bull, RPC 4569)</label>
+      </monument>
+      <monument>
+        <census-id>10183079</census-id>
+        <label>Bronze Coin of Sidon (Tetrastyle Temple / Europa on Bull, RPC 4570)</label>
+      </monument>
+      <monument>
+        <census-id>10183083</census-id>
+        <label>Bronze Coin of Sidon (Tetrastyle Temple / Europa on Bull, RPC 4571)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
     <census-id>10182062</census-id>
     <name>fol. 143 r</name>
     <transcriptions>
@@ -1399,6 +1730,22 @@ L&#916;</inscription>
     </monuments>
   </document>
   <document>
+    <census-id>10183094</census-id>
+    <name>fol. 156 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#931;&#917;&#914;&#913;&#931;&#932;&#927;&#931;</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10183092</census-id>
+        <label>Bronze Coin of Colophon (Laureate Head / Apollo, RPC 2523)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
     <census-id>10180851</census-id>
     <name>fol. 165 r</name>
     <transcriptions>
@@ -1427,6 +1774,58 @@ L&#916;</inscription>
       <monument>
         <census-id>10180843</census-id>
         <label>Sestertius of Claudius (Drusus Maior / Claudius, RIC 93) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183105</census-id>
+    <name>fol. 176 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DE GERMAN</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10183100</census-id>
+        <label>Denarius of Claudius (Drusus / Triumphal Arch, RIC 70)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183111</census-id>
+    <name>fol. 177 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DRVSVS CAES TI AVG F COS II TR POT</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10183109</census-id>
+        <label>Drachme of Tiberius in Caesarea (Tiberius / Drusus, RIC 86)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183116</census-id>
+    <name>fol. 178 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>NERO CLAVD CAES AVG GERM</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10183114</census-id>
+        <label>Quadrans of Nero (Owl on Altar / Olive-Branch, RIC 260)</label>
+      </monument>
+      <monument>
+        <census-id>10184961</census-id>
+        <label>Quadrans of Nero (Owl on Altar / Olive-branch, RIC 262)</label>
       </monument>
     </monuments>
   </document>
@@ -1495,6 +1894,46 @@ L&#916;</inscription>
     </monuments>
   </document>
   <document>
+    <census-id>10183124</census-id>
+    <name>fol. 190 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CONSTANTIAE AVGVSTI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10044195</census-id>
+        <label>Aureus of Claudius / Constantia (RIC 2)</label>
+      </monument>
+      <monument>
+        <census-id>10183119</census-id>
+        <label>Aureus of Claudius (Head of Claudius/ Constantia, RIC 55)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10183136</census-id>
+    <name>fol. 192 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DECVR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10183133</census-id>
+        <label>Sestertius of Nero (Laureated Nero / Equestrian and Soldiers, RIC 103)</label>
+      </monument>
+      <monument>
+        <census-id>10183134</census-id>
+        <label>Sestertius of Nero (Laureated Nero / Equestrian and Soldiers, RIC 104)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
     <census-id>10169118</census-id>
     <name>fol. 193 r</name>
     <transcriptions>
@@ -1521,6 +1960,10 @@ L&#916;</inscription>
     </transcriptions>
     <monuments>
       <monument>
+        <census-id>10179994</census-id>
+        <label>Sestertius of Claudius (Drusus Maior / Claudius, RIC 93) (owner: G. Romano)</label>
+      </monument>
+      <monument>
         <census-id>10180090</census-id>
         <label>Denarius of Claudius (Drusus / Equestrian Statue on Triumphal Arch, RIC 72) (owner: A. Maffei)</label>
       </monument>
@@ -1543,6 +1986,106 @@ L&#916;</inscription>
     </monuments>
   </document>
   <document>
+    <census-id>10183130</census-id>
+    <name>fol. 199 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>PONTIF MAX TR II P P EX S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10064432</census-id>
+        <label>Aureus of Nero / Oak-Wreath (RIC 8)</label>
+      </monument>
+      <monument>
+        <census-id>10183128</census-id>
+        <label>Denarius of Nero (Head of Nero/ Oak Wreath, RIC 9)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10182925</census-id>
+    <name>fol. 200 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>NERO CLAVDIVS DRVSVS GERM PRINC IVVENT</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10182923</census-id>
+        <label>Aureus of Claudius (Head of Nero / Simpulum, lituus, tripod, patera, RIC 76)</label>
+      </monument>
+      <monument>
+        <census-id>10182924</census-id>
+        <label>Denarius of Claudius (Head of Nero / Simpulum, lituus, tripod, patera, RIC 77)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10182935</census-id>
+    <name>fol. 201 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>SACERD CO OPTIMO MH CONL SVPRANVM EX S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10182923</census-id>
+        <label>Aureus of Claudius (Head of Nero / Simpulum, lituus, tripod, patera, RIC 76)</label>
+      </monument>
+      <monument>
+        <census-id>10182924</census-id>
+        <label>Denarius of Claudius (Head of Nero / Simpulum, lituus, tripod, patera, RIC 77)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10182932</census-id>
+    <name>fol. 202 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>NERO CLAVDIVS DRVSVS GERM PRINC IVVENT</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10182923</census-id>
+        <label>Aureus of Claudius (Head of Nero / Simpulum, lituus, tripod, patera, RIC 76)</label>
+      </monument>
+      <monument>
+        <census-id>10182924</census-id>
+        <label>Denarius of Claudius (Head of Nero / Simpulum, lituus, tripod, patera, RIC 77)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10182938</census-id>
+    <name>fol. 203 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>SACERD CO OPTMO MH CONL SVPRANVM EX S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10182923</census-id>
+        <label>Aureus of Claudius (Head of Nero / Simpulum, lituus, tripod, patera, RIC 76)</label>
+      </monument>
+      <monument>
+        <census-id>10182924</census-id>
+        <label>Denarius of Claudius (Head of Nero / Simpulum, lituus, tripod, patera, RIC 77)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
     <census-id>10180066</census-id>
     <name>fol. 204 r</name>
     <transcriptions>
@@ -1555,6 +2098,10 @@ L&#916;</inscription>
       <monument>
         <census-id>10180050</census-id>
         <label>Sestertius of Claudius (Nero / Legend on Shield and Spear, RIC 108) (owner: A. Maffei)</label>
+      </monument>
+      <monument>
+        <census-id>10184438</census-id>
+        <label>Denarius of Claudius (Bust of Nero / Shield with Legend and Spear, RIC 79) (owner: F. Veniero)</label>
       </monument>
     </monuments>
   </document>
@@ -1571,6 +2118,10 @@ L&#916;</inscription>
       <monument>
         <census-id>10180050</census-id>
         <label>Sestertius of Claudius (Nero / Legend on Shield and Spear, RIC 108) (owner: A. Maffei)</label>
+      </monument>
+      <monument>
+        <census-id>10184438</census-id>
+        <label>Denarius of Claudius (Bust of Nero / Shield with Legend and Spear, RIC 79) (owner: F. Veniero)</label>
       </monument>
     </monuments>
   </document>

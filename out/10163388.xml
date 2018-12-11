@@ -105,11 +105,11 @@
     <name>fol. 016 r</name>
     <transcriptions>
       <transcription>
-        <inscription>SPQR VP RRE CAES</inscription>
+        <inscription>L MESCINIVS RVFVS</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
       <transcription>
-        <inscription>L MESCINIVS RVFVS</inscription>
+        <inscription>SPQR VP RRE CAES</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
@@ -812,13 +812,13 @@ DIVI F</inscription>
     <name>fol. 106 r</name>
     <transcriptions>
       <transcription>
-        <inscription>SPQR&#13;
-SIGNIS&#13;
-RECEPT</inscription>
+        <inscription>IMP IX TR PO IV</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
       <transcription>
-        <inscription>IMP IX TR PO IV</inscription>
+        <inscription>SPQR&#13;
+SIGNIS&#13;
+RECEPT</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>

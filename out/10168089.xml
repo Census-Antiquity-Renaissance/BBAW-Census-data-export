@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <documents>
   <document>
+    <census-id>10200938</census-id>
+    <name>fol. 088 v, no. 3</name>
+    <monuments>
+      <monument>
+        <census-id>10200942</census-id>
+        <label>Dupondius of Octavian / Caesar (RRC 535.1) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
     <census-id>10168875</census-id>
     <name>fol. 088 v, no. 4</name>
     <monuments>
       <monument>
         <census-id>10168872</census-id>
         <label> Bronze Coin of Cnossus (Head of Augustus / Labyrinth, RPC I 977) (owner: R. Odoni) </label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200956</census-id>
+    <name>fol. 089 r, no. 6</name>
+    <monuments>
+      <monument>
+        <census-id>10200954</census-id>
+        <label>Bronze Coin of Patras (Augustus / Man with Two Oxen, RPC I 1252) (owner: A. Tavera)</label>
       </monument>
     </monuments>
   </document>
@@ -169,6 +189,16 @@
     </monuments>
   </document>
   <document>
+    <census-id>10200969</census-id>
+    <name>fol. 097 v, no. 30</name>
+    <monuments>
+      <monument>
+        <census-id>10200966</census-id>
+        <label>Denarius of Caesar (Venus / Gallic Trophy, RRC 452.2) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
     <census-id>10169268</census-id>
     <name>fol. 098 r, no. 32</name>
     <monuments>
@@ -253,6 +283,16 @@
       <monument>
         <census-id>10169410</census-id>
         <label>Denarius of Caesar / Goddess (RRC 485.1) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200973</census-id>
+    <name>fol. 102 v, no. 6</name>
+    <monuments>
+      <monument>
+        <census-id>10200979</census-id>
+        <label>Bronze Coin of Corinth (Trident / Pegasus, RPC I 1121) (owner: J. J. Fugger)</label>
       </monument>
     </monuments>
   </document>
@@ -779,6 +819,36 @@
     </monuments>
   </document>
   <document>
+    <census-id>10206456</census-id>
+    <name>fol. 140 v - 141 r, no. 32</name>
+    <monuments>
+      <monument>
+        <census-id>10206448</census-id>
+        <label>Aureus of M. Antonius  (Ship / Legionary Standards, RRC 544.4) (owner: H. Agninus)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206474</census-id>
+    <name>fol. 141 r - 141 v, no. 34</name>
+    <monuments>
+      <monument>
+        <census-id>10206440</census-id>
+        <label>Denarius of M. Antonius (Ship / Legionary Standards, RRC 544.9) (owner: H. Agninus)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206496</census-id>
+    <name>fol. 141 v, no. 35</name>
+    <monuments>
+      <monument>
+        <census-id>10206445</census-id>
+        <label>Aureus of M. Antonius  (Ship / Legionary Standards, RRC 544.1) (owner: H. Agninus)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
     <census-id>10173665</census-id>
     <name>fol. 143 v - 144 r, no. 2</name>
     <monuments>
@@ -1063,6 +1133,10 @@
       <monument>
         <census-id>10174326</census-id>
         <label>Denarius of Augustus / Apollo (RIC 180) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10199441</census-id>
+        <label>Denarius of Augustus / Apollo (RIC 171a) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
   </document>

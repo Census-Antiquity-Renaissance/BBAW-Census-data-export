@@ -242,6 +242,10 @@
         <census-id>10177412</census-id>
         <label>Aureus of Augustus / Soldiers (RIC 164) (owner: A. Maffei)</label>
       </monument>
+      <monument>
+        <census-id>10199441</census-id>
+        <label>Denarius of Augustus / Apollo (RIC 171a) (owner: A. Agust&#237;n)</label>
+      </monument>
     </monuments>
   </document>
   <document>
@@ -257,6 +261,10 @@
       <monument>
         <census-id>10176541</census-id>
         <label>Denarius of Octavian / Inscription (RRC 534.3) (owner: A. Maffei)</label>
+      </monument>
+      <monument>
+        <census-id>10199441</census-id>
+        <label>Denarius of Augustus / Apollo (RIC 171a) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
   </document>
@@ -529,6 +537,10 @@
       <monument>
         <census-id>10177412</census-id>
         <label>Aureus of Augustus / Soldiers (RIC 164) (owner: A. Maffei)</label>
+      </monument>
+      <monument>
+        <census-id>10199441</census-id>
+        <label>Denarius of Augustus / Apollo (RIC 171a) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
   </document>
@@ -1357,6 +1369,26 @@
     </monuments>
   </document>
   <document>
+    <census-id>10201249</census-id>
+    <name>fol. 117 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>COM ASIAE</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>ROM ET AVG</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10173635</census-id>
+        <label>Cistophorus of Augustus / Hexastyle Temple (RIC 505) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
     <census-id>10180974</census-id>
     <name>fol. 120 r</name>
     <transcriptions>
@@ -1569,6 +1601,32 @@
       <monument>
         <census-id>10174141</census-id>
         <label>Denarius of Augustus / Victory (RIC 45) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10203990</census-id>
+    <name>fol. 134 r</name>
+    <monuments>
+      <monument>
+        <census-id>10203839</census-id>
+        <label>Bronze Tessera of Augustus / III</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10203992</census-id>
+    <name>fol. 135 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>III</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10203839</census-id>
+        <label>Bronze Tessera of Augustus / III</label>
       </monument>
     </monuments>
   </document>
@@ -2617,15 +2675,15 @@
     <name>fol. 225 r</name>
     <transcriptions>
       <transcription>
+        <inscription>225</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
         <inscription>CAESARI AVGVSTO EX SC</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
       <transcription>
         <inscription>FORNE</inscription>
-        <inscription-type>coin legend</inscription-type>
-      </transcription>
-      <transcription>
-        <inscription>225</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>

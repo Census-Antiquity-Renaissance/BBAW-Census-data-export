@@ -1434,6 +1434,16 @@ ANTONIO AVG</inscription>
     </monuments>
   </document>
   <document>
+    <census-id>10201017</census-id>
+    <name>fol. 190 r</name>
+    <monuments>
+      <monument>
+        <census-id>10173704</census-id>
+        <label>Bronze Dichalque of Tripolis (Dioscuri / Prow with Nike, RPC I 4515)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
     <census-id>10171213</census-id>
     <name>fol. 195 r</name>
     <transcriptions>

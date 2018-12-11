@@ -177,6 +177,84 @@
     </monuments>
   </document>
   <document>
+    <census-id>10188083</census-id>
+    <name>fol. 019 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DIVVS AVGVSTVS CAES PATER PAT</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10066347</census-id>
+        <label>Contorniate (Augustus / Divine gathering, Alf&#246;ldi 117)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10188086</census-id>
+    <name>fol. 020 r</name>
+    <monuments>
+      <monument>
+        <census-id>10066347</census-id>
+        <label>Contorniate (Augustus / Divine gathering, Alf&#246;ldi 117)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204005</census-id>
+    <name>fol. 027 r</name>
+    <monuments>
+      <monument>
+        <census-id>10203842</census-id>
+        <label>Bronze Tessera of Augustus / XIII</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204007</census-id>
+    <name>fol. 028 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>XIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10203842</census-id>
+        <label>Bronze Tessera of Augustus / XIII</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204010</census-id>
+    <name>fol. 029 r</name>
+    <monuments>
+      <monument>
+        <census-id>10203839</census-id>
+        <label>Bronze Tessera of Augustus / III</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10204012</census-id>
+    <name>fol. 030 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IIX</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10203839</census-id>
+        <label>Bronze Tessera of Augustus / III</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
     <census-id>10172130</census-id>
     <name>fol. 033 r</name>
     <transcriptions>
@@ -362,7 +440,7 @@
   </document>
   <document>
     <census-id>10171292</census-id>
-    <name>fol. 052</name>
+    <name>fol. 052 r</name>
     <transcriptions>
       <transcription>
         <inscription>SC</inscription>
@@ -405,6 +483,198 @@
       <monument>
         <census-id>10044305</census-id>
         <label>As of Tiberius (Augustus / Altar, RIC 81)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206512</census-id>
+    <name>fol. 065 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>ANT AVG III VIR R P C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10058035</census-id>
+        <label>Denarius of M. Antonius (Ship / Legionary Standards, RRC 544.9)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206517</census-id>
+    <name>fol. 066 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>LEG XII ANTIQVAE</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10058035</census-id>
+        <label>Denarius of M. Antonius (Ship / Legionary Standards, RRC 544.9)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206500</census-id>
+    <name>fol. 067 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>ANT AVG III VIR R P C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206445</census-id>
+        <label>Aureus of M. Antonius  (Ship / Legionary Standards, RRC 544.1) (owner: H. Agninus)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206505</census-id>
+    <name>fol. 068 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>COHORTIVM PRAETORIANORVM</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206445</census-id>
+        <label>Aureus of M. Antonius  (Ship / Legionary Standards, RRC 544.1) (owner: H. Agninus)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206463</census-id>
+    <name>fol. 069 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>ANT AVG III VIR R P C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206448</census-id>
+        <label>Aureus of M. Antonius  (Ship / Legionary Standards, RRC 544.4) (owner: H. Agninus)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206460</census-id>
+    <name>fol. 070 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>LEG II</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206448</census-id>
+        <label>Aureus of M. Antonius  (Ship / Legionary Standards, RRC 544.4) (owner: H. Agninus)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206525</census-id>
+    <name>fol. 071 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>LEG XVIII LYBICAE</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10058083</census-id>
+        <label>Denarius of M. Antonius (Ship / Legionary Standards, RRC 544.11)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206530</census-id>
+    <name>fol. 072 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>ANT AVG III VIR R P C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10058083</census-id>
+        <label>Denarius of M. Antonius (Ship / Legionary Standards, RRC 544.11)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206482</census-id>
+    <name>fol. 075 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>ANT AVG III VIR R P C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206440</census-id>
+        <label>Denarius of M. Antonius (Ship / Legionary Standards, RRC 544.9) (owner: H. Agninus)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206489</census-id>
+    <name>fol. 076 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>LEGIO XVI ANTIQVAE</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10206440</census-id>
+        <label>Denarius of M. Antonius (Ship / Legionary Standards, RRC 544.9) (owner: H. Agninus)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206544</census-id>
+    <name>fol. 077 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>ANT AVG III VIR R P C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10057941</census-id>
+        <label>Denarius of M. Antonius (Ship / Legionary Standards, RRC 544.12)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10206547</census-id>
+    <name>fol. 078 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>COHORTIS SPECVLATORVM</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10057941</census-id>
+        <label>Denarius of M. Antonius (Ship / Legionary Standards, RRC 544.12)</label>
       </monument>
     </monuments>
   </document>

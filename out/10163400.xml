@@ -1,2 +1,3850 @@
 <?xml version="1.0" encoding="utf-8"?>
-<documents/>
+<documents>
+  <document>
+    <census-id>10194910</census-id>
+    <name>fol. 006 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM P M TR P VIII CEN P P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194802</census-id>
+        <label>As of Domitian / Domitian Sacrificing (RIC 623) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194913</census-id>
+    <name>fol. 007 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>COS XIIII LVD SAEC FE SC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194802</census-id>
+        <label>As of Domitian / Domitian Sacrificing (RIC 623) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195350</census-id>
+    <name>fol. 009 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>ANNONA AVGVSTI S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10195302</census-id>
+        <label>Sestertius of Domitian / Annona and Ceres (RIC 349) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199868</census-id>
+    <name>fol. 010 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMITIANVS AVG P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199446</census-id>
+        <label>Denarius of Domitian / Wreath above Chair (RIC 10)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199871</census-id>
+    <name>fol. 011 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>PRINCEPS IVVENTVTIS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10067032</census-id>
+        <label>Denarius of Titus (Domitian / Altar, RIC 266)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194550</census-id>
+    <name>fol. 012 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM COS XI CENS POT P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194539</census-id>
+        <label>Sestertius of Domitian / Domitian and Soldiers (RIC 359) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10194546</census-id>
+        <label>Sestertius of Domitian / Domitian and Soldiers (RIC 359) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194553</census-id>
+    <name>fol. 013 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194539</census-id>
+        <label>Sestertius of Domitian / Domitian and Soldiers (RIC 359) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10194546</census-id>
+        <label>Sestertius of Domitian / Domitian and Soldiers (RIC 359) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199874</census-id>
+    <name>fol. 014 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM COS XI CENS P P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199448</census-id>
+        <label>Sestertius of Domitian / Annona and Ceres (RIC 396)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197278</census-id>
+    <name>fol. 020 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOM AVG GERM IMP AVG P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197224</census-id>
+        <label>Bronze Coin of Patras (Domitian / Priest and Oxen, RPC II 254) (owner: E. Vico)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197281</census-id>
+    <name>fol. 021 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>COL AA</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>PATRENS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197224</census-id>
+        <label>Bronze Coin of Patras (Domitian / Priest and Oxen, RPC II 254) (owner: E. Vico)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199877</census-id>
+    <name>fol. 022 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM P M TR P VIII VENS PERP</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10064905</census-id>
+        <label>Sestertius of Domitian / Domitian and Citizens (RIC 606)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197259</census-id>
+    <name>fol. 025 r</name>
+    <monuments>
+      <monument>
+        <census-id>10197214</census-id>
+        <label>Brass Coin of Pergamum (Domitian and Domitia / Tempel, RPC II 918) (owner: E. Vico)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199880</census-id>
+    <name>fol. 030 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM PM TR P VIII CENS PERP</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10064905</census-id>
+        <label>Sestertius of Domitian / Domitian and Citizens (RIC 606)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194489</census-id>
+    <name>fol. 032 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM COS XVII CENS PERP P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194480</census-id>
+        <label>Sestertius of  Domitian / Temple (RIC 800) (owner: G. Grimani)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194492</census-id>
+    <name>fol. 033 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194480</census-id>
+        <label>Sestertius of  Domitian / Temple (RIC 800) (owner: G. Grimani)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199884</census-id>
+    <name>fol. 034 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10066943</census-id>
+        <label>Quadrans of Domitian (Trophy / Olive Branch, RIC 247)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199887</census-id>
+    <name>fol. 035 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP DOMIT AVG GERM</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10066943</census-id>
+        <label>Quadrans of Domitian (Trophy / Olive Branch, RIC 247)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197301</census-id>
+    <name>fol. 036 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR DOMITIANVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197234</census-id>
+        <label>Bronze Coin of Antioch (Domitian / Antiochia, RPC II 2004) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197304</census-id>
+    <name>fol. 037 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>ANTIOCHIA</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197234</census-id>
+        <label>Bronze Coin of Antioch (Domitian / Antiochia, RPC II 2004) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196469</census-id>
+    <name>fol. 040 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>IMP DOMIT AVG GERM</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196431</census-id>
+        <label>Quadrans of Domitian (Rhinoceros / SC, RIC 250) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196467</census-id>
+    <name>fol. 041 r</name>
+    <monuments>
+      <monument>
+        <census-id>10196431</census-id>
+        <label>Quadrans of Domitian (Rhinoceros / SC, RIC 250) (owner: A. Maffei)</label>
+      </monument>
+      <monument>
+        <census-id>10196506</census-id>
+        <label>Quadrans of Domitian (Rhinoceros / SC, RIC 250) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196733</census-id>
+    <name>fol. 042 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>IMP DOMIT AVG GERM</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196506</census-id>
+        <label>Quadrans of Domitian (Rhinoceros / SC, RIC 250) (owner: A. Conteschi)</label>
+      </monument>
+      <monument>
+        <census-id>10196510</census-id>
+        <label>Quadrans of Domitian (Rhinoceros / SC, RIC 249) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196745</census-id>
+    <name>fol. 043 r</name>
+    <monuments>
+      <monument>
+        <census-id>10196510</census-id>
+        <label>Quadrans of Domitian (Rhinoceros / SC, RIC 249) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199890</census-id>
+    <name>fol. 045 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AETERNITATI AVGVSTI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199454</census-id>
+        <label>As of Domitian / Aeternitas (RIC 411)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196768</census-id>
+    <name>fol. 048 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM P M TR P VIII CENS PERP</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196747</census-id>
+        <label>Sestertius of Domitian / Domitian and Citizens (RIC 608) (owner: P. L. Manlilio)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196775</census-id>
+    <name>fol. 049 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>COS XIIII LVD SAEC A POP S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>FRVG AC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196747</census-id>
+        <label>Sestertius of Domitian / Domitian and Citizens (RIC 608) (owner: P. L. Manlilio)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195408</census-id>
+    <name>fol. 050 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVG F DOMITIANVS COS DES II</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10195364</census-id>
+        <label>As of Vespasian / Temple of Vesta (RIC 492) (owner: G. Grimani)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195411</census-id>
+    <name>fol. 051 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>VESTA&#13;
+S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10195364</census-id>
+        <label>As of Vespasian / Temple of Vesta (RIC 492) (owner: G. Grimani)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189946</census-id>
+    <name>fol. 054 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMITIAN AVG GERM COS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194460</census-id>
+        <label>Sestertius of Domitian / Domitian and Rhenus (RIC 278) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194470</census-id>
+    <name>fol. 055 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194460</census-id>
+        <label>Sestertius of Domitian / Domitian and Rhenus (RIC 278) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198526</census-id>
+    <name>fol. 059 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>FESTINA LENTV</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10198425</census-id>
+        <label>Aureus of Domitian / Anchor with Dolphin (RIC 53) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194974</census-id>
+    <name>fol. 060 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM COS XI CENS POT P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194941</census-id>
+        <label>Dupondius of Domitian / Victory (RIC 373) (owner: J. Strada)</label>
+      </monument>
+      <monument>
+        <census-id>10194950</census-id>
+        <label>Dupondius of Domitian / Victory (RIC 373) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194977</census-id>
+    <name>fol. 061 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>VICTORIA AVGVSTI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194941</census-id>
+        <label>Dupondius of Domitian / Victory (RIC 373) (owner: J. Strada)</label>
+      </monument>
+      <monument>
+        <census-id>10194950</census-id>
+        <label>Dupondius of Domitian / Victory (RIC 373) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194686</census-id>
+    <name>fol. 063 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>VICTORIA AVG</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194614</census-id>
+        <label>Sestertius of Titus (Domitian / Victory, RIC 305) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194683</census-id>
+    <name>fol. 064 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DIVI VESP F DOMITIAN AVG P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194608</census-id>
+        <label>Sestertius of Domitian / Jupiter (RIC 464) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200859</census-id>
+    <name>fol. 065 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>COS XIIII LVD SAEC S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>SVF P D</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200863</census-id>
+        <label>Sestertius of Domitian / Domitian and Citizen (RIC 609) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194749</census-id>
+    <name>fol. 066 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM P M TR P VIII CENS PER P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194742</census-id>
+        <label>Dupondius of Domitian / Domitian sacrificing (RIC 625) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194752</census-id>
+    <name>fol. 067 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>COS XIIII LVDSAECFE S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194742</census-id>
+        <label>Dupondius of Domitian / Domitian sacrificing (RIC 625) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196278</census-id>
+    <name>fol. 073 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>FELICITAS AVGVSTI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196249</census-id>
+        <label>Dupondius of Vespasian (Domitian / Felicitas, RIC 832) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199913</census-id>
+    <name>fol. 074 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVG F DOMITIANVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199461</census-id>
+        <label>Quinarius of Vespasian (Domitian / Victory, RIC 811)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197930</census-id>
+    <name>fol. 075 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>PRINCEPS IVVENTVTIS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197801</census-id>
+        <label>Denarius of Titus (Domitian / Salus, RIC 97) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199919</census-id>
+    <name>fol. 080 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVG F DOMITIANVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199461</census-id>
+        <label>Quinarius of Vespasian (Domitian / Victory, RIC 811)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196292</census-id>
+    <name>fol. 084 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM COS XV CENS PERP P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196259</census-id>
+        <label>As of Domitian / Moneta (RIC 708) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196295</census-id>
+    <name>fol. 085 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>MONETA AVGVSTI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196259</census-id>
+        <label>As of Domitian / Moneta (RIC 708) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199922</census-id>
+    <name>fol. 086 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM COS XIII CENS PERP P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199462</census-id>
+        <label>As of Domitian / Fortuna (RIC 544)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199926</census-id>
+    <name>fol. 087 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>PRINCEPS AVGVST</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199462</census-id>
+        <label>As of Domitian / Fortuna (RIC 544)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199930</census-id>
+    <name>fol. 088 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR DIVI F DOMITIANVS COS VII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10067001</census-id>
+        <label>Denarius of Titus (Domitian / Seat and Helmet, RIC 271)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199933</census-id>
+    <name>fol. 089 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>PRINCEPS IVVENTVTIS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10067001</census-id>
+        <label>Denarius of Titus (Domitian / Seat and Helmet, RIC 271)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194673</census-id>
+    <name>fol. 090 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM COS XII CENS P P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194603</census-id>
+        <label>Sestertius of Domitian / Equestrian Statue (RIC 797) (owner: P. Ramez)</label>
+      </monument>
+      <monument>
+        <census-id>10194726</census-id>
+        <label>Sestertius of Domitian / Equestrian Statue (RIC 797) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194676</census-id>
+    <name>fol. 091 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194603</census-id>
+        <label>Sestertius of Domitian / Equestrian Statue (RIC 797) (owner: P. Ramez)</label>
+      </monument>
+      <monument>
+        <census-id>10194726</census-id>
+        <label>Sestertius of Domitian / Equestrian Statue (RIC 797) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199936</census-id>
+    <name>fol. 092 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CAES DIVI VESP F DOMITIANVS COS VIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199464</census-id>
+        <label>As of Titus (Domitian / Minerva, RIC 346)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199939</census-id>
+    <name>fol. 094 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVG F DOMITIANVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199461</census-id>
+        <label>Quinarius of Vespasian (Domitian / Victory, RIC 811)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194516</census-id>
+    <name>fol. 100 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM COS XI CENS PER P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194496</census-id>
+        <label>Sestertius of Domitian / Germania (RIC 351) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194519</census-id>
+    <name>fol. 101 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>GERMANIA CAPTA S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194496</census-id>
+        <label>Sestertius of Domitian / Germania (RIC 351) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199942</census-id>
+    <name>fol. 102 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAESAR DOMITIANVS AVG</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199471</census-id>
+        <label>Cistophorus of Domitian / Capitoline Triad (RIC 842)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199949</census-id>
+    <name>fol. 103 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>LVD&#13;
+SEAC&#13;
+FEC&#13;
+COS&#13;
+XIIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199477</census-id>
+        <label>Denarius of Domitian / Column (RIC 604)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199952</census-id>
+    <name>fol. 105 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP XXII COS XVII CENSOR P P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199483</census-id>
+        <label>Denarius of Domitian / Altar (RIC 784)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194900</census-id>
+    <name>fol. 106 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM COS XV CENS PERP P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194798</census-id>
+        <label>Sestertius of Domitian / Domitian and Victory (RIC 752) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194903</census-id>
+    <name>fol. 107 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194798</census-id>
+        <label>Sestertius of Domitian / Domitian and Victory (RIC 752) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197754</census-id>
+    <name>fol. 109 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP XI COS XII CENS P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197694</census-id>
+        <label>Quinarius of Domitian / Victory (RIC 433) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194920</census-id>
+    <name>fol. 110 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM TR P VIII CENS PER P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194808</census-id>
+        <label>Sestertius of Domitian / Arch (RIC 796) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194923</census-id>
+    <name>fol. 111 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194808</census-id>
+        <label>Sestertius of Domitian / Arch (RIC 796) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199960</census-id>
+    <name>fol. 113 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199489</census-id>
+        <label>Dupondius of Domitian / Mars (RIC 294)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196789</census-id>
+    <name>fol. 115 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>COS XIIII LVD SAEC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196758</census-id>
+        <label>Sestertius of Domitian / Procession (RIC 615) (owner: G. Calestano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199963</census-id>
+    <name>fol. 116 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMITIAN AVG GERM COS XI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199489</census-id>
+        <label>Dupondius of Domitian / Mars (RIC 294)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198097</census-id>
+    <name>fol. 117 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>COS&#13;
+XIIII&#13;
+LVD&#13;
+SAEC&#13;
+FEC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197903</census-id>
+        <label>Denarius of Domitian / Herald (RIC 601) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194720</census-id>
+    <name>fol. 118 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM COS XII CENS PERP P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194628</census-id>
+        <label>Dupondius of Domitian / Domitian (RIC 619) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194723</census-id>
+    <name>fol. 119 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>COS XIIII LVDSAEC FE S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194628</census-id>
+        <label>Dupondius of Domitian / Domitian (RIC 619) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199966</census-id>
+    <name>fol. 122 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAESAR DOMITIANVS AVG</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199491</census-id>
+        <label>Denarius of Domitian / Wreath (RIC 1)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198533</census-id>
+    <name>fol. 123 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TR POT IMP II COS VIII DES VIIII P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10198437</census-id>
+        <label>Denarius of Domitian / Minerva (RIC 137) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197795</census-id>
+    <name>fol. 124 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR DIVI F DOMITIANVS COS VIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197708</census-id>
+        <label>Denarius of Titus (Domitian / Altar, RIC 266) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197798</census-id>
+    <name>fol. 125 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>PRINCEPS IVVENTVTIS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197708</census-id>
+        <label>Denarius of Titus (Domitian / Altar, RIC 266) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196269</census-id>
+    <name>fol. 126 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CAES AVG F DOMIT COS II</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196246</census-id>
+        <label>Dupondius of Vespasian (Domitian / Domitian, RIC 662) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196272</census-id>
+    <name>fol. 127 r</name>
+    <monuments>
+      <monument>
+        <census-id>10196246</census-id>
+        <label>Dupondius of Vespasian (Domitian / Domitian, RIC 662) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199969</census-id>
+    <name>fol. 128 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DIVI VESP F DOMITIAN AVG PON M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10064781</census-id>
+        <label>Sestertius of Domitian / Minerva (RIC 76)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197729</census-id>
+    <name>fol. 130 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMITIANVS M AVG GERM P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197686</census-id>
+        <label>Denarius of Domitian / Minerva (RIC 98) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194893</census-id>
+    <name>fol. 131 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TR P COS VII DES VIII P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194791</census-id>
+        <label>Sestertius of Domitian / Minerva (RIC 103) (owner: J. Strada)</label>
+      </monument>
+      <monument>
+        <census-id>10196427</census-id>
+        <label>Sestertius of Domitian / Minerva (RIC 76) (owner: J. Strada)</label>
+      </monument>
+      <monument>
+        <census-id>10197686</census-id>
+        <label>Denarius of Domitian / Minerva (RIC 98) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199972</census-id>
+    <name>fol. 132 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM COS XI CENS POT P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199492</census-id>
+        <label>Sestertius of Domitian / Annona and Ceres (RIC 349)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199985</census-id>
+    <name>fol. 134 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMITIANVS AVG GERM P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199496</census-id>
+        <label>Denarius of Domitian / Minerva (RIC 658)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195343</census-id>
+    <name>fol. 135 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>ANNONA AVG S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10195293</census-id>
+        <label>As of Domitian / Annona (RIC 646) (owner: G. Romano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198006</census-id>
+    <name>fol. 137 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP VIIII COS IIII CENSOR P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197815</census-id>
+        <label>Denarius of Domitian / Minerva (RIC 342) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197761</census-id>
+    <name>fol. 139 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP XXI COS XVI CENS P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197319</census-id>
+        <label>Denarius of Domitian / Minerva (RIC 666) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199988</census-id>
+    <name>fol. 141 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TR POT VIII COS VII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10069386</census-id>
+        <label>Aureus of Vespasian (Titus / Trophy and Captive, RIC 1075)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199991</census-id>
+    <name>fol. 143 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>COS VI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10068381</census-id>
+        <label>Aureus of Vespasian (Titus / Roma, RIC 954)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199994</census-id>
+    <name>fol. 144 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM P M TR P VIII CENS PER P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10064905</census-id>
+        <label>Sestertius of Domitian / Domitian and Citizens (RIC 606)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198498</census-id>
+    <name>fol. 145 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>COS V</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10198419</census-id>
+        <label>Aureus of Vespasian (Domitian / Captive, RIC 959) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200000</census-id>
+    <name>fol. 146 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CAES DIVI VESP F DOMITIANVS COS VII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199509</census-id>
+        <label>Sestertius of Titus (Domitian / Mars, RIC 509)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200004</census-id>
+    <name>fol. 147 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199509</census-id>
+        <label>Sestertius of Titus (Domitian / Mars, RIC 509)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197165</census-id>
+    <name>fol. 149 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TR POT COS VIII P P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196878</census-id>
+        <label>Denarius of Domitian / Anchor with Dolphin (RIC 96) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197162</census-id>
+    <name>fol. 150 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMITIANVS AVG P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196878</census-id>
+        <label>Denarius of Domitian / Anchor with Dolphin (RIC 96) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200008</census-id>
+    <name>fol. 151 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>ROMA</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10191068</census-id>
+        <label>Sestertius of Vespasian / Roma (RIC 108)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200013</census-id>
+    <name>fol. 152 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM P M TR P VIII CENS PERP P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10064905</census-id>
+        <label>Sestertius of Domitian / Domitian and Citizens (RIC 606)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196285</census-id>
+    <name>fol. 153 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196253</census-id>
+        <label>As of Domitian / Mars (RIC 420) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200016</census-id>
+    <name>fol. 154 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199818</census-id>
+        <label>As of Domitian / Jupiter (RIC 219)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200019</census-id>
+    <name>fol. 155 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IOVI CONSERVATORI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199818</census-id>
+        <label>As of Domitian / Jupiter (RIC 219)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198082</census-id>
+    <name>fol. 156 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMITIANVS AVG P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197886</census-id>
+        <label>Denarius of Domitian / Eagle (RIC 144) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198085</census-id>
+    <name>fol. 157 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IVPITER CONSERVATOR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197886</census-id>
+        <label>Denarius of Domitian / Eagle (RIC 144) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194868</census-id>
+    <name>fol. 158 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM COS XII CENS PERP P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194773</census-id>
+        <label>Sestertius of Domitian / Victory (RIC 475)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194871</census-id>
+    <name>fol. 159 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>DE&#13;
+GER</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194773</census-id>
+        <label>Sestertius of Domitian / Victory (RIC 475)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200022</census-id>
+    <name>fol. 160 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM COS XII CENS PERP P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10064849</census-id>
+        <label>Sestertius of Domitian / Tropaion and Germania (RIC 463)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200025</census-id>
+    <name>fol. 161 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>GERMANIA CAPTA S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10064849</census-id>
+        <label>Sestertius of Domitian / Tropaion and Germania (RIC 463)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195418</census-id>
+    <name>fol. 162 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMITIAN AVG GERM COS X</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10195373</census-id>
+        <label>As of Domitian / Jupiter (RIC 218) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195421</census-id>
+    <name>fol. 163 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IOVI CONSERVAT</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10195373</census-id>
+        <label>As of Domitian / Jupiter (RIC 218) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195317</census-id>
+    <name>fol. 164 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM COS X CENS PER P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10195274</census-id>
+        <label>Sestertius of Domitian / Jupiter (RIC 702) (owner J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195321</census-id>
+    <name>fol. 165 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IOVI VICTORI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10195274</census-id>
+        <label>Sestertius of Domitian / Jupiter (RIC 702) (owner J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196440</census-id>
+    <name>fol. 166 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM COS XIII CENS P P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196400</census-id>
+        <label>As of Domitian / Fides (RIC 542) (owner: J.Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196443</census-id>
+    <name>fol. 167 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>FIDES PVBLICAE</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196400</census-id>
+        <label>As of Domitian / Fides (RIC 542) (owner: J.Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197960</census-id>
+    <name>fol. 170 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVG F DOMITIANVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197811</census-id>
+        <label>Denarius of Vespasian (Domitian / Wolf and Twins, RIC 961) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10198482</census-id>
+        <label>Aureus of Vespasian (Domitian / Wolf and Twins, RIC 960) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197963</census-id>
+    <name>fol. 171 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>COS V</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197811</census-id>
+        <label>Denarius of Vespasian (Domitian / Wolf and Twins, RIC 961) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10198482</census-id>
+        <label>Aureus of Vespasian (Domitian / Wolf and Twins, RIC 960) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197785</census-id>
+    <name>fol. 172 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVG F DOMITIANVS COS V</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197705</census-id>
+        <label>Denarius of Titus (Domitian / Clasped Hands, RIC 96) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197788</census-id>
+    <name>fol. 173 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>PRINCEPS IVVENTVTIS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197705</census-id>
+        <label>Denarius of Titus (Domitian / Clasped Hands, RIC 96) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200077</census-id>
+    <name>fol. 174 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM P M TR P VIIII CENS P P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10064905</census-id>
+        <label>Sestertius of Domitian / Domitian and Citizens (RIC 606)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197155</census-id>
+    <name>fol. 176 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR DIVI F DOMITIANVS COS VI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196871</census-id>
+        <label>Denarius of Titus (Domitian / Seat and Helmet, RIC 271) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10198422</census-id>
+        <label>Aureus of Vespasian (Domitian / Vesta, RIC 1086) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198511</census-id>
+    <name>fol. 177 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>PRINCEPS IVVENTVTIS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10198422</census-id>
+        <label>Aureus of Vespasian (Domitian / Vesta, RIC 1086) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196834</census-id>
+    <name>fol. 178 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DIVVS AVG</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196810</census-id>
+        <label>As of Domitian (Augustus / Eagle, RIC 824) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196837</census-id>
+    <name>fol. 179 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP D CAES AVG RESTITVIT S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196810</census-id>
+        <label>As of Domitian (Augustus / Eagle, RIC 824) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197290</census-id>
+    <name>fol. 181 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP XXIII COS XVI CENS P P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197226</census-id>
+        <label>Copper Coin of Judaea (Domitian / Victory, RPC II 2308) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197145</census-id>
+    <name>fol. 182 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVG DOMITIANVS COS VIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196865</census-id>
+        <label>Denarius of Titus (Domitian / Vesta, RIC 99) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197148</census-id>
+    <name>fol. 183 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>PRINCEPS IVVENTVTIS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196865</census-id>
+        <label>Denarius of Titus (Domitian / Vesta, RIC 99) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198555</census-id>
+    <name>fol. 184 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVG VESP F DOMITIANVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10198468</census-id>
+        <label>Aureus of Vespasian (Domitian / Cornucopiae, RIC 918) (owner: F. Laurencin)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198558</census-id>
+    <name>fol. 185 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>COS IIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10198468</census-id>
+        <label>Aureus of Vespasian (Domitian / Cornucopiae, RIC 918) (owner: F. Laurencin)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198540</census-id>
+    <name>fol. 186 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CAES AVG F DOMIT COS III</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10198440</census-id>
+        <label>Aureus of Vespasian (Domitian / Spes, RIC 787) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198543</census-id>
+    <name>fol. 187 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>PRINCEPS IVVENTVT</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10198440</census-id>
+        <label>Aureus of Vespasian (Domitian / Spes, RIC 787) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196303</census-id>
+    <name>fol. 188 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM COS XV CENS PER P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196263</census-id>
+        <label>As of Domitian / Virtus (RIC 390) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196306</census-id>
+    <name>fol. 189 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>VIRTVTI AVGVSTI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196263</census-id>
+        <label>As of Domitian / Virtus (RIC 390) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197313</census-id>
+    <name>fol. 190 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVG VESP F DOMITIANVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196892</census-id>
+        <label>Denarius of Vespasian (Domitian / Pegasus, RIC 921) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197316</census-id>
+    <name>fol. 191 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>COS IIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196892</census-id>
+        <label>Denarius of Vespasian (Domitian / Pegasus, RIC 921) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197172</census-id>
+    <name>fol. 192 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMITIANVS AVG P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196881</census-id>
+        <label>Denarius of Domitian / Tripod (RIC 74) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197176</census-id>
+    <name>fol. 193 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TR P COS VII DES VIII P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196881</census-id>
+        <label>Denarius of Domitian / Tripod (RIC 74) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200080</census-id>
+    <name>fol. 196 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR DIVI F DOMITIANVS COS II</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199827</census-id>
+        <label>Cistophorus of Titus (Domitian / Domitian mounted, RIC 518)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195357</census-id>
+    <name>fol. 197 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>VESTA</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10195308</census-id>
+        <label>Dupondius of Titus (Domitian / Vesta, RIC 281) (owner: unknown)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200083</census-id>
+    <name>fol. 202 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP DOMIT AVG GERM COS XV</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199832</census-id>
+        <label>Semis of Domitian (Apollo / Raven, RIC 710)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200086</census-id>
+    <name>fol. 203 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199832</census-id>
+        <label>Semis of Domitian (Apollo / Raven, RIC 710)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197267</census-id>
+    <name>fol. 204 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMITIANVS AVG GERM P M TR P CENS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197219</census-id>
+        <label>Bronze Coin of Patras (Domitian / Fountain, RPC II 234) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197270</census-id>
+    <name>fol. 205 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>COL NS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197219</census-id>
+        <label>Bronze Coin of Patras (Domitian / Fountain, RPC II 234) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200089</census-id>
+    <name>fol. 206 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP DOMIT AVG GERM COS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199835</census-id>
+        <label>Quadrans of Domitian (Apollo / Raven, RIC 716)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200092</census-id>
+    <name>fol. 207 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199835</census-id>
+        <label>Quadrans of Domitian (Apollo / Raven, RIC 716)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194696</census-id>
+    <name>fol. 212 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DIVI VESP F DOMITIAN AVG P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194618</census-id>
+        <label>Sestertius of Domitian / Domitian (RIC 80) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194699</census-id>
+    <name>fol. 213 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TR P COS VIII DES VIII P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194618</census-id>
+        <label>Sestertius of Domitian / Domitian (RIC 80) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200095</census-id>
+    <name>fol. 214 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DIVI VESP F DOMITIAN AVG P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199841</census-id>
+        <label>Denarius of Domitian / Seat and Crescents (RIC 17)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197251</census-id>
+    <name>fol. 215 r</name>
+    <monuments>
+      <monument>
+        <census-id>10197210</census-id>
+        <label>Bronze Coin of Alexandria (Domitian / Apis bull, RPC II 2499) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200098</census-id>
+    <name>fol. 216 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DIVI VESP F DOMITIAN AVG P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199841</census-id>
+        <label>Denarius of Domitian / Seat and Crescents (RIC 17)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197778</census-id>
+    <name>fol. 217 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP VIIII COS VI CENSOR VI TR POTEST P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197702</census-id>
+        <label>Denarius of Domitian / Germania (RIC 326) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200103</census-id>
+    <name>fol. 218 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CAES DIVI VESP F DOMITIANVS COS VII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199843</census-id>
+        <label>Sestertius of Titus (Domitian / Minerva, RIC 330)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197768</census-id>
+    <name>fol. 219 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>PRINCEPS IVVENTVTIS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197699</census-id>
+        <label>Denarius of Titus (Domitian / Goat, RIC 267) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197715</census-id>
+    <name>fol. 221 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP XVIII COS VIIII CENS P P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197697</census-id>
+        <label>Denarius of Domitian / Minerva (RIC 666) (owner: A. Maffei)</label>
+      </monument>
+      <monument>
+        <census-id>10197821</census-id>
+        <label>Denarius of Domitian / Minerva (RIC 666) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197771</census-id>
+    <name>fol. 222 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR DIVI F DOMITIANVS COS VII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197699</census-id>
+        <label>Denarius of Titus (Domitian / Goat, RIC 267) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197128</census-id>
+    <name>fol. 223 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>PRINCEPS IVVENTVTIS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196848</census-id>
+        <label>Denarius of  Domitian / Minerva (RIC 268) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200106</census-id>
+    <name>fol. 224 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMITIANVS AVG P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199446</census-id>
+        <label>Denarius of Domitian / Wreath above Chair (RIC 10)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194532</census-id>
+    <name>fol. 227 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TR P COS VII DES VIII P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194525</census-id>
+        <label>Sestertius of Domitian / Minerva (RIC 78) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194536</census-id>
+    <name>fol. 228 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DIVI VESP F DOMITIAN AVG P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194525</census-id>
+        <label>Sestertius of Domitian / Minerva (RIC 78) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200109</census-id>
+    <name>fol. 229 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199845</census-id>
+        <label>Sestertius of Domitian / Domitian and Victory (RIC 283)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200112</census-id>
+    <name>fol. 231 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10064914</census-id>
+        <label>Sestertius of Domitian / Domitian and Citizens (RIC 608)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200115</census-id>
+    <name>fol. 232 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM P M TR P VIII CENS P P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10064914</census-id>
+        <label>Sestertius of Domitian / Domitian and Citizens (RIC 608)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194879</census-id>
+    <name>fol. 233 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194778</census-id>
+        <label>Sestertius of Domitian / Domitian Sacrificing (RIC 277) (owner: J. Strada)</label>
+      </monument>
+      <monument>
+        <census-id>10194782</census-id>
+        <label>Sestertius of Domitian / Domitian Sacrificing (RIC 637) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194886</census-id>
+    <name>fol. 234 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM COS XIIII CENS PERP P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194782</census-id>
+        <label>Sestertius of Domitian / Domitian Sacrificing (RIC 637) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194578</census-id>
+    <name>fol. 235 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>SALVTI AVGVST S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194559</census-id>
+        <label>As of Domitian / Altar (RIC 304) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10194571</census-id>
+        <label>As of Domitian / Altar (RIC 304) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200118</census-id>
+    <name>fol. 236 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM COS XII CENS PERP P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199846</census-id>
+        <label>Sestertius of Domitian / Jupiter (RIC 464)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194581</census-id>
+    <name>fol. 238 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMITIAN AVG GERM COS XI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194559</census-id>
+        <label>As of Domitian / Altar (RIC 304) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10194571</census-id>
+        <label>As of Domitian / Altar (RIC 304) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194984</census-id>
+    <name>fol. 239 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194947</census-id>
+        <label>Sestertius of Domitian / Domitian with Captive (RIC 279) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200121</census-id>
+    <name>fol. 240 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR DIVI VESP F DOMITIANVS P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199848</census-id>
+        <label>As of Titus (Domitian / Ceres, RIC 280)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200726</census-id>
+    <name>fol. 241 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>VICTORIA AVGVSTI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>VI&#13;
+C&#13;
+AV&#13;
+G</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200145</census-id>
+        <label>Sestertius of Vespasian / Victory (RIC 389)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200730</census-id>
+    <name>fol. 242 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMITIAN AVG GER COS X</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200462</census-id>
+        <label>As of Domitian / Altar (RIC 227)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200733</census-id>
+    <name>fol. 243 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>SALVTI&#13;
+AVGVSTI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200462</census-id>
+        <label>As of Domitian / Altar (RIC 227)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200736</census-id>
+    <name>fol. 244 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM AVG COS XI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200467</census-id>
+        <label>Sestertius of Domitian / Domitian and Rhenus (RIC 278)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200739</census-id>
+    <name>fol. 245 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200467</census-id>
+        <label>Sestertius of Domitian / Domitian and Rhenus (RIC 278)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194707</census-id>
+    <name>fol. 246 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVG F DOMITIANVS COS II</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194625</census-id>
+        <label>Sestertius of Domitian / Minerva (RIC 655) (owner: G. Duchoul)</label>
+      </monument>
+      <monument>
+        <census-id>10194735</census-id>
+        <label>Sestertius of Vespasian (Domitian / Spes, RIC 654) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194710</census-id>
+    <name>fol. 247 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194625</census-id>
+        <label>Sestertius of Domitian / Minerva (RIC 655) (owner: G. Duchoul)</label>
+      </monument>
+      <monument>
+        <census-id>10194735</census-id>
+        <label>Sestertius of Vespasian (Domitian / Spes, RIC 654) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200742</census-id>
+    <name>fol. 248 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP DOMIT AVG GERM</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200470</census-id>
+        <label>Quadrans of Domitian (Minerva / Olive-Branch, RIC 240)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200745</census-id>
+    <name>fol. 249 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200470</census-id>
+        <label>Quadrans of Domitian (Minerva / Olive-Branch, RIC 240)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200748</census-id>
+    <name>fol. 250 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVG F DOMITIAN COS II</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10065129</census-id>
+        <label>Dupondius of Vespasian (Domitian / Domitian, RIC 662)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200751</census-id>
+    <name>fol. 251 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>PRINCIP IVVENT S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10065129</census-id>
+        <label>Dupondius of Vespasian (Domitian / Domitian, RIC 662)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198062</census-id>
+    <name>fol. 252 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM P M TR P X</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197824</census-id>
+        <label>Denarius of Domitian / Minerva (RIC 720) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198065</census-id>
+    <name>fol. 253 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP XXII COS XVI CENS P P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197824</census-id>
+        <label>Denarius of Domitian / Minerva (RIC 720) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200754</census-id>
+    <name>fol. 254 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM P M TR P VIII CENS P P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10064905</census-id>
+        <label>Sestertius of Domitian / Domitian and Citizens (RIC 606)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200757</census-id>
+    <name>fol. 255 r</name>
+    <monuments>
+      <monument>
+        <census-id>10060138</census-id>
+        <label>Silver Coin of Lycia (Domitian / Lyre, RPC II 1503)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194995</census-id>
+    <name>fol. 256 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM COS XIII CENS PERP P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194954</census-id>
+        <label>Sestertius of Domitian / Domitian in Battle (RIC 529) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194998</census-id>
+    <name>fol. 257 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194954</census-id>
+        <label>Sestertius of Domitian / Domitian in Battle (RIC 529) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200759</census-id>
+    <name>fol. 261 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>SPQR&#13;
+OB&#13;
+CIV SER</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200476</census-id>
+        <label>Dupondius of Vespasian / Oak-Wreath (RIC 586)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195328</census-id>
+    <name>fol. 262 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM COS XIIII CENS P P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10195285</census-id>
+        <label>As of Domitian / Fortuna (RIC 544) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10196411</census-id>
+        <label>As of Domitian / Fortuna (RIC 648) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195331</census-id>
+    <name>fol. 263 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>FORTVNA AVGVST</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10195285</census-id>
+        <label>As of Domitian / Fortuna (RIC 544) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10196404</census-id>
+        <label>As of Domitian / Fortuna (RIC 380) (owner: J. Strada)</label>
+      </monument>
+      <monument>
+        <census-id>10196411</census-id>
+        <label>As of Domitian / Fortuna (RIC 648) (owner: J. Strada)</label>
+      </monument>
+      <monument>
+        <census-id>10196417</census-id>
+        <label>As of Domitian / Fortuna (RIC 707) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197945</census-id>
+    <name>fol. 264 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR AVG F DOMITIANVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197806</census-id>
+        <label>Denarius of Vespasian (Domitian / Horseman, RIC 957) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10198446</census-id>
+        <label>Denarius of Vespasian (Domitian / Horseman, RIC 957) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197948</census-id>
+    <name>fol. 265 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>COS V</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197806</census-id>
+        <label>Denarius of Vespasian (Domitian / Horseman, RIC 957) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10198446</census-id>
+        <label>Denarius of Vespasian (Domitian / Horseman, RIC 957) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200762</census-id>
+    <name>fol. 267 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP D AVG REST</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10064766</census-id>
+        <label>As of Domitian (Claudius / Minerva, RIC Domitian 829)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200765</census-id>
+    <name>fol. 273 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TR P IX IMP XV COS VIII P P CENSOR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200487</census-id>
+        <label>Aureus of Titus / Seat (RIC 121)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194964</census-id>
+    <name>fol. 274 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMITIAN AVG GERM COS XI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194934</census-id>
+        <label>Dupondius of Domitian / Shields over Vexillum (RIC 296) (J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194967</census-id>
+    <name>fol. 275 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194934</census-id>
+        <label>Dupondius of Domitian / Shields over Vexillum (RIC 296) (J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195443</census-id>
+    <name>fol. 276 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM P M TR P VIII CENS PER P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10195380</census-id>
+        <label>As of Domitian / Domitan and Tiber (RIC 627) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195446</census-id>
+    <name>fol. 277 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>COS XIIII LVD SAEC FE S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10195380</census-id>
+        <label>As of Domitian / Domitan and Tiber (RIC 627) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197135</census-id>
+    <name>fol. 278 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM P M TR P X</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196856</census-id>
+        <label>Denarius of Domitian / Minerva (RIC 721) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197138</census-id>
+    <name>fol. 279 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP XIX COS XIIII CENS P P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10203376</census-id>
+        <label>Denarius of Domitian / Minerva (RIC 669) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200768</census-id>
+    <name>fol. 280 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM COS XI CENS PERP P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200493</census-id>
+        <label>Sestertius of Domitian / Domitian and Soldiers (RIC 402)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200771</census-id>
+    <name>fol. 281 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200493</census-id>
+        <label>Sestertius of Domitian / Domitian and Soldiers (RIC 402)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200774</census-id>
+    <name>fol. 282 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES DOMIT AVG GERM COS XI CENS POT P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10056607</census-id>
+        <label>Sestertius of Domitian / Pax (RIC 354)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200777</census-id>
+    <name>fol. 283 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>PAX AVGVST</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10056607</census-id>
+        <label>Sestertius of Domitian / Pax (RIC 354)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200780</census-id>
+    <name>fol. 284 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#913;&#933;&#932; &#922;&#913;&#921;&#931;&#913;&#929; &#916;&#927;&#924;&#921;&#932;&#921;&#913;&#925;&#927;C C&#917;&#914;ACT</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10068673</census-id>
+        <label>Copper Coin of Koinon of Macedonia (Domitian / Ares, RPC II 335)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195460</census-id>
+    <name>fol. 285 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>LE</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10198835</census-id>
+        <label>Bronze Coin of Alexandria (Domitian / Apis bull, RPC II 2526) (owner: S. Erizzo)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198896</census-id>
+    <name>fol. 286 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AYT &#922;&#913;&#921;&#931; &#916;OMITIA</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10198828</census-id>
+        <label>Bronze Coin of Alexandria (Vespasian / Ibis, RPC II 2740) (owner: S. Erizzo)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200783</census-id>
+    <name>fol. 286 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AYT KAI&#931; &#916;&#927;&#924;&#921;&#932;&#921;&#913;</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200495</census-id>
+        <label>Silver Coin of Lycia (Domitian / Lyre, RPC II 1501)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198899</census-id>
+    <name>fol. 287 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>L[?]</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10198828</census-id>
+        <label>Bronze Coin of Alexandria (Vespasian / Ibis, RPC II 2740) (owner: S. Erizzo)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200786</census-id>
+    <name>fol. 288 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AYT KAICAP &#916;OMITIAN</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200505</census-id>
+        <label>Bronze Coin of Amphipolis (Domitian / Artemis Tauropolos, RPC II 341)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199126</census-id>
+    <name>fol. 290 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AYTOK KAI&#931;&#913;&#929; &#916;&#927;&#924;&#921;&#932;&#921;&#913;&#925;&#927;&#931; &#931;&#917;&#914;</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10198846</census-id>
+        <label>Bronze Coin of Alexandria (Domitian / Isis, RPC II 2482) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199129</census-id>
+    <name>fol. 291 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>ETOY&#931; &#916;&#917;YTEPOY</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10198846</census-id>
+        <label>Bronze Coin of Alexandria (Domitian / Isis, RPC II 2482) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199153</census-id>
+    <name>fol. 292 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#913;&#933;&#932; &#922;&#913;&#921;&#931;&#913;P &#916;&#927;&#924;&#921;&#932;&#921;&#913;&#925;&#927;&#931;</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10198860</census-id>
+        <label>Silver Coin of Lycia (Domitian / Lyre, RPC II 1502) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199156</census-id>
+    <name>fol. 293 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#932;&#933;CT&#923; &#923;&#932;&#927;&#932; &#921;Z</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10198860</census-id>
+        <label>Silver Coin of Lycia (Domitian / Lyre, RPC II 1502) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198913</census-id>
+    <name>fol. 294 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#913;&#933;&#932; &#916;OMIT KAI&#931; &#931;EBA&#931;</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10198841</census-id>
+        <label>Copper Coin of Alexandria (Domitian / Isis, RPC II 2490) (owner: F. Veniero)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198916</census-id>
+    <name>fol. 295 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#917;&#932;&#1054;&#933;&#931; TPITOY</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10198841</census-id>
+        <label>Copper Coin of Alexandria (Domitian / Isis, RPC II 2490) (owner: F. Veniero)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200789</census-id>
+    <name>fol. 296 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>YIOC &#916;OMITIANOC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200510</census-id>
+        <label>Bronze Coin of Anazarbus (Domitian / Domitia, RPC II 1752)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200792</census-id>
+    <name>fol. 297 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#921;&#916;</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10068859</census-id>
+        <label>Tetradrachm of Alexandria (Domitian / Triumphal Arch, RPC II 2524)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200795</census-id>
+    <name>fol. 298 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DOMETIANO&#931; &#931;EBA&#931;TO&#931;</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200513</census-id>
+        <label>Bronze Coin of Mopsus (Domitian / Apollo, RPC II 1741)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199166</census-id>
+    <name>fol. 299 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CTOYC &#921;&#916; Y&#928;ATOY IZ</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10198862</census-id>
+        <label>Silver Coin of Lycia (Domitian / Lyre and Owl, RPC II 1503) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198923</census-id>
+    <name>fol. 301 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>OMONOIA AN&#920;Y KAICEN &#928;AITOY</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10198844</census-id>
+        <label>Bronze Coin of Ephesus (Domitia / Female Figure, RPC II 1093)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198906</census-id>
+    <name>fol. 304 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AYT KAI&#931;&#913;&#929; &#916;&#927;&#924;&#921;&#932;&#921;&#913;&#925;&#927;&#931; &#931;&#917;&#914; &#915;&#917;&#929;&#924;</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10198835</census-id>
+        <label>Bronze Coin of Alexandria (Domitian / Apis bull, RPC II 2526) (owner: S. Erizzo)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200798</census-id>
+    <name>fol. 305 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>Ls</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200517</census-id>
+        <label>Bronze Coin of Alexandria (Domitian / Apsis-Bull, RPC II 2581)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200801</census-id>
+    <name>fol. 306 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#931; K &#916;OM</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200523</census-id>
+        <label>Brass Coin of Pergamum (Domitian and Domitia / Hygieia and Asclepius, RPC II 921)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200804</census-id>
+    <name>fol. 307 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#927;&#928; &#913;&#923;&#921;&#937;&#925;&#920;&#917;</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200523</census-id>
+        <label>Brass Coin of Pergamum (Domitian and Domitia / Hygieia and Asclepius, RPC II 921)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200807</census-id>
+    <name>fol. 308 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#916;OMITIANOC KAICAP</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200501</census-id>
+        <label>Bronze Coin of Neokydos Tharsa (Domitian / Zeus, RPC II 46)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200810</census-id>
+    <name>fol. 309 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>E&#928;&#921; NEOKY&#916;OYOY</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200501</census-id>
+        <label>Bronze Coin of Neokydos Tharsa (Domitian / Zeus, RPC II 46)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200813</census-id>
+    <name>fol. 310 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#916;OMITIANOC KAICAP</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200501</census-id>
+        <label>Bronze Coin of Neokydos Tharsa (Domitian / Zeus, RPC II 46)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200816</census-id>
+    <name>fol. 311 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>C&#932;&#927;&#933;&#1057; &#925;&#917;&#927;&#933; &#921;&#917;&#929;&#927;&#933;</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10068803</census-id>
+        <label>Tetradrachm of Cyprus (Vespasian / Temple of Aphrodite at Paphos, RPC II 1802)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199136</census-id>
+    <name>fol. 316 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#916;OMITIANOC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10198853</census-id>
+        <label>Bronze Coin of Neokydos Tharsa (Domitian / Temple, RPC II 48) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199139</census-id>
+    <name>fol. 317 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>NEOKO</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10198853</census-id>
+        <label>Bronze Coin of Neokydos Tharsa (Domitian / Temple, RPC II 48) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198884</census-id>
+    <name>fol. 318 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#916;OMITIANOC KAIC &#916;OMITIA CEBACTH</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>AP</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197237</census-id>
+        <label>Bronze Coin of Cibyra (Domitian / Jupiter, RPC II 1262) (owner: S. Erizzo)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198888</census-id>
+    <name>fol. 319 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#917;&#928;&#921; &#916;PAIEPE&#937;C K&#923;A Y BIANTOC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>KI N</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197237</census-id>
+        <label>Bronze Coin of Cibyra (Domitian / Jupiter, RPC II 1262) (owner: S. Erizzo)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198874</census-id>
+    <name>fol. 326 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CAP &#916;OMITIANOC CEB</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10198821</census-id>
+        <label>Bronze Coin of Alexandria (Domitian / Sarapis, RPC II 2493) (owner: F. Veniero)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198877</census-id>
+    <name>fol. 327 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>ETOY&#931; TPOI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10198821</census-id>
+        <label>Bronze Coin of Alexandria (Domitian / Sarapis, RPC II 2493) (owner: F. Veniero)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199146</census-id>
+    <name>fol. 329 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription> E&#915;OI &#928;&#917;&#924;&#928;YOY</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10198856</census-id>
+        <label>Bronze Coin of Alexandria (Domitian / Ammon, RPC II 2513) (owner: G. Romano)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199183</census-id>
+    <name>fol. 331 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>K&#937;I&#937;N</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10198866</census-id>
+        <label>Bronze Coin of Cos (Domitian / Club, RPC II 1165) (owner: J. Strada) </label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197244</census-id>
+    <name>fol. 338 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AYT KAI&#931;&#913;&#929; &#916;&#927;&#924;&#921;&#932;&#921;&#913;&#925;&#927;&#931; &#931;&#917;&#914;</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197210</census-id>
+        <label>Bronze Coin of Alexandria (Domitian / Apis bull, RPC II 2499) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199173</census-id>
+    <name>fol. 339 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#934;&#913;&#923;&#927;N&#13;
+NEAYION&#13;
+&#931;&#913;&#924;&#913;PE&#13;
+AI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10198864</census-id>
+        <label>Bronze coin of Neapolis (Domitian / Legend, RPC II 2218) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+</documents>
