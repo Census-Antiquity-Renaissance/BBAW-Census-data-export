@@ -5,6 +5,23 @@
 * (getestet mit) Python 3.6.5
 * Es wird davon ausgegangen, dass die PostgresQL-Datenbank bereits eingerichtet ist.
 
+## Installation mit pipenv
+
+Falls noch nicht geschehen, sollte `pipenv` installiert werden:
+
+```bash
+pip install --user pipenv
+```
+
+Im Projektverzeichnis kann dann die virtuelle Python-Umgebung installiert und geladen werden:
+
+```bash
+pipenv install
+pipenv shell
+```
+
+Nun ist die Umgebung mit allen Abhängigkeiten geladen. `python` lädt nun nun nicht mehr einfach den Systeminterpreter, sondern den der virtuellen Umgebung.
+
 ## Einrichtung des Skripts
 
 Im Verzeichnis `config` liegt die Datei `env.example.py`. Diese im selben Ordner kopieren zu `env.py`. In dieser Datei wird die Datenbankverbindung gespeichert. 
