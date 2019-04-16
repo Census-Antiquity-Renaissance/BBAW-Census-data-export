@@ -10,7 +10,7 @@ def read_record_list():
     Read all records from a file
     :return:
     """
-    filepath = Path(__file__).parent / ".." / "doc" / "Strada-Einzelbaende-IDs.csv"
+    filepath = Path(__file__).parent / ".." / "doc" / "Baende-IDs.csv"
     records = []
     with open(filepath, "r") as csvfile:
         csvreader = csv.DictReader(csvfile, delimiter="\t")
@@ -37,11 +37,13 @@ def prepare_docs(documents) -> dict:
     return docs
 
 
-def doc_to_xml(doc_id, documents, transcription_list) -> etree.Element:
+def doc_to_xml(doc_id, documents, transcription_list, transcription_type) -> etree.Element:
     """
     Transform SQL document list to xml element
     :param doc_id:
     :param documents:
+    :param transcription_list
+    :param transcription_type
     :return:
     """
     # Create <document/> node for the census document
@@ -88,7 +90,7 @@ def doc_to_xml(doc_id, documents, transcription_list) -> etree.Element:
 
         # Create <inscription type>
         inscription_type = etree.Element("inscription-type")
-        inscription_type.text = "coin legend"
+        inscription_type.text = transcription_type
 
         transcription.append(inscription)
         transcription.append(inscription_type)
@@ -163,11 +165,12 @@ def fetch_documents(cursor, record_id, level=1):
     return cursor.fetchall()
 
 
-def fetch_transcriptions(cursor, documents):
+def fetch_transcriptions(cursor, documents, transcription=10006614):
     """
     Fetch all transcriptions for a list of documents
     :param cursor: Database cursor
     :param documents: List of documents
+    :param transcription: ID of transcription to use, default is "coin legend"
     :return: All transcriptions for all documents
     """
     # Create a base query
@@ -176,7 +179,7 @@ def fetch_transcriptions(cursor, documents):
             FROM census.cs_document_inscription as I, census.cs_document_inscription__attribute__doc_inscr_type as IType
             WHERE I.lk_document_id = {document_id}
             AND IType.lk_document_inscription_id = I.id
-            AND IType.lk_attribute_id = 10006614;
+            AND IType.lk_attribute_id = {transcription_id};
             """
 
     # Filter all unique document ids to query later
@@ -191,7 +194,7 @@ def fetch_transcriptions(cursor, documents):
             transcriptions[doc_id] = []
 
         # Fetch all transcriptions for a given document id
-        query = base_query.format(document_id=doc_id)
+        query = base_query.format(document_id=doc_id, transcription_id=transcription)
         cursor.execute(query)
         results = cursor.fetchall()
 
@@ -202,6 +205,25 @@ def fetch_transcriptions(cursor, documents):
     return transcriptions
 
 
+def prepare_transcription_types(cursor, record_list):
+    """
+    Prepare the transcription type map
+    :param cursor
+    :param record_list:
+    :return:
+    """
+    # Create a base query
+    query = """
+                SELECT id, name
+                FROM census.cs_attribute as attr
+                WHERE attr.id IN (1000595, 10006614)
+                """
+    cursor.execute(query)
+    results = cursor.fetchall()
+
+    return {item[0]: item[1] for item in results}
+
+
 def main():
     parent_records = read_record_list()
 
@@ -209,9 +231,11 @@ def main():
     connection = psycopg2.connect("dbname={dbname} user={user}".format(dbname=env.DB_DATABASE, user=env.DB_USERNAME))
     cursor = connection.cursor()
 
+    transcription_type_map = prepare_transcription_types(cursor, parent_records)
+
     for record in parent_records:
 
-        if record["census_id"] == "" or record["nesting_level"] == "":
+        if record["census_id"] == "" or record["nesting_level"] is None:
             continue
 
         # Get all documents and monuments
@@ -221,7 +245,7 @@ def main():
             continue
 
         # Get all transcriptions for all documents
-        transcriptions = fetch_transcriptions(cursor, documents)
+        transcriptions = fetch_transcriptions(cursor, documents, record["transcription_id"])
 
         # Create a root <documents/> element that should contain all child documents
         root = etree.Element("documents")
@@ -230,7 +254,7 @@ def main():
         docs = prepare_docs(documents)
 
         for doc_id in docs:
-            xml = doc_to_xml(doc_id, docs[doc_id], transcriptions[doc_id])
+            xml = doc_to_xml(doc_id, docs[doc_id], transcriptions[doc_id], transcription_type_map[int(record["transcription_id"])])
             root.append(xml)
 
         write_output(root, record["census_id"])
