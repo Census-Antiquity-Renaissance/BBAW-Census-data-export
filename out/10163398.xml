@@ -1194,7 +1194,7 @@ S C&#13;
     <monuments>
       <monument>
         <census-id>10196786</census-id>
-        <label>Denarius of Titus / Curule chair (RIC 108) (owner: A. Agust&#237;n)</label>
+        <label>Denarius of Titus / Curule Chair (RIC 108) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
   </document>
@@ -1210,7 +1210,7 @@ S C&#13;
     <monuments>
       <monument>
         <census-id>10196786</census-id>
-        <label>Denarius of Titus / Curule chair (RIC 108) (owner: A. Agust&#237;n)</label>
+        <label>Denarius of Titus / Curule Chair (RIC 108) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
   </document>
@@ -2338,6 +2338,22 @@ S C&#13;
     </monuments>
   </document>
   <document>
+    <census-id>10199901</census-id>
+    <name>fol. 186 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T VESP AVG REST S C </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10184897</census-id>
+        <label>Sestertius of Titus (Claudius / Spes with flower, RIC 475)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
     <census-id>10199907</census-id>
     <name>fol. 187 r</name>
     <transcriptions>
@@ -2446,6 +2462,22 @@ S C&#13;
       <monument>
         <census-id>10199976</census-id>
         <label>Dupondius of Titus (Radiate Head of Titus / Victory Carrying Shield, RIC 445)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199982</census-id>
+    <name>fol. 196 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T VESP AVG REST</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10184897</census-id>
+        <label>Sestertius of Titus (Claudius / Spes with flower, RIC 475)</label>
       </monument>
     </monuments>
   </document>

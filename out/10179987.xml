@@ -1475,7 +1475,7 @@ ad occyput. T. AVG</inscription>
     <monuments>
       <monument>
         <census-id>10186025</census-id>
-        <label>Copper coin of Perinthus (Nero / Oak wreath, RPC I 1754) (owner: P. Ramez)</label>
+        <label>Copper coin of Perinthus (Nero / Oak Wreath, RPC I 1754) (owner: P. Ramez)</label>
       </monument>
     </monuments>
   </document>
@@ -1583,7 +1583,7 @@ ad occyput. T. AVG</inscription>
     <monuments>
       <monument>
         <census-id>10184514</census-id>
-        <label>Semis of Nero / Decorated table (RIC 246) (owner: J. Strada)</label>
+        <label>Semis of Nero / Decorated Table (RIC 246) (owner: J. Strada)</label>
       </monument>
     </monuments>
   </document>
@@ -1607,7 +1607,7 @@ ad occyput. T. AVG</inscription>
       </monument>
       <monument>
         <census-id>10187435</census-id>
-        <label>Contorniate (Nero / Nero in battle, Alf&#246;ldi 173) (owner: G. Grimani)</label>
+        <label>Contorniate (Nero / Nero in Battle, Alf&#246;ldi 173) (owner: G. Grimani)</label>
       </monument>
     </monuments>
   </document>
@@ -1677,7 +1677,7 @@ ad occyput. T. AVG</inscription>
     <monuments>
       <monument>
         <census-id>10187298</census-id>
-        <label>Contorniate (Nero / Nero in battle, Alf&#246;ldi 173) (owner: A. Agust&#237;n)</label>
+        <label>Contorniate (Nero / Nero in Battle, Alf&#246;ldi 173) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
   </document>
@@ -1687,7 +1687,7 @@ ad occyput. T. AVG</inscription>
     <monuments>
       <monument>
         <census-id>10187398</census-id>
-        <label>Contorniate (Nero / Nero as victor, Alf&#246;ldi 190) (owner: A. Agust&#237;n)</label>
+        <label>Contorniate (Nero / Nero as Victor, Alf&#246;ldi 190) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
   </document>
@@ -1725,7 +1725,7 @@ ad occyput. T. AVG</inscription>
       </monument>
       <monument>
         <census-id>10185717</census-id>
-        <label>Denarius of Nero (Nero and Agrippina Minor / Oak-wreath, RIC 2) (owner: J. Strada)</label>
+        <label>Denarius of Nero (Nero and Agrippina Minor / Oak Wreath, RIC 2) (owner: J. Strada)</label>
       </monument>
     </monuments>
   </document>
@@ -1755,7 +1755,7 @@ ad occyput. T. AVG</inscription>
     <monuments>
       <monument>
         <census-id>10187127</census-id>
-        <label>Denarius of Nero / Military signs (RIC 68) (owner: A. Agust&#237;n)</label>
+        <label>Denarius of Nero / Military Signs (RIC 68) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
   </document>
@@ -1795,7 +1795,7 @@ ad occyput. T. AVG</inscription>
     <monuments>
       <monument>
         <census-id>10185820</census-id>
-        <label>Aureus of Nero / Oak-wreath (RIC 13) (owner: A. Agust&#237;n)</label>
+        <label>Aureus of Nero / Oak Wreath (RIC 13) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
   </document>
@@ -1933,7 +1933,7 @@ ad occyput. T. AVG</inscription>
     <monuments>
       <monument>
         <census-id>10186025</census-id>
-        <label>Copper coin of Perinthus (Nero / Oak wreath, RPC I 1754) (owner: P. Ramez)</label>
+        <label>Copper coin of Perinthus (Nero / Oak Wreath, RPC I 1754) (owner: P. Ramez)</label>
       </monument>
     </monuments>
   </document>
@@ -2181,7 +2181,7 @@ ad occyput. T. AVG</inscription>
     <monuments>
       <monument>
         <census-id>10186327</census-id>
-        <label>As of Galba (Laureate Head of Galba / Aequitas, RIC 494)</label>
+        <label>As of Galba / Aequitas (RIC 494) (owner: A. Agust&#237;n)</label>
       </monument>
     </monuments>
   </document>
@@ -2896,6 +2896,16 @@ ad occyput. T. AVG</inscription>
     </monuments>
   </document>
   <document>
+    <census-id>10189853</census-id>
+    <name>fol. 120 v, no. 15</name>
+    <monuments>
+      <monument>
+        <census-id>10212333</census-id>
+        <label>Dupondius of Vespasian / Felicitas (RIC 715) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
     <census-id>10189867</census-id>
     <name>fol. 121 r, no. 18</name>
     <monuments>
@@ -3205,11 +3215,11 @@ ad occyput. T. AVG</inscription>
     <monuments>
       <monument>
         <census-id>10190913</census-id>
-        <label>Sestertius of Vespasian / Titus and Domitian (RIC 144) (G. Calestano)</label>
+        <label>Sestertius of Vespasian / Titus and Domitian (RIC 144) (owner: G. Calestano)</label>
       </monument>
       <monument>
         <census-id>10190921</census-id>
-        <label>Cistophorus of Domitian / Corn-Ears (RIC 852) (G. Calestano)</label>
+        <label>Cistophorus of Domitian / Corn-Ears (RIC 852) (owner: G. Calestano)</label>
       </monument>
     </monuments>
   </document>
@@ -3270,6 +3280,16 @@ ad occyput. T. AVG</inscription>
       <monument>
         <census-id>10191068</census-id>
         <label>Sestertius of Vespasian / Roma (RIC 108)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10191082</census-id>
+    <name>fol. 132 r, no. 74</name>
+    <monuments>
+      <monument>
+        <census-id>10056517</census-id>
+        <label>Sestertius of Vespasian / Congiarium (RIC 420)</label>
       </monument>
     </monuments>
   </document>
@@ -4531,6 +4551,10 @@ ad occyput. T. AVG</inscription>
         <census-id>10196772</census-id>
         <label>Denarius of Titus (Laureate Head of Titus / Curule Chair Below Wreath, RIC 109) (owner: A. Agust&#237;n)</label>
       </monument>
+      <monument>
+        <census-id>10196786</census-id>
+        <label>Denarius of Titus / Curule Chair (RIC 108) (owner: A. Agust&#237;n)</label>
+      </monument>
     </monuments>
   </document>
   <document>
@@ -5081,7 +5105,7 @@ ad occyput. T. AVG</inscription>
     <monuments>
       <monument>
         <census-id>10194934</census-id>
-        <label>Dupondius of Domitian / Shields over Vexillum (RIC 296) (J. Strada)</label>
+        <label>Dupondius of Domitian / Shields over Vexillum (RIC 296) (owner: J. Strada)</label>
       </monument>
     </monuments>
   </document>

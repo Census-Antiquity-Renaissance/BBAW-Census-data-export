@@ -209,6 +209,38 @@
     </monuments>
   </document>
   <document>
+    <census-id>10189858</census-id>
+    <name>fol. 020 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES VESP AVG P M T P COS V CENS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10212333</census-id>
+        <label>Dupondius of Vespasian / Felicitas (RIC 715) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10189861</census-id>
+    <name>fol. 021 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>FELICITAS PVBLICA</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10212333</census-id>
+        <label>Dupondius of Vespasian / Felicitas (RIC 715) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
     <census-id>10191169</census-id>
     <name>fol. 025 r</name>
     <transcriptions>
@@ -3170,6 +3202,22 @@ TOS</inscription>
     </monuments>
   </document>
   <document>
+    <census-id>10191086</census-id>
+    <name>fol. 260 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CONGIAR P R DAT PONT MAX TR POT X P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10056517</census-id>
+        <label>Sestertius of Vespasian / Congiarium (RIC 420)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
     <census-id>10191059</census-id>
     <name>fol. 263 r</name>
     <transcriptions>
@@ -3689,7 +3737,7 @@ PVBLICAE</inscription>
     <monuments>
       <monument>
         <census-id>10190913</census-id>
-        <label>Sestertius of Vespasian / Titus and Domitian (RIC 144) (G. Calestano)</label>
+        <label>Sestertius of Vespasian / Titus and Domitian (RIC 144) (owner: G. Calestano)</label>
       </monument>
     </monuments>
   </document>
@@ -3699,7 +3747,7 @@ PVBLICAE</inscription>
     <monuments>
       <monument>
         <census-id>10190921</census-id>
-        <label>Cistophorus of Domitian / Corn-Ears (RIC 852) (G. Calestano)</label>
+        <label>Cistophorus of Domitian / Corn-Ears (RIC 852) (owner: G. Calestano)</label>
       </monument>
     </monuments>
   </document>
@@ -4095,10 +4143,6 @@ PVBLICAE</inscription>
         <census-id>10192469</census-id>
         <label>Bronze Coin of Cyprus (Vespasian / Temple of Aphrodite, RPC II 1819) (owner: J. Strada)</label>
       </monument>
-      <monument>
-        <census-id>10192724</census-id>
-        <label>Bronze Coin of Alexandria (Vespasian / Isis, RPC II 2434) (owner: R. Odoni)</label>
-      </monument>
     </monuments>
   </document>
   <document>
@@ -4115,6 +4159,34 @@ PVBLICAE</inscription>
         <census-id>10192469</census-id>
         <label>Bronze Coin of Cyprus (Vespasian / Temple of Aphrodite, RPC II 1819) (owner: J. Strada)</label>
       </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192501</census-id>
+    <name>fol. 333 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#931; &#931;&#917;&#914;&#913; &#927;VE&#931;&#928;&#913;&#931;&#921;&#913;NOC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10192724</census-id>
+        <label>Bronze Coin of Alexandria (Vespasian / Isis, RPC II 2434) (owner: R. Odoni)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10192504</census-id>
+    <name>fol. 334 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>L&#916;</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
       <monument>
         <census-id>10192724</census-id>
         <label>Bronze Coin of Alexandria (Vespasian / Isis, RPC II 2434) (owner: R. Odoni)</label>

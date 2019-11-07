@@ -1198,11 +1198,11 @@ OB CIVIS SER</inscription>
     <name>fol. 104 r</name>
     <transcriptions>
       <transcription>
-        <inscription>CAESAR DIVI AVG F AVG  MTRPOTXXIIII</inscription>
+        <inscription>SC</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
       <transcription>
-        <inscription>SC</inscription>
+        <inscription>CAESAR DIVI AVG F AVG  MTRPOTXXIIII</inscription>
         <inscription-type>coin legend</inscription-type>
       </transcription>
     </transcriptions>
@@ -1825,7 +1825,7 @@ L&#916;</inscription>
       </monument>
       <monument>
         <census-id>10184961</census-id>
-        <label>Quadrans of Nero (Owl on Altar / Olive-branch, RIC 262)</label>
+        <label>Quadrans of Nero (Owl on Altar / Olive-Branch, RIC 262)</label>
       </monument>
     </monuments>
   </document>
@@ -2017,11 +2017,11 @@ L&#916;</inscription>
     <monuments>
       <monument>
         <census-id>10182923</census-id>
-        <label>Aureus of Claudius (Head of Nero / Simpulum, lituus, tripod, patera, RIC 76)</label>
+        <label>Aureus of Claudius (Head of Nero / Simpulum, Lituus, Tripod, Patera, RIC 76)</label>
       </monument>
       <monument>
         <census-id>10182924</census-id>
-        <label>Denarius of Claudius (Head of Nero / Simpulum, lituus, tripod, patera, RIC 77)</label>
+        <label>Denarius of Claudius (Head of Nero / Simpulum, Lituus, Tripod, Patera, RIC 77)</label>
       </monument>
     </monuments>
   </document>
@@ -2037,11 +2037,11 @@ L&#916;</inscription>
     <monuments>
       <monument>
         <census-id>10182923</census-id>
-        <label>Aureus of Claudius (Head of Nero / Simpulum, lituus, tripod, patera, RIC 76)</label>
+        <label>Aureus of Claudius (Head of Nero / Simpulum, Lituus, Tripod, Patera, RIC 76)</label>
       </monument>
       <monument>
         <census-id>10182924</census-id>
-        <label>Denarius of Claudius (Head of Nero / Simpulum, lituus, tripod, patera, RIC 77)</label>
+        <label>Denarius of Claudius (Head of Nero / Simpulum, Lituus, Tripod, Patera, RIC 77)</label>
       </monument>
     </monuments>
   </document>
@@ -2057,11 +2057,11 @@ L&#916;</inscription>
     <monuments>
       <monument>
         <census-id>10182923</census-id>
-        <label>Aureus of Claudius (Head of Nero / Simpulum, lituus, tripod, patera, RIC 76)</label>
+        <label>Aureus of Claudius (Head of Nero / Simpulum, Lituus, Tripod, Patera, RIC 76)</label>
       </monument>
       <monument>
         <census-id>10182924</census-id>
-        <label>Denarius of Claudius (Head of Nero / Simpulum, lituus, tripod, patera, RIC 77)</label>
+        <label>Denarius of Claudius (Head of Nero / Simpulum, Lituus, Tripod, Patera, RIC 77)</label>
       </monument>
     </monuments>
   </document>
@@ -2077,11 +2077,11 @@ L&#916;</inscription>
     <monuments>
       <monument>
         <census-id>10182923</census-id>
-        <label>Aureus of Claudius (Head of Nero / Simpulum, lituus, tripod, patera, RIC 76)</label>
+        <label>Aureus of Claudius (Head of Nero / Simpulum, Lituus, Tripod, Patera, RIC 76)</label>
       </monument>
       <monument>
         <census-id>10182924</census-id>
-        <label>Denarius of Claudius (Head of Nero / Simpulum, lituus, tripod, patera, RIC 77)</label>
+        <label>Denarius of Claudius (Head of Nero / Simpulum, Lituus, Tripod, Patera, RIC 77)</label>
       </monument>
     </monuments>
   </document>

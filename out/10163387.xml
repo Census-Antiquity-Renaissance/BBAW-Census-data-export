@@ -1840,6 +1840,22 @@ S C</inscription>
     </monuments>
   </document>
   <document>
+    <census-id>10169407</census-id>
+    <name>fol. 249 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DIVI IVLI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10169187</census-id>
+        <label>Denarius of L. Aemilius Buca (Caesar / Venus, RRC 480.7b) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
     <census-id>10172413</census-id>
     <name>fol. 254 r</name>
     <transcriptions>

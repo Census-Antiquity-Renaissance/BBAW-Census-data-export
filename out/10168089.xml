@@ -518,18 +518,18 @@ uero lauri ramus adparet.</inscription>
     <name>fol. 095 v, no. 20</name>
     <transcriptions>
       <transcription>
+        <inscription>In una parte.&#13;
+Elephas sinistrorsum uestigia praemit, chymeram&#13;
+obterere uidetur, infra quem legitur. CAESAR.&#13;
+</inscription>
+        <inscription-type>description</inscription-type>
+      </transcription>
+      <transcription>
         <inscription>In altera. &#13;
 Signa sunt religionis hoc ordine collocata, sym-&#13;
 pullum, aspergulum, securis cum infixo apri&#13;
 capite, et Albogalerus. Sine ullis literis.&#13;
 Nummum eum argenteum apud me seruo.</inscription>
-        <inscription-type>description</inscription-type>
-      </transcription>
-      <transcription>
-        <inscription>In una parte.&#13;
-Elephas sinistrorsum uestigia praemit, chymeram&#13;
-obterere uidetur, infra quem legitur. CAESAR.&#13;
-</inscription>
         <inscription-type>description</inscription-type>
       </transcription>
     </transcriptions>
@@ -958,18 +958,18 @@ Augustinus Romae.</inscription>
     <name>fol. 110 r, no. 33</name>
     <transcriptions>
       <transcription>
+        <inscription>In una parte.&#13;
+Augustus iam senex effigiatus, ad laenam intue[n]s,&#13;
+absq[ue] ullo capitis ornatu, cum inscriptione&#13;
+ad ceruicem. DIVI. F.</inscription>
+        <inscription-type>description</inscription-type>
+      </transcription>
+      <transcription>
         <inscription>In altera.&#13;
 Corona triumphalis uidetur, cum inscriptione&#13;
 centrali. DIVOS IVLIVS. Hic nummus&#13;
 est magna amplitudinis aereus, apud D.&#13;
 M. Antonium Palosium Rome est.</inscription>
-        <inscription-type>description</inscription-type>
-      </transcription>
-      <transcription>
-        <inscription>In una parte.&#13;
-Augustus iam senex effigiatus, ad laenam intue[n]s,&#13;
-absq[ue] ullo capitis ornatu, cum inscriptione&#13;
-ad ceruicem. DIVI. F.</inscription>
         <inscription-type>description</inscription-type>
       </transcription>
     </transcriptions>
@@ -4223,12 +4223,6 @@ apud D. Achillem Maphaeum Romae.</inscription>
     <name>fol. 159 r, no. 71</name>
     <transcriptions>
       <transcription>
-        <inscription>In una parte.&#13;
-Augustus cernitur, nudato capite, laeua facie,&#13;
-cum nominis additione. CAESAR AVGVSTVS.</inscription>
-        <inscription-type>description</inscription-type>
-      </transcription>
-      <transcription>
         <inscription>In altera.&#13;
 Harpija stat conuersa, summo corpore, pube&#13;
 tenus uirgo alata, caudam habens penna-&#13;
@@ -4237,6 +4231,12 @@ tibiam tenens. Circumscriptio. P. PETRO-&#13;
 NIVS TVRPILIANVS III. VIR. Nummum&#13;
 eum argenteum uidi Romae apud D. Anto-&#13;
 nium Augustinum.</inscription>
+        <inscription-type>description</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>In una parte.&#13;
+Augustus cernitur, nudato capite, laeua facie,&#13;
+cum nominis additione. CAESAR AVGVSTVS.</inscription>
         <inscription-type>description</inscription-type>
       </transcription>
     </transcriptions>
@@ -5064,15 +5064,6 @@ nominis epigraphe. CAESAR AVGVSTVS.</inscription>
     <name>fol. 166 r - 166 v, no. 107</name>
     <transcriptions>
       <transcription>
-        <inscription>In una parte.&#13;
-Augustus habetur, sinistro ore, laureatus,&#13;
-[fol. 166 v] &#13;
-cui ad synciput stella affixa. Inscriptio&#13;
-uero huiusmodi erat. M. SANQVINIVS&#13;
-IIIVIR.</inscription>
-        <inscription-type>description</inscription-type>
-      </transcription>
-      <transcription>
         <inscription>In altera.&#13;
 Minerua pacifera dextrorsum pergit, galea&#13;
 pennata, clypeoque stella impressa insignito&#13;
@@ -5081,6 +5072,15 @@ tenens. Inscriptio. AVGVSTI DIVI FIL....&#13;
 Apud Franciscum Venierum hic nummus&#13;
 argenteus mediocris a nobis conspectus&#13;
 est Venetijs.</inscription>
+        <inscription-type>description</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>In una parte.&#13;
+Augustus habetur, sinistro ore, laureatus,&#13;
+[fol. 166 v] &#13;
+cui ad synciput stella affixa. Inscriptio&#13;
+uero huiusmodi erat. M. SANQVINIVS&#13;
+IIIVIR.</inscription>
         <inscription-type>description</inscription-type>
       </transcription>
     </transcriptions>
@@ -6325,12 +6325,6 @@ est apud D. Achillem Maphaeum Romae.</inscription>
     <name>fol. 177 r, no. 19</name>
     <transcriptions>
       <transcription>
-        <inscription>In una parte.&#13;
-Augustus habetur aperto capite, inorna-&#13;
-tus, non addita ulla epigraphe.</inscription>
-        <inscription-type>description</inscription-type>
-      </transcription>
-      <transcription>
         <inscription>In altera.&#13;
 Fornix Augusto structus, cuius in fasti-&#13;
 gio summo quadriga contra spectatore&#13;
@@ -6338,6 +6332,12 @@ inducitur. frontispicium tale habet&#13;
 monumentum. IMP. CAESAR. Nummus&#13;
 hic aureus uisus est a me apud D.&#13;
 Achillem Maphaeum Romae.</inscription>
+        <inscription-type>description</inscription-type>
+      </transcription>
+      <transcription>
+        <inscription>In una parte.&#13;
+Augustus habetur aperto capite, inorna-&#13;
+tus, non addita ulla epigraphe.</inscription>
         <inscription-type>description</inscription-type>
       </transcription>
     </transcriptions>
