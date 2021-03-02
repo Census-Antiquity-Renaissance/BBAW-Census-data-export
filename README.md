@@ -12,11 +12,6 @@ Die ursprünglichen Anforderungen für die Datenextraktion lauteten:
 "name" aus "cs_document"; zugehörige "id" mit Präfix "CensusID"; "id" des verlinkten Monuments aus "cs_monument" mit Präfix "CensusID"; zugehöriger "label_name" (ggf. fortlaufend "id" und "label_name" weiterer verlinkter Monumente)
 * D.h. mehrere Exporte mit jeweils indivdueller "Ausgangs-ID". 
 
-## Remotes
-
-* git.bbaw.de: @git.bbaw.de:/git/census/census_api.git@
-* "Gitea":https://telotawebdev.bbaw.de/gitea/telota/census-muenzexport
-
 ## Voraussetzung
 
 * (getestet mit) Python 3.6.5
