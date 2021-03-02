@@ -2,7 +2,7 @@
 
 ## Über dieses Projekt
 
-Ursprünglich sollten aus einem SQL-Export der Datenbank unter http://www.census.de/ die in den Erfurter Strada-Bänden beinhalteten Münzen extrahiert werden. Später gab es immer wieder ähnliche Anfragen für spezifische Datenexporte  an das Census-Team. Da es über den Exporter der easydb 4 zu kompliziert schien, wurde von Oliver Pohl dieses Python-Projekt aufgesetzt, um solche Exporte zu erzeugen. Der Output erfolgt als XML.
+Ursprünglich sollten aus einem SQL-Export der Datenbank unter http://www.census.de/ die in den Erfurter Strada-Bänden beinhalteten Münzen extrahiert werden. Später gab es immer wieder ähnliche Anfragen für spezifische Datenexporte  an das Census-Team. Da es über den Exporter der easydb 4 zu kompliziert schien, wurde dieses Python-Projekt aufgesetzt, um solche Exporte zu erzeugen. Der Output erfolgt als XML.
 
 Die ursprünglichen Anforderungen für die Datenextraktion lauteten:
 * Finde alle dritten Kinder vom Wien-Dok (alle vierten Kinder vom Gotha-Dok), die mit einem Monument verlinkt sind. Gib jedes Dokument einmal aus, mit den IDs aller verlinkten Monumente.
@@ -93,3 +93,17 @@ Die Anfragen in dem Ordner sind nicht direkt ins Hauptskript @muenzexport.py@ ei
 
 "etree":https://docs.python.org/2/library/xml.etree.elementtree.html (XML-Library für Python)
 .text = Inhalt eines XML-Elements
+
+## AutorInnenschaft
+
+© 2018-2020 by Berlin-Brandenburg Academy of Sciences and Humanities
+
+Developed by TELOTA, a DH working group of the Berlin-Brandenburg Academey of Sciences and Humanities http://www.bbaw.de/telota telota@bbaw.de. Lead Developer: Oliver Pohl
+
+## License
+
+This repository is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+The developers are in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+See http://www.gnu.org/licenses/.
