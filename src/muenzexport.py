@@ -1,8 +1,8 @@
-from config import env
 from lxml import etree
 from pathlib import Path
 import psycopg2
 import csv
+# AN quick and dirty - unused import statement: from config import env
 
 
 def read_record_list():
@@ -228,39 +228,47 @@ def main():
     parent_records = read_record_list()
 
     # Open the database connection
-    connection = psycopg2.connect("dbname={dbname} user={user}".format(dbname=env.DB_DATABASE, user=env.DB_USERNAME))
-    cursor = connection.cursor()
+    # AN quick and dirty: hardcodierte DB-Infos. Habe außerdem mehr DB-Infos übergeben und Fehlerhandling ergänzt. Alt:
+    # connection = psycopg2.connect("dbname={dbname} user={user}".format(dbname=env.DB_DATABASE, user=env.DB_USERNAME))
+    # connection = psycopg2.connect("dbname={dbname} user={user}".format(dbname="census", user="census"))
+    # cursor = connection.cursor()
 
-    transcription_type_map = prepare_transcription_types(cursor, parent_records)
+    try:
+        connection = psycopg2.connect(database="census", user="census", password="census", host="localhost", port="5432")
+    except Exception as e:
+        print("[!] ", e)
+    else:
+        cursor = connection.cursor()
 
-    for record in parent_records:
+        transcription_type_map = prepare_transcription_types(cursor, parent_records)
 
-        if record["census_id"] == "" or record["nesting_level"] is None:
-            continue
+        for record in parent_records:
 
-        # Get all documents and monuments
-        documents = fetch_documents(cursor, int(record["census_id"]), int(record["nesting_level"]))
+            if record["census_id"] == "" or record["nesting_level"] is None:
+                continue
 
-        if len(documents) == 0:
-            continue
+            # Get all documents and monuments
+            documents = fetch_documents(cursor, int(record["census_id"]), int(record["nesting_level"]))
 
-        # Get all transcriptions for all documents
-        transcriptions = fetch_transcriptions(cursor, documents, record["transcription_id"])
+            if len(documents) == 0:
+                continue
 
-        # Create a root <documents/> element that should contain all child documents
-        root = etree.Element("documents")
+            # Get all transcriptions for all documents
+            transcriptions = fetch_transcriptions(cursor, documents, record["transcription_id"])
 
-        # get all documents as tuples
-        docs = prepare_docs(documents)
+            # Create a root <documents/> element that should contain all child documents
+            root = etree.Element("documents")
 
-        for doc_id in docs:
-            xml = doc_to_xml(doc_id, docs[doc_id], transcriptions[doc_id], transcription_type_map[int(record["transcription_id"])])
-            root.append(xml)
+            # get all documents as tuples
+            docs = prepare_docs(documents)
 
-        write_output(root, record["census_id"])
+            for doc_id in docs:
+                xml = doc_to_xml(doc_id, docs[doc_id], transcriptions[doc_id], transcription_type_map[int(record["transcription_id"])])
+                root.append(xml)
 
-    cursor.close()
-    connection.close()
+            write_output(root, record["census_id"])
 
-
+        cursor.close()
+    finally:
+        connection.close()
 main()

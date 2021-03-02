@@ -1,0 +1,2973 @@
+<?xml version="1.0" encoding="utf-8"?>
+<documents>
+  <document>
+    <census-id>10194118</census-id>
+    <name>fol. 009 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TITVS CAES VESP AVG P M TR P P P COS VIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194075</census-id>
+        <label>Sestertius of Titus (Laureate Head of Titus / Spes Holding Flower, RIC 170) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10194412</census-id>
+        <label>Sestertius of Titus (Laureate Head of Titus / Spes Holding Flower, RIC 170) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194124</census-id>
+    <name>fol. 010 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194075</census-id>
+        <label>Sestertius of Titus (Laureate Head of Titus / Spes Holding Flower, RIC 170) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10194082</census-id>
+        <label>Sestertius of Titus (Laureate Head of Titus / Spes Holding Flower, RIC 168) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10194412</census-id>
+        <label>Sestertius of Titus (Laureate Head of Titus / Spes Holding Flower, RIC 170) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194027</census-id>
+    <name>fol. 011 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>T CAES VESPASIAN IMP PON TR POT COS II</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10191078</census-id>
+        <label>Sestertius of Vespasian / Congiarium (RIC 420) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194032</census-id>
+    <name>fol. 012 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CONG T P RI IMP DAT SC</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10191078</census-id>
+        <label>Sestertius of Vespasian / Congiarium (RIC 420) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194370</census-id>
+    <name>fol. 013 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T CAES VESP AVG P M TR P P P COS VIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194362</census-id>
+        <label>Sestertius of Titus (Laureate Head of Titus / Judaea Seated on Arms, RIC 152) (owner: A. Maffei)</label>
+      </monument>
+      <monument>
+        <census-id>10195533</census-id>
+        <label>Sestertius of Vespasian / Iudaea Capta (RIC 167) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195541</census-id>
+    <name>fol. 014 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IVDAEA CAPTA S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10195533</census-id>
+        <label>Sestertius of Vespasian / Iudaea Capta (RIC 167) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195602</census-id>
+    <name>fol. 015 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T CAES VESP AVG P M TR COS VIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10195593</census-id>
+        <label>Sestertius of Titus / Titus and Domitian (RIC 159) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195605</census-id>
+    <name>fol. 016 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>PIETAS AVGVSTI, S C </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10195593</census-id>
+        <label>Sestertius of Titus / Titus and Domitian (RIC 159) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198434</census-id>
+    <name>fol. 019 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>T CAES IMP VESP CENS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10069388</census-id>
+        <label>Denarius of Vespasian (Titus / Titus on Curule Chair, RIC 695)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198443</census-id>
+    <name>fol. 020 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>PONTIF TR POT</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10069388</census-id>
+        <label>Denarius of Vespasian (Titus / Titus on Curule Chair, RIC 695)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195659</census-id>
+    <name>fol. 022 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CERES AVGVST</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10195654</census-id>
+        <label>Dupondius of Titus (Laureate Head of Titus / Ceres Holding Corn Ears and Torch, RIC 187) (owner: J. Strada) </label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198453</census-id>
+    <name>fol. 023 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TITVS CAES VESPASIAN AVG P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10198450</census-id>
+        <label>Denarius of Titus (Laureate Head of Titus / Ceres, RIC 90)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198456</census-id>
+    <name>fol. 024 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CERES AVGVST</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10198450</census-id>
+        <label>Denarius of Titus (Laureate Head of Titus / Ceres, RIC 90)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197682</census-id>
+    <name>fol. 026 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>VESTA</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197670</census-id>
+        <label>Aureus of Vespasian (Titus / Temple of Vesta, RIC 530) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198461</census-id>
+    <name>fol. 027 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T CAES VESP AVG P M TR P COS VIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10064414</census-id>
+        <label>Sestertius of Titus / Roma and Titus (RIC Titus 166)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198464</census-id>
+    <name>fol. 028 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10064414</census-id>
+        <label>Sestertius of Titus / Roma and Titus (RIC Titus 166)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198475</census-id>
+    <name>fol. 029 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T CAES VESP AVG P M TR P P P COS VIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10025440</census-id>
+        <label>Sestertius of Titus / Annona (RIC 137)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195241</census-id>
+    <name>fol. 031 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T CAES VESP AVG P M TR P P P COS VIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194204</census-id>
+        <label>Sestertius of Titus (Laureate Head of Titus / Pax Holding Branch and Cornucopiae, RIC 154) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195245</census-id>
+    <name>fol. 032 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>ITALIA</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10195270</census-id>
+        <label>Denarius of Antoninus Pius (Laureate Head of Antoninus Pius / Italia Holding Cornucopiae, RIC III 73c) (owner: A. Conteschi) </label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197520</census-id>
+    <name>fol. 033 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DIVVS TITVS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197501</census-id>
+        <label>Aureus of Traian (Laureate Head of Divus Titus, RIC 833) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10197507</census-id>
+        <label>Aureus of Titus / Curule Chair (RIC 107) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197517</census-id>
+    <name>fol. 034 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP CAES TRAIAN AVG GER DACI P P REST</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197501</census-id>
+        <label>Aureus of Traian (Laureate Head of Divus Titus, RIC 833) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198516</census-id>
+    <name>fol. 037 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>T CAES VESPASIAN IMP III PON TR POT II COS II</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10198509</census-id>
+        <label>Dupondius of Vespasian (Radiate Head of Titus / Roma Holding Victory and Spear, RIC 483)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198519</census-id>
+    <name>fol. 038 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>ROMA VICTRIX S C </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10198509</census-id>
+        <label>Dupondius of Vespasian (Radiate Head of Titus / Roma Holding Victory and Spear, RIC 483)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10193952</census-id>
+    <name>fol. 039 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>T CAES IMP PONTR P COS II CENS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10193940</census-id>
+        <label>As of Vespasian (Titus / Temple of Capitoline Jupiter, RIC 638) (owner: W. Imhoff)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10193955</census-id>
+    <name>fol. 040 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10193940</census-id>
+        <label>As of Vespasian (Titus / Temple of Capitoline Jupiter, RIC 638) (owner: W. Imhoff)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197664</census-id>
+    <name>fol. 041 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>T CAESAR IMP VESPASIAN</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197654</census-id>
+        <label>Aureus of Vespasian (Head of Titus / Aeternitas, RIC 856) (owner:  H. Agninus)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197667</census-id>
+    <name>fol. 042 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AETERNITAS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197654</census-id>
+        <label>Aureus of Vespasian (Head of Titus / Aeternitas, RIC 856) (owner:  H. Agninus)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195676</census-id>
+    <name>fol. 046 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10195666</census-id>
+        <label>Dupondius of Titus (Radiate Head of Titus / Fountain on Plinth, RIC 205) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194289</census-id>
+    <name>fol. 047 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T CAES VESP AVG P M TR P COS VIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194309</census-id>
+        <label>Dupondius of Titus / Salus (RIC 204) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10195666</census-id>
+        <label>Dupondius of Titus (Radiate Head of Titus / Fountain on Plinth, RIC 205) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194294</census-id>
+    <name>fol. 048 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>SALVS AVG S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194270</census-id>
+        <label>Dupondius of Titus / Salus (RIC 203) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10194309</census-id>
+        <label>Dupondius of Titus / Salus (RIC 204) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198479</census-id>
+    <name>fol. 049 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>T CAES IMP AVG F TR P COS V CENSOR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10063098</census-id>
+        <label>Dupondius of Vespasian (Titus / Felicitas, RIC Vespasian 1252)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197078</census-id>
+    <name>fol. 050 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AVG ERIE</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197067</census-id>
+        <label>Denarius of Vespasian (Titus / Oak-wreath, RIC 1435) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197345</census-id>
+    <name>fol. 051 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TITVS CAES VESPASIAN AVG P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197340</census-id>
+        <label>Denarius of Titus / Seat and thunderbolt (RIC 120) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10197549</census-id>
+        <label>Aureus of Titus / Seat (RIC 117) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197348</census-id>
+    <name>fol. 052 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TR P IX IMP XV COS VIII P P </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197340</census-id>
+        <label>Denarius of Titus / Seat and thunderbolt (RIC 120) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10197549</census-id>
+        <label>Aureus of Titus / Seat (RIC 117) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198937</census-id>
+    <name>fol. 055 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T CAES VESP AVG P M T R P PP COS VIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10067013</census-id>
+        <label>Denarius of Titus (Domitian / Clasped Hands, RIC 96)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198940</census-id>
+    <name>fol. 056 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>PRINCEPS IVVENTVTIS </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10067013</census-id>
+        <label>Denarius of Titus (Domitian / Clasped Hands, RIC 96)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198947</census-id>
+    <name>fol. 057 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T CAES VESPAS AVG P M TR P P P COS VIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10198943</census-id>
+        <label>Sestertius of Titus / Annona (RIC 136)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198957</census-id>
+    <name>fol. 058 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T CAES VESP AVG P M TR P P P COS VIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10025440</census-id>
+        <label>Sestertius of Titus / Annona (RIC 137)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198950</census-id>
+    <name>fol. 059 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T CAES VESP AVG P M TR P P P COS VIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10198943</census-id>
+        <label>Sestertius of Titus / Annona (RIC 136)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198984</census-id>
+    <name>fol. 062 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AVGVSTI CAES DES II</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200189</census-id>
+        <label>Aureus of Domitian (Laureate Head of Domitian / Minerva Holding Victory and Sceptre, RIC 61)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194130</census-id>
+    <name>fol. 063 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T CAES DIVI VESP F AVG P M TR P P P COS VIII &#13;
+S C&#13;
+</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194092</census-id>
+        <label>Sestertius of Titus (Divus Vespasian in Elephant Quadriga / S C, RIC 258) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194133</census-id>
+    <name>fol. 064 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DIVO AVG VESPA S P Q R</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194092</census-id>
+        <label>Sestertius of Titus (Divus Vespasian in Elephant Quadriga / S C, RIC 258) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195561</census-id>
+    <name>fol. 066 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10195552</census-id>
+        <label>As of Titus (Divus Augustus / Eagle, RIC 458) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199104</census-id>
+    <name>fol. 067 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>T CAES IMP PON TR P COS III CENSOR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199039</census-id>
+        <label>As of Vespasian (Laureate Head of Titus / Pax Holding Caducaeus and Branch, RIC 750)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195514</census-id>
+    <name>fol. 068 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>SECVRITAS PVBLICA S C </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10195591</census-id>
+        <label>Dupondius of Titus / Securitas (RIC 210) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195647</census-id>
+    <name>fol. 070 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CONCORDIA AVG S C </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10195578</census-id>
+        <label>Dupondius of Vespasian (Radiate Head of Titus / Concordia, RIC 613) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10198970</census-id>
+    <name>fol. 072 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>COS V</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10068359</census-id>
+        <label>Denarius of Vespasian (Titus / Bull, RIC 858)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199112</census-id>
+    <name>fol. 073 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>T CAES IMP VESP CENS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199109</census-id>
+        <label>Denarius of Vespasian (Laureate Head of Titus / Salus Holding Patera, RIC 518)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199335</census-id>
+    <name>fol. 076 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>COS VIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10054594</census-id>
+        <label>Denarius of Vespasian / Mars (RIC 937)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197491</census-id>
+    <name>fol. 077 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TITVS CAES VESPASIAN AVG P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197482</census-id>
+        <label>Aureus of Titus (Laureate Head of Titus / Curule Chair with Wreath, RIC 106) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197494</census-id>
+    <name>fol. 078 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TR P IX IMP XV COS VIII P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197482</census-id>
+        <label>Aureus of Titus (Laureate Head of Titus / Curule Chair with Wreath, RIC 106) (owner: J. J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197464</census-id>
+    <name>fol. 080 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>VIC AVG</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197448</census-id>
+        <label>Aureus of Vespasian (Laureate Head of Titus / Victory on Globe, RIC 367) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197101</census-id>
+    <name>fol. 081 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TITVS CAES VESPASIAN AVG P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197119</census-id>
+        <label>Denarius of Titus (Laureate Head of Titus / Draped Square Seat, RIC 125) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197104</census-id>
+    <name>fol. 082 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TR P IX IMP XV COS VIII P P </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197091</census-id>
+        <label>Denarius of Titus (Laureate Head of Titus / Draped Seat, RIC 124) (owner: J. Fugger)</label>
+      </monument>
+      <monument>
+        <census-id>10197119</census-id>
+        <label>Denarius of Titus (Laureate Head of Titus / Draped Square Seat, RIC 125) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199430</census-id>
+    <name>fol. 083 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TITVS CAES VESPASIAN AVG P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199427</census-id>
+        <label>Aureus of Titus (Laureate Head of Titus / Capricorn Below Globe, RIC 17)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194373</census-id>
+    <name>fol. 084 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IVD CAP S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194362</census-id>
+        <label>Sestertius of Titus (Laureate Head of Titus / Judaea Seated on Arms, RIC 152) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199350</census-id>
+    <name>fol. 085 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TITVS CAES VESPASIAN AVG P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199346</census-id>
+        <label>Dupondius of Titus / Salus (RIC 204) </label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194063</census-id>
+    <name>fol. 086 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>VESTA S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194050</census-id>
+        <label>Sestertius of Titus / Vesta (RIC 175) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194060</census-id>
+    <name>fol. 087 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T CAES VESP AVG P M TR P COS VIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194050</census-id>
+        <label>Sestertius of Titus / Vesta (RIC 175) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199353</census-id>
+    <name>fol. 088 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>SALVS AVG S C </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199346</census-id>
+        <label>Dupondius of Titus / Salus (RIC 204) </label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199436</census-id>
+    <name>fol. 089 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T CAES VESP AVG P M TR P P P COS VII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199434</census-id>
+        <label>As of Titus (Laureate Head of Titus / Victory Holding Wreath and Palm, RIC 77)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195621</census-id>
+    <name>fol. 090 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>FECILITAS PVBLICA S C </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10195608</census-id>
+        <label>Sestertius of Titus / Felicitas (RIC 143) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199357</census-id>
+    <name>fol. 091 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T CAES VESP AVG P M TR P P P COS VIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10025440</census-id>
+        <label>Sestertius of Titus / Annona (RIC 137)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194354</census-id>
+    <name>fol. 092 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194339</census-id>
+        <label>Quadrans of Titus (Minerva / Wreath of Laurel, RIC 254) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199340</census-id>
+    <name>fol. 093 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TITVS CAES VESPASIANVS AVG P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10062104</census-id>
+        <label>Denarius of Titus / Quadriga (RIC 25)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199343</census-id>
+    <name>fol. 094 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TR P VIIII IMP XIIII COS VII P P </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10062104</census-id>
+        <label>Denarius of Titus / Quadriga (RIC 25)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194219</census-id>
+    <name>fol. 095 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T CAES VESP AVG P M T R P P P COS VIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194197</census-id>
+        <label>As of Titus (Laureate Head of Titus / Victory Holding Wreath and Palm, RIC 246) (owner: A. Conteschi)</label>
+      </monument>
+      <monument>
+        <census-id>10194812</census-id>
+        <label>Sestertius of Titus (Laureate Head of Titus / Captive and Judaea Next to Palm Tree, RIC 145) (owner: J. Strada) </label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194821</census-id>
+    <name>fol. 096 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IVDAEA CAPTA S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194812</census-id>
+        <label>Sestertius of Titus (Laureate Head of Titus / Captive and Judaea Next to Palm Tree, RIC 145) (owner: J. Strada) </label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200182</census-id>
+    <name>fol. 097 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DIVO AVG T DIVI VESP F VESPASIAN</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10057653</census-id>
+        <label>Sestertius of Domitian (Titus / Colosseum, RIC 131)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199523</census-id>
+    <name>fol. 098 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T CAES DIVI VESP AVG P M TR P P P COS VIII S C </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199520</census-id>
+        <label>Sestertius of Titus (Divus Vespasian in Quadriga / S C, RIC 257)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199529</census-id>
+    <name>fol. 100 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IVDAEA CAPTA S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199527</census-id>
+        <label>Dupondius of Vespasian (Radiate Head of Vespasian / Judaea, RIC 271)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196800</census-id>
+    <name>fol. 101 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TITVS CAES VESPASIAN AVG P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196786</census-id>
+        <label>Denarius of Titus / Curule Chair (RIC 108) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196803</census-id>
+    <name>fol. 102 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TR P IX IMP XV COS VIII P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196786</census-id>
+        <label>Denarius of Titus / Curule Chair (RIC 108) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194637</census-id>
+    <name>fol. 103 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T CAES VESP AVG P M TR P P P COS VIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194621</census-id>
+        <label>Sestertius of Titus / Vespasian and Titus (RIC 162) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194640</census-id>
+    <name>fol. 104 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>PROVIDEN AVG SC </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194621</census-id>
+        <label>Sestertius of Titus / Vespasian and Titus (RIC 162) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197377</census-id>
+    <name>fol. 105 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TITVS CAES VESPASIAN AVG P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197367</census-id>
+        <label>Denarius of Titus / Tripod (RIC Titus 128) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197380</census-id>
+    <name>fol. 106 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TR P IX IMP XV COS VIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197367</census-id>
+        <label>Denarius of Titus / Tripod (RIC Titus 128) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199539</census-id>
+    <name>fol. 107 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T CAES VESP AVG P M TR P COS VIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199536</census-id>
+        <label>Dupondius of Titus (Radiate Head of Titus / Ceres, RIC 190)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196524</census-id>
+    <name>fol. 109 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>T CAES IMP VESP PON TR POT</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196496</census-id>
+        <label>Denarius of Vespasian (Laureate Head of Titus / Neptune on Globe, RIC 366) (owner: J. Fugger) </label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196527</census-id>
+    <name>fol. 110 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>NEPTVNO</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196496</census-id>
+        <label>Denarius of Vespasian (Laureate Head of Titus / Neptune on Globe, RIC 366) (owner: J. Fugger) </label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199546</census-id>
+    <name>fol. 111 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>T CAES IMP PON TR P COS III CENS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199543</census-id>
+        <label>As of Vespasian (Laureate Head of Titus / Victory Holding Wreath and Palm, RIC 755)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194429</census-id>
+    <name>fol. 112 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>VICTORIA AVGVST S C </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194420</census-id>
+        <label>As of Vespasian / Victory (RIC 454) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10199543</census-id>
+        <label>As of Vespasian (Laureate Head of Titus / Victory Holding Wreath and Palm, RIC 755)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199549</census-id>
+    <name>fol. 114 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>ANNONA AVG</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10065413</census-id>
+        <label>Denarius of Titus / Annona (RIC 2)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194018</census-id>
+    <name>fol. 116 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194009</census-id>
+        <label>Sestertius of Vespasian (Titus / Titus in quadriga, RIC 431) (owner: P. A. Manilio)</label>
+      </monument>
+      <monument>
+        <census-id>10195544</census-id>
+        <label>Sestertius of Vespasian (Titus / Titus in quadriga, RIC 431) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199556</census-id>
+    <name>fol. 119 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>T CAES IMP AVG F TR P COS VI CENSOR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199554</census-id>
+        <label>As of Vespasian (Laureate Head of Titus / Rectangular Altar, RIC 1280)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194243</census-id>
+    <name>fol. 120 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>FELICIT PVBLIC, S C </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194235</census-id>
+        <label>Sestertius of Titus / Felicitas (RIC 143) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197361</census-id>
+    <name>fol. 121 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TITVS CAES VESPASIAN AVG P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197351</census-id>
+        <label>Denarius of Titus / Dolphin around anchor (RIC 112) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197364</census-id>
+    <name>fol. 122 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TR P IX IMP XV COS VIII P P </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197351</census-id>
+        <label>Denarius of Titus / Dolphin around anchor (RIC 112) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199560</census-id>
+    <name>fol. 124 r</name>
+    <monuments>
+      <monument>
+        <census-id>10068340</census-id>
+        <label>Denarius of Vespasian / Vespasian and Judaea (RIC 1558)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196824</census-id>
+    <name>fol. 125 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TITVS CAESAR VESPASI AVG P M </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196806</census-id>
+        <label>Denarius of Titus / Capricorn (RIC 19) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196831</census-id>
+    <name>fol. 126 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TR P VIIII IMP XIIII COS VII P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196806</census-id>
+        <label>Denarius of Titus / Capricorn (RIC 19) (owner: J. Fugger)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199565</census-id>
+    <name>fol. 127 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>T CAES IMP AVG F TR P COS VI CENSOR</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199563</census-id>
+        <label>Sestertius of Vespasian (Laureate Head of Titus / Roma, RIC 1248)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199571</census-id>
+    <name>fol. 128 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199569</census-id>
+        <label>Sestertius of Titus (Laureate Head of Domitian / Roma, RIC 313)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199575</census-id>
+    <name>fol. 129 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>T CAES IMP PON TR P COS IIII CENS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199039</census-id>
+        <label>As of Vespasian (Laureate Head of Titus / Pax Holding Caducaeus and Branch, RIC 750)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195229</census-id>
+    <name>fol. 130 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10195220</census-id>
+        <label>Sestertius of Titus (Divus Vespasianus / Mars, RIC 371) (owner: A. Corvino)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199579</census-id>
+    <name>fol. 132 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>VIC AVG VICTORIA AVGVSTI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10068549</census-id>
+        <label>Sestertius of Vespasian (Titus / Victory, RIC 433)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196853</census-id>
+    <name>fol. 133 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TITVS CAES VESPASIAN AVG P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196840</census-id>
+        <label>Denarius of Titus / Venus (RIC 34) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196859</census-id>
+    <name>fol. 134 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TR P VIIII IMP XIII I COS VII P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196840</census-id>
+        <label>Denarius of Titus / Venus (RIC 34) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194454</census-id>
+    <name>fol. 136 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AETERNIT AVG S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194447</census-id>
+        <label>As of Titus / Aeternitas (RIC 217) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194115</census-id>
+    <name>fol. 139 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T CAES VESP AVG P M TR P P P COS VIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194082</census-id>
+        <label>Sestertius of Titus (Laureate Head of Titus / Spes Holding Flower, RIC 168) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194121</census-id>
+    <name>fol. 140 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194075</census-id>
+        <label>Sestertius of Titus (Laureate Head of Titus / Spes Holding Flower, RIC 170) (owner: A. Agust&#237;n)</label>
+      </monument>
+      <monument>
+        <census-id>10194082</census-id>
+        <label>Sestertius of Titus (Laureate Head of Titus / Spes Holding Flower, RIC 168) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194441</census-id>
+    <name>fol. 141 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>T CAES VESPASIAN IMP PONT TR POT COS II</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194432</census-id>
+        <label>Sestertius of Vespasian (Titus / Titus riding, RIC 429) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194444</census-id>
+    <name>fol. 142 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194432</census-id>
+        <label>Sestertius of Vespasian (Titus / Titus riding, RIC 429) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199589</census-id>
+    <name>fol. 143 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T CAES VESPA AVG P M TR P P P COS VIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199586</census-id>
+        <label>Sestertius of Titus (Laureate Head of Titus / Roma Holding Victory, RIC 163)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199594</census-id>
+    <name>fol. 144 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>ROMA S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10068501</census-id>
+        <label>Sestertius of Vespasian (Titus / Roma, RIC 1247)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196889</census-id>
+    <name>fol. 145 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TITVS CAES VESPASIAN AVG P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196875</census-id>
+        <label>Denarius of Titus (Laureate Head of Titus / Radiate Male Statue on Rostral Column, RIC 10) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196897</census-id>
+    <name>fol. 146 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TR P VIIII COS VII P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196875</census-id>
+        <label>Denarius of Titus (Laureate Head of Titus / Radiate Male Statue on Rostral Column, RIC 10) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199599</census-id>
+    <name>fol. 147 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>T CAES IMP PON TR P COS IIII CENS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199598</census-id>
+        <label>As of Vespasian (Laureate Head of Titus / Pax, RIC 748)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194127</census-id>
+    <name>fol. 148 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>GENIO P R&#13;
+</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194086</census-id>
+        <label>As of Titus (Laureate Head of Titus / Genius Sacrificing Over Altar and Holding Cornucopiae, RIC 227) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197334</census-id>
+    <name>fol. 149 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TITVS CAES VESPASIAN AVG P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197324</census-id>
+        <label>Denarius of Titus / Elephant (RIC 115) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197337</census-id>
+    <name>fol. 150 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TR P IX IMP XV COS VIII P P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197324</census-id>
+        <label>Denarius of Titus / Elephant (RIC 115) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199724</census-id>
+    <name>fol. 151 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>T CAESAR VESPASIANVS IMP IIII PONT TR POT IIII COS III</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199721</census-id>
+        <label>Sestertius of Vespasian (Laureate Head of Titus / Titus and Captive, RIC 562)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199728</census-id>
+    <name>fol. 153 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T CAES VESP AVG P M TR P COS VIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199346</census-id>
+        <label>Dupondius of Titus / Salus (RIC 204) </label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199732</census-id>
+    <name>fol. 154 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>ROMA S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199586</census-id>
+        <label>Sestertius of Titus (Laureate Head of Titus / Roma Holding Victory, RIC 163)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199736</census-id>
+    <name>fol. 156 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>VICTORIA AVGVSTI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10053953</census-id>
+        <label>Denarius of Vespasian / Victory (RIC 362)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196752</census-id>
+    <name>fol. 157 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TITVS CAES VESPAS AVG P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196718</census-id>
+        <label>Denarius of Titus (Laureate Head of Titus / Male Captive, RIC 12) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196755</census-id>
+    <name>fol. 158 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TR POT XIIII COS VII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10203280</census-id>
+        <label>Denarius of Vespasian (Titus / Captive and Trophy, RIC 1076)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194513</census-id>
+    <name>fol. 159 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>T CAESAR VESPASIAN IMP IIII PON TR POT II COS II</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194477</census-id>
+        <label>Sestertius of Vespasian (Laureate Head of Titus / Domitian Riding, RIC 486) (owner: A. Conteschi) </label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194522</census-id>
+    <name>fol. 160 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>CAESAR DOMITIANVS DES</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194482</census-id>
+        <label>Sestertius of Vespasian (Titus / Domitian riding, RIC 418) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199744</census-id>
+    <name>fol. 161 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>T CAES IMP VESP CENS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10057728</census-id>
+        <label>Aureus of Vespasian (Titus / Titus on Curule Chair, RIC 555)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199747</census-id>
+    <name>fol. 162 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>PONTIF MAXIM</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10057728</census-id>
+        <label>Aureus of Vespasian (Titus / Titus on Curule Chair, RIC 555)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199760</census-id>
+    <name>fol. 163 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>T CAES IMP PON TR P COS III CENS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199755</census-id>
+        <label>As of Vespasian (Laureate Head of Titus / Spes Holding Flower, RIC 751)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199763</census-id>
+    <name>fol. 164 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>VICTORIA AVG</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10062528</census-id>
+        <label>Sestertius of Titus / Victory (RIC 181)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197060</census-id>
+    <name>fol. 165 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TITVS CAES VESPASIAN AVG P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197040</census-id>
+        <label>Denarius of Titus / Ceres (RIC 22) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197063</census-id>
+    <name>fol. 166 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TR P IIII IMP XIIII COS VII P P </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197040</census-id>
+        <label>Denarius of Titus / Ceres (RIC 22) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194229</census-id>
+    <name>fol. 167 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T CAES VESP AVG PON T R P COS I III</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194210</census-id>
+        <label>Sestertius of Titus / Pax (RIC 155) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194232</census-id>
+    <name>fol. 168 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>PAX AVGVSTA S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194210</census-id>
+        <label>Sestertius of Titus / Pax (RIC 155) (owner: A. Conteschi)</label>
+      </monument>
+      <monument>
+        <census-id>10194568</census-id>
+        <label>Aureus of Vespasian (Titus / Pax, RIC 782) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199768</census-id>
+    <name>fol. 169 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TITVS CAES VESP AVG P M TR P P P COS VIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199767</census-id>
+        <label>Sestertius of Titus (Laureate Head of Titus / Vesta Holding Palladium and Sceptre, RIC 178)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197424</census-id>
+    <name>fol. 171 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TITVS CAES VESPASIAN AVG P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197383</census-id>
+        <label>Denarius of Titus / Trophy and captives (RIC 102) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197430</census-id>
+    <name>fol. 172 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>COS VIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197404</census-id>
+        <label>Denarius of Vespasian / Oxen (RIC 943) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199773</census-id>
+    <name>fol. 173 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TITVS CAES VESPASIAN AVG P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10062104</census-id>
+        <label>Denarius of Titus / Quadriga (RIC 25)</label>
+      </monument>
+      <monument>
+        <census-id>10068555</census-id>
+        <label>Aureus of Titus / Quadriga (RIC 24)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199776</census-id>
+    <name>fol. 174 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TR P VIIII IMP XV COS VII P P S C </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10062104</census-id>
+        <label>Denarius of Titus / Quadriga (RIC 25)</label>
+      </monument>
+      <monument>
+        <census-id>10068555</census-id>
+        <label>Aureus of Titus / Quadriga (RIC 24)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194263</census-id>
+    <name>fol. 175 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T CAES VESP AVG P M TR P COS VIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194250</census-id>
+        <label>Sestertius of Titus / Temple of Jupiter (RIC 172) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194266</census-id>
+    <name>fol. 176 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194250</census-id>
+        <label>Sestertius of Titus / Temple of Jupiter (RIC 172) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199787</census-id>
+    <name>fol. 177 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>T CAES IMP VES PONT TR P</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199783</census-id>
+        <label>Dupondius of Vespasian (Laureate Head of Titus / Neptune, RIC 365)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199790</census-id>
+    <name>fol. 178 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>NEP RED</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199783</census-id>
+        <label>Dupondius of Vespasian (Laureate Head of Titus / Neptune, RIC 365)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10197391</census-id>
+    <name>fol. 180 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TR P IX IMP XV COS VIII P P </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10197383</census-id>
+        <label>Denarius of Titus / Trophy and captives (RIC 102) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199799</census-id>
+    <name>fol. 181 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>T CAES IMP PONT TR P COS III CENS</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199039</census-id>
+        <label>As of Vespasian (Laureate Head of Titus / Pax Holding Caducaeus and Branch, RIC 750)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199807</census-id>
+    <name>fol. 182 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>PROVIDENT AVGVST, S </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199796</census-id>
+        <label>Sestertius of Titus (Head of Titus / Vespasian and Titus Holding Globe and Rudder, RIC 161)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194044</census-id>
+    <name>fol. 183 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T CAES VESP AVG P M TR P P P COS VIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194035</census-id>
+        <label>Sestertius of Titus / Annona (RIC 136) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10194047</census-id>
+    <name>fol. 184 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>ANNONA AVG</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10194035</census-id>
+        <label>Sestertius of Titus / Annona (RIC 136) (owner: A. Conteschi)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199814</census-id>
+    <name>fol. 185 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DIVVS AVG VESPAS PAT</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199811</census-id>
+        <label>Sestertius of Titus (Divus Vespasian / Judaea, RIC 369)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199901</census-id>
+    <name>fol. 186 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T VESP AVG REST S C </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10184897</census-id>
+        <label>Sestertius of Titus (Claudius / Spes with flower, RIC 475)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199907</census-id>
+    <name>fol. 187 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP TITVS CAES VESPASIAN AVG P M</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199905</census-id>
+        <label>Aureus of Titus (Laureate Head of Titus / Venus Holding Helmet and Spear, RIC 14)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199916</census-id>
+    <name>fol. 189 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T CAES VESP AVG P M TR P P P COS VIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199911</census-id>
+        <label>Sestertius of Titus (Laureate Head of Titus / Annona Holding Sack of Corn-Ears, RIC 139)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199946</census-id>
+    <name>fol. 190 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>ANNONA AVGVST S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199492</census-id>
+        <label>Sestertius of Domitian / Annona and Ceres (RIC 349)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199957</census-id>
+    <name>fol. 191 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T CAES VESP AVG P M TR P P P COS VIII</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10025440</census-id>
+        <label>Sestertius of Titus / Annona (RIC 137)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196157</census-id>
+    <name>fol. 193 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DIVVS AVGVSTVS PATER</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196147</census-id>
+        <label>As of Titus (Laureate Head of Divus Augustus / Altar, RIC 450) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196160</census-id>
+    <name>fol. 194 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T VESP AVG REST, PROVIDENT </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196147</census-id>
+        <label>As of Titus (Laureate Head of Divus Augustus / Altar, RIC 450) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199978</census-id>
+    <name>fol. 195 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DIVVS AVGVSTVS PATER</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10199976</census-id>
+        <label>Dupondius of Titus (Radiate Head of Titus / Victory Carrying Shield, RIC 445)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10199982</census-id>
+    <name>fol. 196 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T VESP AVG REST</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10184897</census-id>
+        <label>Sestertius of Titus (Claudius / Spes with flower, RIC 475)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200031</census-id>
+    <name>fol. 199 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DIVVS AVG PON M S C </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10064332</census-id>
+        <label>Sestertius of Titus (Divus Augustus / S C, RIC 403)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196178</census-id>
+    <name>fol. 201 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DIVVS AVG</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196167</census-id>
+        <label>Dupondius of Titus (Radiate Head of Divus Augustus / Victory Carrying Shield, RIC 446) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196181</census-id>
+    <name>fol. 202 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T VESP AVG RESTITVIT S P Q R</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196167</census-id>
+        <label>Dupondius of Titus (Radiate Head of Divus Augustus / Victory Carrying Shield, RIC 446) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195735</census-id>
+    <name>fol. 203 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DIVVS AVGVSTVS PATER</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10195708</census-id>
+        <label>As of Augustus / Eagle (RIC Titus 469) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196214</census-id>
+    <name>fol. 205 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DIVVS AVGVSTVS PATER</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196209</census-id>
+        <label>As of Titus (Laureate Head of Divus Augustus / Altar, RIC 450) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196217</census-id>
+    <name>fol. 206 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T VESP AVG REST, PROVIDENT S C </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196209</census-id>
+        <label>As of Titus (Laureate Head of Divus Augustus / Altar, RIC 450) (owner: J. Strada)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10196206</census-id>
+    <name>fol. 207 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DIVVS AVG</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196196</census-id>
+        <label>As of Augustus / Eagle on Globe (RIC Titus 460) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195738</census-id>
+    <name>fol. 208 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T VESPASIANVS RESTITVIT</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10196196</census-id>
+        <label>As of Augustus / Eagle on Globe (RIC Titus 460) (owner: A. Maffei)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200034</census-id>
+    <name>fol. 210 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DIVVS AVG PON M S C </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10064332</census-id>
+        <label>Sestertius of Titus (Divus Augustus / S C, RIC 403)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195527</census-id>
+    <name>fol. 213 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>IMP T CAES DIVI VESP F AVG P M TR P P P COS VI &#13;
+S C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10195517</census-id>
+        <label>Sestertius of Titus  (Augustus / S C, RIC Titus 401) (owner: J. Fugger)</label>
+      </monument>
+      <monument>
+        <census-id>10196184</census-id>
+        <label>Sestertius of Titus  (Augustus / S C, RIC Titus 401) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10195530</census-id>
+    <name>fol. 214 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>DIVVS AVGVSTVS PATER</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10195517</census-id>
+        <label>Sestertius of Titus  (Augustus / S C, RIC Titus 401) (owner: J. Fugger)</label>
+      </monument>
+      <monument>
+        <census-id>10196184</census-id>
+        <label>Sestertius of Titus  (Augustus / S C, RIC Titus 401) (owner: A. Agust&#237;n)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200451</census-id>
+    <name>fol. 215 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#931;&#917;&#914;&#913;&#931;&#932;</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200508</census-id>
+        <label>Bronze Coin of Ascalon (Laureate Head of Domitian / Tyche, RPC II 2215)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200454</census-id>
+    <name>fol. 216 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#913;&#931;&#922;&#913;&#923;&#937;&#925; &#916;&#928;</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200508</census-id>
+        <label>Bronze Coin of Ascalon (Laureate Head of Domitian / Tyche, RPC II 2215)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200386</census-id>
+    <name>fol. 217 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#913;&#933;&#932;&#927;&#922;&#929; &#932;&#906;&#932;&#927;&#931; &#8230; &#915;&#917;&#929;&#924;</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200378</census-id>
+        <label>Bronze Coin of Judaea (Laureate Head of Titus / Victory, RPC II 2277) (owner: F. Veniero)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200389</census-id>
+    <name>fol. 218 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>TO HS BA / YI &#928;&#927;&#916;</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200378</census-id>
+        <label>Bronze Coin of Judaea (Laureate Head of Titus / Victory, RPC II 2277) (owner: F. Veniero)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200338</census-id>
+    <name>fol. 223 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>P&#923;I T</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200200</census-id>
+        <label>Bronze Coin of Laodicea (Turreted Bust of Laodicea / Nike, RPC II 1299) (owner: S. Erizzo)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200341</census-id>
+    <name>fol. 224 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#923;&#913;&#927;&#916;&#921;&#922;&#917;&#937;&#925; C&#923; TI</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200200</census-id>
+        <label>Bronze Coin of Laodicea (Turreted Bust of Laodicea / Nike, RPC II 1299) (owner: S. Erizzo)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200442</census-id>
+    <name>fol. 225 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#932;&#919; &#922;&#923;&#913;Y &#922;&#913;&#921; &#931;&#917;&#914;&#913;&#931;&#932;&#908;&#931;</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10063890</census-id>
+        <label>Bronze Coin of Alexandria (Head of Claudius / Bull, RPC I 5126)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200446</census-id>
+    <name>fol. 226 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AYTOKPA L B </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10063890</census-id>
+        <label>Bronze Coin of Alexandria (Head of Claudius / Bull, RPC I 5126)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200356</census-id>
+    <name>fol. 227 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>C &#922;&#913;&#921;C. C&#917;&#914;. &#913;&#933;&#932;. VE&#931;&#928;.</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200347</census-id>
+        <label>Bronze Coin of Judaea (Laureate Head of Titus / Victory, RPC II 2249) (owner: W. Imhoff)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200359</census-id>
+    <name>fol. 228 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>L I&#916;.BACI &#915;&#929;-&#921;&#928;OY</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200347</census-id>
+        <label>Bronze Coin of Judaea (Laureate Head of Titus / Victory, RPC II 2249) (owner: W. Imhoff)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200401</census-id>
+    <name>fol. 232 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>LIB</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200393</census-id>
+        <label>Bronze Coin of Alexandria (Laureate Head of Titus / Emperor in Quadriga, RPC II 2678) (owner: R. Odoni)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200371</census-id>
+    <name>fol. 233 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AYTOKP TITO&#931; KAI&#931;AP </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200363</census-id>
+        <label>Bronze Coin of Judaea (Laureate Head of Titus / Victory, RPC II 2311) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200374</census-id>
+    <name>fol. 234 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#921;&#927;&#933;&#916;&#921;&#902;&#931; PIA&#931;</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200363</census-id>
+        <label>Bronze Coin of Judaea (Laureate Head of Titus / Victory, RPC II 2311) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200411</census-id>
+    <name>fol. 235 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AYTOKP TITO&#931; KAI&#931;AP </inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200363</census-id>
+        <label>Bronze Coin of Judaea (Laureate Head of Titus / Victory, RPC II 2311) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200414</census-id>
+    <name>fol. 236 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>&#921;&#927;&#933;&#916;&#921;&#902;&#931; &#923;WP C</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200363</census-id>
+        <label>Bronze Coin of Judaea (Laureate Head of Titus / Victory, RPC II 2311) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200458</census-id>
+    <name>fol. 237 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>AYT TITOY &#922;&#913;&#906;&#931;&#913;&#929;&#927;&#931; &#931;&#904;&#914;&#913;&#931;</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200515</census-id>
+        <label>Brass Coin of Nicaea (Laureate Head of Titus / Cista, RPC II 631)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200438</census-id>
+    <name>fol. 238 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>ETOYC NEOY IEIOY H</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200430</census-id>
+        <label>Tetradrachm of Cyprus (Laureate Head of Vespasian / Temple of Paphos, RPC II 1802) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200424</census-id>
+    <name>fol. 239 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>C KAIC CEB &#913;&#933;&#932;. T VE&#931;&#928;</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200363</census-id>
+        <label>Bronze Coin of Judaea (Laureate Head of Titus / Victory, RPC II 2311) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+  <document>
+    <census-id>10200427</census-id>
+    <name>fol. 240 r</name>
+    <transcriptions>
+      <transcription>
+        <inscription>YO KS B&#923; I&#928;&#928;&#923;</inscription>
+        <inscription-type>coin legend</inscription-type>
+      </transcription>
+    </transcriptions>
+    <monuments>
+      <monument>
+        <census-id>10200363</census-id>
+        <label>Bronze Coin of Judaea (Laureate Head of Titus / Victory, RPC II 2311) (owner: P. Ramez)</label>
+      </monument>
+    </monuments>
+  </document>
+</documents>
