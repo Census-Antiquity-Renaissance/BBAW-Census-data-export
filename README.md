@@ -2,9 +2,15 @@
 
 ## Über dieses Projekt
 
-Timo Strauch hat das Census-LOD-Team gebeten für Wolfram Zieger von ATOS einen Export der in den Erfurter Strada-Bänden beinhalteten Münzen vorzubereiten. Da es über den Exporter der easydb 4 zu kompliziert schien, wurde dieses Python-Projekt aufgesetzt, um den Export zu erzeugen. Der Output erfolgt als XML.
+Ursprünglich sollten aus einem SQL-Export der Datenbank unter http://www.census.de/ die in den Erfurter Strada-Bänden beinhalteten Münzen extrahiert werden. Später gab es immer wieder ähnliche Anfragen für spezifische Datenexporte  an das Census-Team. Da es über den Exporter der easydb 4 zu kompliziert schien, wurde von Oliver Pohl dieses Python-Projekt aufgesetzt, um solche Exporte zu erzeugen. Der Output erfolgt als XML.
 
-Genaue Anforderungen siehe https://redmine.bbaw.de/issues/10232. Weitere Abklärungen dazu erfolgten per Mail u.ä.
+Die ursprünglichen Anforderungen für die Datenextraktion lauteten:
+* Finde alle dritten Kinder vom Wien-Dok (alle vierten Kinder vom Gotha-Dok), die mit einem Monument verlinkt sind. Gib jedes Dokument einmal aus, mit den IDs aller verlinkten Monumente.
+* Perspektivisch: Je erstem Kind dieser zwei Doks eine extra XML-Datei erzeugen.
+* Am besten wäre, wenn alles nach der ersten Angabe ("name") sortiert wäre. Dazu ist es wohl notwendig, nicht nach der allerobersten ID in Wien bzw. Gotha zu suchen, die alle Einzelbände zusammenfasst, sondern nach den nächsttieferen IDs der einzelnen Bände, denn für die wird es ja getrennte XML-Volltexte geben, außerdem werden nur so Dopplungen bzw. Probleme beim Sortieren wegen gleichlautenden "names" ausgeschlossen.
+* Benötigte Felder:
+"name" aus "cs_document"; zugehörige "id" mit Präfix "CensusID"; "id" des verlinkten Monuments aus "cs_monument" mit Präfix "CensusID"; zugehöriger "label_name" (ggf. fortlaufend "id" und "label_name" weiterer verlinkter Monumente)
+* D.h. mehrere Exporte mit jeweils indivdueller "Ausgangs-ID". 
 
 ## Remotes
 
